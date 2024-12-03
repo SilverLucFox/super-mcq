@@ -1,0 +1,2462 @@
+[
+    {
+        "question": "Which of the following is a primary function of the skeleton?",
+        "options": {
+            "A": "Digestion",
+            "B": "Support",
+            "C": "Metabolism",
+            "D": "Respiration"
+        },
+        "answer": "B) Support"
+    },
+    {
+        "question": "What does the skeleton protect?",
+        "options": {
+            "A": "Muscles",
+            "B": "Soft tissues",
+            "C": "Delicate organs such as the heart, lungs, and brain",
+            "D": "Nutrient storage"
+        },
+        "answer": "C) Delicate organs such as the heart, lungs, and brain"
+    },
+    {
+        "question": "How do bones contribute to movement?",
+        "options": {
+            "A": "By producing red blood cells",
+            "B": "By acting as levers for muscles",
+            "C": "By storing calcium",
+            "D": "By filtering waste products"
+        },
+        "answer": "B) By acting as levers for muscles"
+    },
+    {
+        "question": "Which minerals are stored in the bones?",
+        "options": {
+            "A": "Iron and magnesium",
+            "B": "Calcium and phosphate",
+            "C": "Sodium and potassium",
+            "D": "Zinc and copper"
+        },
+        "answer": "B) Calcium and phosphate"
+    },
+    {
+        "question": "What is the process of blood cell formation in the skeleton called?",
+        "options": {
+            "A": "Ossification",
+            "B": "Hematopoiesis",
+            "C": "Calcification",
+            "D": "Respiration"
+        },
+        "answer": "B) Hematopoiesis"
+    },
+    {
+        "question": "Which of the following is an example of a long bone?",
+        "options": {
+            "A": "Vertebrae",
+            "B": "Patella",
+            "C": "Metacarpals",
+            "D": "Rib"
+        },
+        "answer": "C) Metacarpals"
+    },
+    {
+        "question": "Which bone is classified as a short bone?",
+        "options": {
+            "A": "Tibia",
+            "B": "Humerus",
+            "C": "Carpals",
+            "D": "Scapula"
+        },
+        "answer": "C) Carpals"
+    },
+    {
+        "question": "Which of the following bones is flat but may be curved?",
+        "options": {
+            "A": "Ulna",
+            "B": "Sternum",
+            "C": "Fibula",
+            "D": "Metatarsal"
+        },
+        "answer": "B) Sternum"
+    },
+    {
+        "question": "What is the defining characteristic of irregular bones?",
+        "options": {
+            "A": "They are longer than they are wide.",
+            "B": "They are small and round in shape.",
+            "C": "They do not fit easily into any of the other categories.",
+            "D": "They are relatively flat."
+        },
+        "answer": "C) They do not fit easily into any of the other categories."
+    },
+    {
+        "question": "The patella (kneecap) is classified as which type of bone?",
+        "options": {
+            "A": "Long bone",
+            "B": "Irregular bone",
+            "C": "Flat bone",
+            "D": "Sesamoid bone"
+        },
+        "answer": "D) Sesamoid bone"
+    },
+    {
+        "question": "Which of the following bones is classified as a flat bone?",
+        "options": {
+            "A": "Radius",
+            "B": "Skull",
+            "C": "Fibula",
+            "D": "Tibia"
+        },
+        "answer": "B) Skull"
+    },
+    {
+        "question": "Which of the following is an example of an irregular bone?",
+        "options": {
+            "A": "Scapula",
+            "B": "Rib",
+            "C": "Vertebra",
+            "D": "Humerus"
+        },
+        "answer": "C) Vertebra"
+    },
+    {
+        "question": "Sesamoid bones are typically:",
+        "options": {
+            "A": "Large and irregularly shaped",
+            "B": "Small and round",
+            "C": "Long and narrow",
+            "D": "Relatively flat"
+        },
+        "answer": "B) Small and round"
+    },
+    {
+        "question": "What is the term for the enlarged proximal and distal ends of long bones?",
+        "options": {
+            "A": "Diaphysis",
+            "B": "Metaphyses",
+            "C": "Epiphyses",
+            "D": "Compact bone"
+        },
+        "answer": "C) Epiphyses"
+    },
+    {
+        "question": "What is the middle shaft area of a long bone called?",
+        "options": {
+            "A": "Diaphysis",
+            "B": "Epiphyses",
+            "C": "Spongy bone",
+            "D": "Metaphyses"
+        },
+        "answer": "A) Diaphysis"
+    },
+    {
+        "question": "Which type of bone forms the exterior of long bones and most of the diaphysis?",
+        "options": {
+            "A": "Spongy bone",
+            "B": "Compact bone",
+            "C": "Bone marrow",
+            "D": "Hyaline cartilage"
+        },
+        "answer": "B) Compact bone"
+    },
+    {
+        "question": "Which of the following best describes spongy bone?",
+        "options": {
+            "A": "Forms the exterior of the bone",
+            "B": "Lines the interior of the diaphysis and forms the interior of the epiphyses",
+            "C": "Is dense and compact",
+            "D": "Contains red blood cells"
+        },
+        "answer": "B) Lines the interior of the diaphysis and forms the interior of the epiphyses"
+    },
+    {
+        "question": "What is the term for the areas where the epiphyses and diaphysis join in an adult bone?",
+        "options": {
+            "A": "Metaphyses",
+            "B": "Epiphyseal plate",
+            "C": "Spongy bone",
+            "D": "Perforating fibers"
+        },
+        "answer": "A) Metaphyses"
+    },
+    {
+        "question": "In a growing bone, what structure is located in the metaphyses?",
+        "options": {
+            "A": "Epiphyseal line",
+            "B": "Hyaline cartilage (epiphyseal plate)",
+            "C": "Compact bone",
+            "D": "Bone marrow"
+        },
+        "answer": "B) Hyaline cartilage (epiphyseal plate)"
+    },
+    {
+        "question": "Bone growth stops when the epiphyseal plate cartilage becomes ossified and forms which structure?",
+        "options": {
+            "A": "Epiphyseal line",
+            "B": "Spongy bone",
+            "C": "Diaphysis",
+            "D": "Metaphysis"
+        },
+        "answer": "A) Epiphyseal line"
+    },
+    {
+        "question": "What type of cartilage covers both epiphyses of a long bone?",
+        "options": {
+            "A": "Hyaline cartilage",
+            "B": "Fibrocartilage",
+            "C": "Articular cartilage",
+            "D": "Elastic cartilage"
+        },
+        "answer": "C) Articular cartilage"
+    },
+    {
+        "question": "Which structure covers the exterior of a bone and is made of connective tissue?",
+        "options": {
+            "A": "Endosteum",
+            "B": "Periosteum",
+            "C": "Articular cartilage",
+            "D": "Spongy bone"
+        },
+        "answer": "B) Periosteum"
+    },
+    {
+        "question": "The endosteum is a connective tissue membrane that lines which of the following?",
+        "options": {
+            "A": "The outer surface of the bone",
+            "B": "The medullary cavity and cavities within spongy bone",
+            "C": "The epiphyses only",
+            "D": "The surface of the periosteum"
+        },
+        "answer": "B) The medullary cavity and cavities within spongy bone"
+    },
+    {
+        "question": "Which of the following is found within the medullary cavity of a long bone?",
+        "options": {
+            "A": "Red marrow",
+            "B": "Yellow marrow",
+            "C": "Compact bone",
+            "D": "Endosteum"
+        },
+        "answer": "B) Yellow marrow"
+    },
+    {
+        "question": "What type of marrow is responsible for producing blood cells?",
+        "options": {
+            "A": "Yellow marrow",
+            "B": "Red marrow",
+            "C": "Spongy marrow",
+            "D": "Bone marrow"
+        },
+        "answer": "B) Red marrow"
+    },
+    {
+        "question": "What is the term for the large artery that enters compact bone near the middle of the diaphysis?",
+        "options": {
+            "A": "Nutrient artery",
+            "B": "Perforating artery",
+            "C": "Epiphyseal artery",
+            "D": "Metaphyseal artery"
+        },
+        "answer": "A) Nutrient artery"
+    },
+    {
+        "question": "What is the function of the periosteum in a long bone?",
+        "options": {
+            "A": "To produce blood cells",
+            "B": "To cover the bone's exterior and serve as a site for muscle attachment",
+            "C": "To store fat",
+            "D": "To line the medullary cavity"
+        },
+        "answer": "B) To cover the bone's exterior and serve as a site for muscle attachment"
+    },
+    {
+        "question": "Which type of bone cell is responsible for building new bone and synthesizing collagen?",
+        "options": {
+            "A": "Osteocytes",
+            "B": "Osteoclasts",
+            "C": "Osteoblasts",
+            "D": "Chondrocytes"
+        },
+        "answer": "C) Osteoblasts"
+    },
+    {
+        "question": "What is the primary function of osteocytes?",
+        "options": {
+            "A": "To produce new bone tissue",
+            "B": "To resorb and break down bone tissue",
+            "C": "To maintain bone tissue and extend their processes through the bone",
+            "D": "To synthesize collagen"
+        },
+        "answer": "C) To maintain bone tissue and extend their processes through the bone"
+    },
+    {
+        "question": "Which type of bone cell is involved in the resorption and remodeling of bone tissue?",
+        "options": {
+            "A": "Osteoblasts",
+            "B": "Osteoclasts",
+            "C": "Osteocytes",
+            "D": "Chondroblasts"
+        },
+        "answer": "B) Osteoclasts"
+    },
+    {
+        "question": "Which of the following best describes osteoclasts?",
+        "options": {
+            "A": "They build new bone and control mineralization",
+            "B": "They are mature bone cells that maintain bone tissue",
+            "C": "They are giant cells that break down bone tissue",
+            "D": "They help in the synthesis of collagen fibers"
+        },
+        "answer": "C) They are giant cells that break down bone tissue"
+    },
+    {
+        "question": "Osteoblasts are responsible for the synthesis of which of the following?",
+        "options": {
+            "A": "Red blood cells",
+            "B": "Collagen and controlling mineralization",
+            "C": "Bone marrow",
+            "D": "Cartilage"
+        },
+        "answer": "B) Collagen and controlling mineralization"
+    },
+    {
+        "question": "Osteocytes are derived from which type of bone cell?",
+        "options": {
+            "A": "Osteoblasts",
+            "B": "Osteoclasts",
+            "C": "Chondrocytes",
+            "D": "Fibroblasts"
+        },
+        "answer": "A) Osteoblasts"
+    },
+    {
+        "question": "What is the basic functional unit of compact bone called?",
+        "options": {
+            "A": "Osteocyte",
+            "B": "Osteoclast",
+            "C": "Osteon",
+            "D": "Lacuna"
+        },
+        "answer": "C) Osteon"
+    },
+    {
+        "question": "What does the central (Haversian) canal of the osteon contain?",
+        "options": {
+            "A": "Osteocytes",
+            "B": "Blood vessels, lymphatic vessels, and nerves",
+            "C": "Collagen fibers",
+            "D": "Mineralized matrix"
+        },
+        "answer": "B) Blood vessels, lymphatic vessels, and nerves"
+    },
+    {
+        "question": "Where are osteocytes found in the osteon?",
+        "options": {
+            "A": "In the central canal",
+            "B": "In the lacunae",
+            "C": "In the concentric lamellae",
+            "D": "In the canaliculi"
+        },
+        "answer": "B) In the lacunae"
+    },
+    {
+        "question": "What are lacunae in the osteon?",
+        "options": {
+            "A": "The blood vessels that supply compact bone",
+            "B": "Small spaces where osteocytes reside",
+            "C": "Thin lines that connect the central canal to the osteocytes",
+            "D": "The outer membrane covering the bone"
+        },
+        "answer": "B) Small spaces where osteocytes reside"
+    },
+    {
+        "question": "What do canaliculi do in the osteon?",
+        "options": {
+            "A": "Store minerals in the compact bone",
+            "B": "Connect the lacunae to each other and to the central canal",
+            "C": "Contain blood vessels and nerves",
+            "D": "Support bone growth"
+        },
+        "answer": "B) Connect the lacunae to each other and to the central canal"
+    },
+    {
+        "question": "The repeating units of compact bone, each containing a central canal, are called:",
+        "options": {
+            "A": "Lamellae",
+            "B": "Lacunae",
+            "C": "Osteons",
+            "D": "Canaliculi"
+        },
+        "answer": "C) Osteons"
+    },
+    {
+        "question": "The dark areas between concentric lamellae in the osteon, where osteocytes are found, are known as:",
+        "options": {
+            "A": "Canaliculi",
+            "B": "Lacunae",
+            "C": "Haversian canals",
+            "D": "Volkmann's canals"
+        },
+        "answer": "B) Lacunae"
+    },
+    {
+        "question": "What is the approximate percentage of water found in osseous tissue?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "50%",
+            "D": "75%"
+        },
+        "answer": "B) 25%"
+    },
+    {
+        "question": "Which of the following provides flexibility to bones?",
+        "options": {
+            "A": "Water",
+            "B": "Protein fibers (e.g., collagen)",
+            "C": "Mineral salts (e.g., calcium phosphate)",
+            "D": "Bone marrow"
+        },
+        "answer": "B) Protein fibers (e.g., collagen)"
+    },
+    {
+        "question": "What percentage of osseous tissue is composed of mineral salts, such as calcium carbonate and calcium phosphate?",
+        "options": {
+            "A": "25%",
+            "B": "50%",
+            "C": "75%",
+            "D": "90%"
+        },
+        "answer": "B) 50%"
+    },
+    {
+        "question": "What is the effect of a decrease in the collagen content of osseous tissue as we age?",
+        "options": {
+            "A": "Bones become more flexible and elastic",
+            "B": "Bones become brittle and more prone to breaking",
+            "C": "Bones become larger and stronger",
+            "D": "Bones become less mineralized"
+        },
+        "answer": "B) Bones become brittle and more prone to breaking"
+    },
+    {
+        "question": "Decreased mineral content in bones leads to which of the following?",
+        "options": {
+            "A": "Increased hardness of the bone",
+            "B": "Bones becoming soft and more prone to bending",
+            "C": "Increased bone density",
+            "D": "Enhanced collagen production"
+        },
+        "answer": "B) Bones becoming soft and more prone to bending"
+    },
+    {
+        "question": "What gives bones their hardness?",
+        "options": {
+            "A": "Water",
+            "B": "Protein fibers",
+            "C": "Mineral salts like calcium phosphate",
+            "D": "Bone marrow"
+        },
+        "answer": "C) Mineral salts like calcium phosphate"
+    },
+    {
+        "question": "How many bones make up the axial skeleton?",
+        "options": {
+            "A": "126",
+            "B": "206",
+            "C": "80",
+            "D": "100"
+        },
+        "answer": "C) 80"
+    },
+    {
+        "question": "The axial skeleton supports and protects the organs of which parts of the body?",
+        "options": {
+            "A": "Head, neck, and trunk",
+            "B": "Upper limbs and pelvis",
+            "C": "Lower limbs and feet",
+            "D": "Upper and lower limbs"
+        },
+        "answer": "A) Head, neck, and trunk"
+    },
+    {
+        "question": "Which of the following is included in the appendicular skeleton?",
+        "options": {
+            "A": "Skull, vertebral column, rib cage",
+            "B": "Pelvis, shoulder girdles, and upper and lower limbs",
+            "C": "Rib cage, spine, and sternum",
+            "D": "Only the skull and spine"
+        },
+        "answer": "B) Pelvis, shoulder girdles, and upper and lower limbs"
+    },
+    {
+        "question": "The appendicular skeleton consists of how many bones?",
+        "options": {
+            "A": "80",
+            "B": "206",
+            "C": "126",
+            "D": "100"
+        },
+        "answer": "C) 126"
+    },
+    {
+        "question": "Which part of the body is primarily supported and protected by the axial skeleton?",
+        "options": {
+            "A": "Upper limbs",
+            "B": "Head, neck, and trunk",
+            "C": "Pelvic region",
+            "D": "Feet and ankles"
+        },
+        "answer": "B) Head, neck, and trunk"
+    },
+    {
+        "question": "The bones of the appendicular skeleton are responsible for which of the following?",
+        "options": {
+            "A": "Protecting vital organs like the heart and brain",
+            "B": "Supporting the body\u2019s structure",
+            "C": "Facilitating movement and connecting limbs to the axial skeleton",
+            "D": "Providing stability to the vertebral column"
+        },
+        "answer": "C) Facilitating movement and connecting limbs to the axial skeleton"
+    },
+    {
+        "question": "Which of the following bones are found in the appendicular skeleton?",
+        "options": {
+            "A": "Skull and vertebrae",
+            "B": "Femur and humerus",
+            "C": "Ribs and sternum",
+            "D": "Patella and clavicle"
+        },
+        "answer": "B) Femur and humerus"
+    },
+    {
+        "question": "What is the primary function of the cranial bones?",
+        "options": {
+            "A": "To provide the shape of the face",
+            "B": "To protect and house the brain, and house organs of hearing and equilibrium",
+            "C": "To support the muscles of facial expression",
+            "D": "To hold the teeth in place"
+        },
+        "answer": "B) To protect and house the brain, and house organs of hearing and equilibrium"
+    },
+    {
+        "question": "What do the facial bones primarily provide?",
+        "options": {
+            "A": "Protection for the brain",
+            "B": "The shape of the face, housing for the teeth, and attachments for muscles",
+            "C": "A cavity for the eyes",
+            "D": "Support for the spinal cord"
+        },
+        "answer": "B) The shape of the face, housing for the teeth, and attachments for muscles"
+    },
+    {
+        "question": "Which of the following is NOT a function of the cranial bones?",
+        "options": {
+            "A": "Protecting the brain",
+            "B": "Housing the teeth",
+            "C": "Housing organs of hearing and equilibrium",
+            "D": "Forming a bony cavity"
+        },
+        "answer": "B) Housing the teeth"
+    },
+    {
+        "question": "The facial bones are responsible for all of the following EXCEPT:",
+        "options": {
+            "A": "Providing facial shape",
+            "B": "Housing the teeth",
+            "C": "Protecting the brain",
+            "D": "Providing attachments for facial muscles"
+        },
+        "answer": "C) Protecting the brain"
+    },
+    {
+        "question": "What role do the facial bones play in relation to the teeth?",
+        "options": {
+            "A": "They protect the brain from injury",
+            "B": "They house the teeth",
+            "C": "They support the jaw muscles",
+            "D": "They form the eye socket"
+        },
+        "answer": "B) They house the teeth"
+    },
+    {
+        "question": "Which of the following is true about the cranial bones?",
+        "options": {
+            "A": "They primarily give the face its shape",
+            "B": "They house the brain and organs of hearing and equilibrium",
+            "C": "They provide attachments for facial muscles",
+            "D": "They are not involved in protecting the brain"
+        },
+        "answer": "B) They house the brain and organs of hearing and equilibrium"
+    },
+    {
+        "question": "Which bones form the superior lateral walls of the cranial cavity?",
+        "options": {
+            "A": "Temporal bones",
+            "B": "Frontal bones",
+            "C": "Parietal bones",
+            "D": "Ethmoid bones"
+        },
+        "answer": "C) Parietal bones"
+    },
+    {
+        "question": "What is the primary function of the temporal bones?",
+        "options": {
+            "A": "Form the anterior portion of the cranial cavity",
+            "B": "Form the posterior wall of the cranial cavity",
+            "C": "House the organs of the inner ear",
+            "D": "Form the floor of the cranial cavity"
+        },
+        "answer": "C) House the organs of the inner ear"
+    },
+    {
+        "question": "Which bone forms the anterior portion of the cranial cavity?",
+        "options": {
+            "A": "Sphenoid bone",
+            "B": "Ethmoid bone",
+            "C": "Frontal bone",
+            "D": "Occipital bone"
+        },
+        "answer": "C) Frontal bone"
+    },
+    {
+        "question": "The occipital bone forms which part of the cranial cavity?",
+        "options": {
+            "A": "Anterior wall",
+            "B": "Superior lateral walls",
+            "C": "Posterior wall",
+            "D": "Floor of the cranial cavity"
+        },
+        "answer": "C) Posterior wall"
+    },
+    {
+        "question": "What is the sphenoid bone also known as?",
+        "options": {
+            "A": "The \"butterfly bone\"",
+            "B": "The \"roof bone\"",
+            "C": "The \"jaw bone\"",
+            "D": "The \"eye socket bone\""
+        },
+        "answer": "A) The \"butterfly bone\""
+    },
+    {
+        "question": "Which bone forms the floor and anterior wall of the cranial cavity?",
+        "options": {
+            "A": "Temporal bone",
+            "B": "Sphenoid bone",
+            "C": "Parietal bone",
+            "D": "Ethmoid bone"
+        },
+        "answer": "D) Ethmoid bone"
+    },
+    {
+        "question": "How many parietal bones are there in the cranial cavity?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "answer": "B) 2"
+    },
+    {
+        "question": "Which bone is located posterior to the ethmoid bone and forms part of the floor of the cranial cavity?",
+        "options": {
+            "A": "Sphenoid bone",
+            "B": "Occipital bone",
+            "C": "Parietal bone",
+            "D": "Temporal bone"
+        },
+        "answer": "A) Sphenoid bone"
+    },
+    {
+        "question": "What type of joints are sutures in the skull?",
+        "options": {
+            "A": "Ball-and-socket joints",
+            "B": "Hinge joints",
+            "C": "Immovable joints",
+            "D": "Pivot joints"
+        },
+        "answer": "C) Immovable joints"
+    },
+    {
+        "question": "Which suture joins the frontal and parietal bones?",
+        "options": {
+            "A": "Sagittal suture",
+            "B": "Squamous suture",
+            "C": "Coronal suture",
+            "D": "Lambdoid suture"
+        },
+        "answer": "C) Coronal suture"
+    },
+    {
+        "question": "Which suture joins the two parietal bones?",
+        "options": {
+            "A": "Coronal suture",
+            "B": "Sagittal suture",
+            "C": "Lambdoid suture",
+            "D": "Squamous suture"
+        },
+        "answer": "B) Sagittal suture"
+    },
+    {
+        "question": "The lambdoid suture joins which of the following bones?",
+        "options": {
+            "A": "Frontal and parietal bones",
+            "B": "Temporal and parietal bones",
+            "C": "Parietal bones and occipital bone",
+            "D": "Frontal bone and occipital bone"
+        },
+        "answer": "C) Parietal bones and occipital bone"
+    },
+    {
+        "question": "Which suture joins the temporal and parietal bones?",
+        "options": {
+            "A": "Squamous suture",
+            "B": "Lambdoid suture",
+            "C": "Coronal suture",
+            "D": "Sagittal suture"
+        },
+        "answer": "A) Squamous suture"
+    },
+    {
+        "question": "Which of the following sutures is located between the parietal bones?",
+        "options": {
+            "A": "Coronal",
+            "B": "Squamous",
+            "C": "Sagittal",
+            "D": "Lambdoid"
+        },
+        "answer": "C) Sagittal"
+    },
+    {
+        "question": "The squamous suture connects which two bones?",
+        "options": {
+            "A": "Parietal and occipital bones",
+            "B": "Frontal and temporal bones",
+            "C": "Temporal and parietal bones",
+            "D": "Frontal and sphenoid bones"
+        },
+        "answer": "C) Temporal and parietal bones"
+    },
+    {
+        "question": "Sutures are found between bones of the skull and are classified as:",
+        "options": {
+            "A": "Movable joints",
+            "B": "Immoveable joints",
+            "C": "Pivot joints",
+            "D": "Hinge joints"
+        },
+        "answer": "B) Immoveable joints"
+    },
+    {
+        "question": "How many facial bones are there in total?",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "16",
+            "D": "24"
+        },
+        "answer": "B) 14"
+    },
+    {
+        "question": "Which of the following is NOT a paired facial bone?",
+        "options": {
+            "A": "Maxilla",
+            "B": "Zygomatic bones",
+            "C": "Nasal bones",
+            "D": "Mandible"
+        },
+        "answer": "D) Mandible"
+    },
+    {
+        "question": "What is the primary function of the maxilla bones?",
+        "options": {
+            "A": "Form the lower jaw",
+            "B": "Form the cheekbones",
+            "C": "Form the upper jaw and house the upper teeth",
+            "D": "Form the nasal septum"
+        },
+        "answer": "C) Form the upper jaw and house the upper teeth"
+    },
+    {
+        "question": "What are the zygomatic bones commonly known as?",
+        "options": {
+            "A": "Nasal bones",
+            "B": "Cheekbones",
+            "C": "Lower jaw",
+            "D": "Bridge of the nose"
+        },
+        "answer": "B) Cheekbones"
+    },
+    {
+        "question": "Which facial bones form part of the orbit of the eye and are located near the nasal bones?",
+        "options": {
+            "A": "Zygomatic bones",
+            "B": "Maxilla bones",
+            "C": "Lacrimal bones",
+            "D": "Nasal bones"
+        },
+        "answer": "C) Lacrimal bones"
+    },
+    {
+        "question": "The nasal bones form which part of the face?",
+        "options": {
+            "A": "Cheeks",
+            "B": "Lower jaw",
+            "C": "Bridge of the nose",
+            "D": "Hard palate"
+        },
+        "answer": "C) Bridge of the nose"
+    },
+    {
+        "question": "The inferior nasal conchae form the lateral walls of which structure?",
+        "options": {
+            "A": "Nasal cavity",
+            "B": "Mouth",
+            "C": "Orbit of the eyes",
+            "D": "Nasal septum"
+        },
+        "answer": "A) Nasal cavity"
+    },
+    {
+        "question": "Which bone forms the posterior part of the hard palate?",
+        "options": {
+            "A": "Maxilla",
+            "B": "Zygomatic",
+            "C": "Palatine bones",
+            "D": "Lacrimal bones"
+        },
+        "answer": "C) Palatine bones"
+    },
+    {
+        "question": "The vomer forms the inferior portion of which structure?",
+        "options": {
+            "A": "Nasal cavity",
+            "B": "Nasal septum",
+            "C": "Orbit of the eyes",
+            "D": "Lower jaw"
+        },
+        "answer": "B) Nasal septum"
+    },
+    {
+        "question": "Which of the following is the only movable bone of the skull?",
+        "options": {
+            "A": "Zygomatic bone",
+            "B": "Mandible",
+            "C": "Maxilla",
+            "D": "Nasal bone"
+        },
+        "answer": "B) Mandible"
+    },
+    {
+        "question": "What is the primary function of bone surface markings such as depressions, openings, and projections?",
+        "options": {
+            "A": "To provide flexibility to bones",
+            "B": "To form joints or serve as passageways for blood vessels and nerves",
+            "C": "To provide strength to bones",
+            "D": "To store minerals like calcium and phosphorus"
+        },
+        "answer": "B) To form joints or serve as passageways for blood vessels and nerves"
+    },
+    {
+        "question": "What type of bone surface markings form joints or serve as attachment points for ligaments or tendons?",
+        "options": {
+            "A": "Depressions and openings",
+            "B": "Projections or processes",
+            "C": "Bone ridges",
+            "D": "Bone spines"
+        },
+        "answer": "B) Projections or processes"
+    },
+    {
+        "question": "Which bone surface marking is an opening that allows passage of the spinal cord from the brain?",
+        "options": {
+            "A": "Occipital condyles",
+            "B": "Foramen magnum",
+            "C": "Nasal aperture",
+            "D": "Superior orbital fissure"
+        },
+        "answer": "B) Foramen magnum"
+    },
+    {
+        "question": "The occipital condyles are rounded processes that articulate with which bone?",
+        "options": {
+            "A": "Second cervical vertebra (C2)",
+            "B": "First cervical vertebra (C1)",
+            "C": "Thoracic vertebrae",
+            "D": "Lumbar vertebrae"
+        },
+        "answer": "B) First cervical vertebra (C1)"
+    },
+    {
+        "question": "What do depressions and openings in bones typically form?",
+        "options": {
+            "A": "Attachment sites for muscles",
+            "B": "Points of attachment for tendons",
+            "C": "Joints or passageways for nerves and blood vessels",
+            "D": "Bone marrow cavities"
+        },
+        "answer": "C) Joints or passageways for nerves and blood vessels"
+    },
+    {
+        "question": "What is the function of bone processes like the occipital condyles?",
+        "options": {
+            "A": "They provide surface area for bone growth",
+            "B": "They serve as joints or attachment points for muscles, ligaments, or tendons",
+            "C": "They act as protection for the internal organs",
+            "D": "They facilitate the storage of minerals"
+        },
+        "answer": "B) They serve as joints or attachment points for muscles, ligaments, or tendons"
+    },
+    {
+        "question": "The foramen magnum is located in which bone?",
+        "options": {
+            "A": "Parietal bone",
+            "B": "Temporal bone",
+            "C": "Occipital bone",
+            "D": "Frontal bone"
+        },
+        "answer": "C) Occipital bone"
+    },
+    {
+        "question": "What is the function of the foramen magnum?",
+        "options": {
+            "A": "It allows passage of blood vessels to the skull",
+            "B": "It connects the brain with the spinal cord",
+            "C": "It provides an attachment point for facial muscles",
+            "D": "It allows the passage of cranial nerves"
+        },
+        "answer": "B) It connects the brain with the spinal cord"
+    },
+    {
+        "question": "What type of bone surface marking is the occipital condyle?",
+        "options": {
+            "A": "A depression",
+            "B": "A projection",
+            "C": "A foramen",
+            "D": "An opening"
+        },
+        "answer": "B) A projection"
+    },
+    {
+        "question": "Which bone surface marking is important for the articulation between the skull and the first cervical vertebra?",
+        "options": {
+            "A": "Foramen magnum",
+            "B": "Occipital condyles",
+            "C": "Mastoid process",
+            "D": "External auditory meatus"
+        },
+        "answer": "B) Occipital condyles"
+    },
+    {
+        "question": "Which of the following bone surface markings forms the temporomandibular joint (TMJ)?",
+        "options": {
+            "A": "Mandibular fossa of the temporal bone and the mandibular condyle of the mandible",
+            "B": "Occipital condyles and the first cervical vertebra",
+            "C": "Coronoid process of the mandible and the zygomatic arch",
+            "D": "Condylar process of the mandible and the maxilla"
+        },
+        "answer": "A) Mandibular fossa of the temporal bone and the mandibular condyle of the mandible"
+    },
+    {
+        "question": "The mandibular fossa is a depression located on which bone?",
+        "options": {
+            "A": "Mandible",
+            "B": "Temporal bone",
+            "C": "Frontal bone",
+            "D": "Zygomatic bone"
+        },
+        "answer": "B) Temporal bone"
+    },
+    {
+        "question": "The mandibular condyle is part of which bone?",
+        "options": {
+            "A": "Temporal bone",
+            "B": "Mandible",
+            "C": "Zygomatic bone",
+            "D": "Maxilla"
+        },
+        "answer": "B) Mandible"
+    },
+    {
+        "question": "The temporomandibular joint (TMJ) is formed by the articulation of the mandibular condyle and which bone surface marking?",
+        "options": {
+            "A": "Occipital condyle",
+            "B": "Mastoid process",
+            "C": "Mandibular fossa",
+            "D": "Coronoid process"
+        },
+        "answer": "C) Mandibular fossa"
+    },
+    {
+        "question": "The temporomandibular joint (TMJ) allows movement of which part of the body?",
+        "options": {
+            "A": "Neck",
+            "B": "Lower jaw (mandible)",
+            "C": "Upper jaw (maxilla)",
+            "D": "Skull"
+        },
+        "answer": "B) Lower jaw (mandible)"
+    },
+    {
+        "question": "Which structure in the temporal bone articulates with the mandibular condyle to form the temporomandibular joint?",
+        "options": {
+            "A": "External auditory meatus",
+            "B": "Mandibular fossa",
+            "C": "Zygomatic arch",
+            "D": "Styloid process"
+        },
+        "answer": "B) Mandibular fossa"
+    },
+    {
+        "question": "The temporomandibular joint (TMJ) is classified as which type of joint?",
+        "options": {
+            "A": "Hinge joint",
+            "B": "Ball-and-socket joint",
+            "C": "Pivot joint",
+            "D": "Gliding and hinge joint"
+        },
+        "answer": "D) Gliding and hinge joint"
+    },
+    {
+        "question": "What type of bone marking is the mandibular condyle?",
+        "options": {
+            "A": "Depression",
+            "B": "Process (projection)",
+            "C": "Foramen",
+            "D": "Opening"
+        },
+        "answer": "B) Process (projection)"
+    },
+    {
+        "question": "What is the primary function of the temporomandibular joint (TMJ)?",
+        "options": {
+            "A": "To allow the skull to rotate",
+            "B": "To allow the movement of the lower jaw for chewing and speaking",
+            "C": "To connect the upper and lower limbs",
+            "D": "To support the vertebral column"
+        },
+        "answer": "B) To allow the movement of the lower jaw for chewing and speaking"
+    },
+    {
+        "question": "What is the primary function of the paranasal sinuses?",
+        "options": {
+            "A": "To store air",
+            "B": "To warm and moisten air, lighten the skull, and enhance voice resonance",
+            "C": "To store and filter mucus",
+            "D": "To protect the brain from injury"
+        },
+        "answer": "B) To warm and moisten air, lighten the skull, and enhance voice resonance"
+    },
+    {
+        "question": "Paranasal sinuses are located near which structure?",
+        "options": {
+            "A": "Eyes",
+            "B": "Ears",
+            "C": "Nasal cavities",
+            "D": "Jaw"
+        },
+        "answer": "C) Nasal cavities"
+    },
+    {
+        "question": "What is the function of the mucous membrane lining the paranasal sinuses?",
+        "options": {
+            "A": "To absorb nutrients",
+            "B": "To produce mucus in case of infection",
+            "C": "To protect the brain",
+            "D": "To regulate blood flow to the sinuses"
+        },
+        "answer": "B) To produce mucus in case of infection"
+    },
+    {
+        "question": "How do the paranasal sinuses contribute to the voice?",
+        "options": {
+            "A": "They reduce the pitch of the voice",
+            "B": "They enhance voice resonance",
+            "C": "They increase vocal volume",
+            "D": "They filter sound"
+        },
+        "answer": "B) They enhance voice resonance"
+    },
+    {
+        "question": "What is the structural role of the paranasal sinuses in the skull?",
+        "options": {
+            "A": "To increase the weight of the skull",
+            "B": "To house the brain",
+            "C": "To lighten the skull",
+            "D": "To store blood"
+        },
+        "answer": "C) To lighten the skull"
+    },
+    {
+        "question": "Which of the following is NOT a function of the paranasal sinuses?",
+        "options": {
+            "A": "To warm and moisten air",
+            "B": "To lighten the skull",
+            "C": "To enhance voice resonance",
+            "D": "To increase skull thickness"
+        },
+        "answer": "D) To increase skull thickness"
+    },
+    {
+        "question": "The paranasal sinuses are classified as:",
+        "options": {
+            "A": "Solid cavities",
+            "B": "Hollow cavities lined with mucous membranes",
+            "C": "Muscular cavities",
+            "D": "Glandular structures"
+        },
+        "answer": "B) Hollow cavities lined with mucous membranes"
+    },
+    {
+        "question": "What happens to the paranasal sinuses in case of an infection?",
+        "options": {
+            "A": "They stop producing mucus",
+            "B": "They produce mucus",
+            "C": "They become smaller",
+            "D": "They produce bone tissue"
+        },
+        "answer": "B) They produce mucus"
+    },
+    {
+        "question": "Which of the following is a result of the mucous membranes of the paranasal sinuses when irritated?",
+        "options": {
+            "A": "Decreased mucus production",
+            "B": "Swelling and increased mucus production",
+            "C": "Dehydration of the nasal passages",
+            "D": "Dilation of the sinuses"
+        },
+        "answer": "B) Swelling and increased mucus production"
+    },
+    {
+        "question": "The hard palate is formed by the fusion of how many bones?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "C) 4"
+    },
+    {
+        "question": "Which bones contribute to the formation of the hard palate?",
+        "options": {
+            "A": "2 maxillae and 2 palatine bones",
+            "B": "2 frontal bones and 2 maxillae",
+            "C": "2 zygomatic bones and 2 palatine bones",
+            "D": "2 mandibles and 2 maxillae"
+        },
+        "answer": "A) 2 maxillae and 2 palatine bones"
+    },
+    {
+        "question": "The palatine processes of the maxillary bones are part of the structure of which anatomical feature?",
+        "options": {
+            "A": "The nasal cavity",
+            "B": "The hard palate",
+            "C": "The eye socket",
+            "D": "The lower jaw"
+        },
+        "answer": "B) The hard palate"
+    },
+    {
+        "question": "The fusion of which two types of bones forms the roof of the mouth (hard palate)?",
+        "options": {
+            "A": "Maxillae and temporal bones",
+            "B": "Maxillae and palatine bones",
+            "C": "Maxillae and zygomatic bones",
+            "D": "Mandible and palatine bones"
+        },
+        "answer": "B) Maxillae and palatine bones"
+    },
+    {
+        "question": "Which bones specifically form the palatine processes of the hard palate?",
+        "options": {
+            "A": "Mandible and maxilla",
+            "B": "Maxillae",
+            "C": "Zygomatic bones",
+            "D": "Nasal and lacrimal bones"
+        },
+        "answer": "B) Maxillae"
+    },
+    {
+        "question": "The hard palate separates the oral cavity from which cavity?",
+        "options": {
+            "A": "Cranial cavity",
+            "B": "Nasal cavity",
+            "C": "Thoracic cavity",
+            "D": "Vertebral cavity"
+        },
+        "answer": "B) Nasal cavity"
+    },
+    {
+        "question": "What is the primary function of the hard palate?",
+        "options": {
+            "A": "To provide attachment for jaw muscles",
+            "B": "To form the roof of the mouth and separate the oral and nasal cavities",
+            "C": "To house the teeth",
+            "D": "To protect the brain"
+        },
+        "answer": "B) To form the roof of the mouth and separate the oral and nasal cavities"
+    },
+    {
+        "question": "Which two bones of the hard palate are paired?",
+        "options": {
+            "A": "Maxillary bones",
+            "B": "Palatine bones",
+            "C": "Both maxillary and palatine bones",
+            "D": "Frontal and maxillary bones"
+        },
+        "answer": "C) Both maxillary and palatine bones"
+    },
+    {
+        "question": "Which of the following is true about the hyoid bone?",
+        "options": {
+            "A": "It is attached to the axial skeleton",
+            "B": "It articulates with the mandible",
+            "C": "It is U-shaped and does not articulate with any other bones",
+            "D": "It is located in the posterior region of the neck"
+        },
+        "answer": "C) It is U-shaped and does not articulate with any other bones"
+    },
+    {
+        "question": "The hyoid bone is located between which two structures?",
+        "options": {
+            "A": "The clavicle and scapula",
+            "B": "The mandible and the larynx",
+            "C": "The thoracic vertebrae and the ribs",
+            "D": "The sternum and the vertebrae"
+        },
+        "answer": "B) The mandible and the larynx"
+    },
+    {
+        "question": "Why is the hyoid bone considered unique among bones of the axial skeleton?",
+        "options": {
+            "A": "It is the only bone that articulates with the spine",
+            "B": "It is the only bone that does not articulate with any other bones",
+            "C": "It is the only bone that forms part of the facial skeleton",
+            "D": "It is the only bone that forms part of the appendicular skeleton"
+        },
+        "answer": "B) It is the only bone that does not articulate with any other bones"
+    },
+    {
+        "question": "Where is the hyoid bone located?",
+        "options": {
+            "A": "In the skull, behind the nasal cavity",
+            "B": "In the posterior neck",
+            "C": "In the anterior neck, between the mandible and larynx",
+            "D": "In the chest, above the heart"
+        },
+        "answer": "C) In the anterior neck, between the mandible and larynx"
+    },
+    {
+        "question": "What is the shape of the hyoid bone?",
+        "options": {
+            "A": "Round",
+            "B": "Triangular",
+            "C": "U-shaped",
+            "D": "Flat"
+        },
+        "answer": "C) U-shaped"
+    },
+    {
+        "question": "The hyoid bone is part of which skeleton?",
+        "options": {
+            "A": "Appendicular skeleton",
+            "B": "Axial skeleton",
+            "C": "Pelvic skeleton",
+            "D": "Vertebral skeleton"
+        },
+        "answer": "B) Axial skeleton"
+    },
+    {
+        "question": "The hyoid bone serves as a support for which part of the body?",
+        "options": {
+            "A": "The vertebral column",
+            "B": "The respiratory tract",
+            "C": "The tongue and muscles of the neck",
+            "D": "The jaw and teeth"
+        },
+        "answer": "C) The tongue and muscles of the neck"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of the hyoid bone?",
+        "options": {
+            "A": "It is located in the neck",
+            "B": "It articulates with the mandible",
+            "C": "It does not articulate with other bones",
+            "D": "It supports muscles of the tongue and neck"
+        },
+        "answer": "B) It articulates with the mandible"
+    },
+    {
+        "question": "What are fontanels in a newborn skull?",
+        "options": {
+            "A": "Fully ossified sections of bone",
+            "B": "Membranous sections of fibrous connective tissue",
+            "C": "Hollow cavities within the skull",
+            "D": "Cartilage that connects the skull bones"
+        },
+        "answer": "B) Membranous sections of fibrous connective tissue"
+    },
+    {
+        "question": "Why is the newborn skull not completely ossified?",
+        "options": {
+            "A": "To allow for brain growth and development",
+            "B": "To protect the brain from external injury",
+            "C": "To allow for better feeding and swallowing",
+            "D": "To accommodate the growth of teeth"
+        },
+        "answer": "A) To allow for brain growth and development"
+    },
+    {
+        "question": "What is the primary function of the fontanels in a newborn skull?",
+        "options": {
+            "A": "To help with the formation of the ear",
+            "B": "To allow for the expansion of the skull as the brain grows",
+            "C": "To strengthen the skull bones",
+            "D": "To assist in the development of the jaw"
+        },
+        "answer": "B) To allow for the expansion of the skull as the brain grows"
+    },
+    {
+        "question": "The fontanels of the newborn skull are made of which type of connective tissue?",
+        "options": {
+            "A": "Bone",
+            "B": "Cartilage",
+            "C": "Fibrous connective tissue",
+            "D": "Elastic connective tissue"
+        },
+        "answer": "C) Fibrous connective tissue"
+    },
+    {
+        "question": "What are fontanels commonly referred to as?",
+        "options": {
+            "A": "Skull sutures",
+            "B": "Soft spots",
+            "C": "Skull foramen",
+            "D": "Bone ridges"
+        },
+        "answer": "B) Soft spots"
+    },
+    {
+        "question": "At what stage do the fontanels of a newborn skull typically ossify and close?",
+        "options": {
+            "A": "At birth",
+            "B": "Within the first few months of life",
+            "C": "By the age of 2-3 years",
+            "D": "By puberty"
+        },
+        "answer": "C) By the age of 2-3 years"
+    },
+    {
+        "question": "Which of the following is NOT a function of the fontanels in a newborn skull?",
+        "options": {
+            "A": "Allowing for skull flexibility during birth",
+            "B": "Permitting brain growth",
+            "C": "Protecting the eyes from injury",
+            "D": "Facilitating skull expansion as the brain develops"
+        },
+        "answer": "C) Protecting the eyes from injury"
+    },
+    {
+        "question": "Where are fontanels located in the newborn skull?",
+        "options": {
+            "A": "On the sides of the skull only",
+            "B": "At the junctions of skull bones",
+            "C": "At the back of the skull only",
+            "D": "In the facial region only"
+        },
+        "answer": "B) At the junctions of skull bones"
+    },
+    {
+        "question": "What happens to the fontanels as the child grows?",
+        "options": {
+            "A": "They become more flexible",
+            "B": "They ossify and turn into bone",
+            "C": "They expand to accommodate the growing brain",
+            "D": "They disappear completely by age 1"
+        },
+        "answer": "B) They ossify and turn into bone"
+    },
+    {
+        "question": "What is the primary function of the vertebral column?",
+        "options": {
+            "A": "To produce red blood cells",
+            "B": "To protect the spinal cord and provide attachment points for muscles",
+            "C": "To store calcium and phosphate",
+            "D": "To support the skull"
+        },
+        "answer": "B) To protect the spinal cord and provide attachment points for muscles"
+    },
+    {
+        "question": "How many cervical vertebrae are present in the vertebral column?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "B) 7"
+    },
+    {
+        "question": "The vertebral column is a flexible structure that helps in:",
+        "options": {
+            "A": "Supporting the weight of the legs",
+            "B": "Protecting the brain",
+            "C": "Allowing for movement and flexibility of the back",
+            "D": "Stabilizing the ribs"
+        },
+        "answer": "C) Allowing for movement and flexibility of the back"
+    },
+    {
+        "question": "Which of the following is NOT a part of the vertebral column?",
+        "options": {
+            "A": "Cervical vertebrae",
+            "B": "Thoracic vertebrae",
+            "C": "Coccyx",
+            "D": "Clavicle"
+        },
+        "answer": "D) Clavicle"
+    },
+    {
+        "question": "How many thoracic vertebrae are present in the vertebral column?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "12",
+            "D": "15"
+        },
+        "answer": "C) 12"
+    },
+    {
+        "question": "The vertebral column consists of how many lumbar vertebrae?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "9"
+        },
+        "answer": "B) 5"
+    },
+    {
+        "question": "How many fused vertebrae make up the sacrum?",
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "7"
+        },
+        "answer": "C) 5"
+    },
+    {
+        "question": "Which part of the vertebral column is made up of 4 fused vertebrae?",
+        "options": {
+            "A": "Cervical region",
+            "B": "Thoracic region",
+            "C": "Coccyx",
+            "D": "Sacrum"
+        },
+        "answer": "C) Coccyx"
+    },
+    {
+        "question": "The vertebral column provides attachment points for which of the following?",
+        "options": {
+            "A": "Ligaments only",
+            "B": "Back and abdominal muscles",
+            "C": "Ribs only",
+            "D": "Pelvic muscles"
+        },
+        "answer": "B) Back and abdominal muscles"
+    },
+    {
+        "question": "What is the function of the curves in the vertebral column?",
+        "options": {
+            "A": "To increase flexibility and absorb shock",
+            "B": "To protect the heart",
+            "C": "To maintain the shape of the ribs",
+            "D": "To allow movement of the skull"
+        },
+        "answer": "A) To increase flexibility and absorb shock"
+    },
+    {
+        "question": "Which part of a typical vertebra is located anteriorly and is the largest part of the vertebra?",
+        "options": {
+            "A": "Pedicle",
+            "B": "Transverse process",
+            "C": "Vertebral body",
+            "D": "Spinous process"
+        },
+        "answer": "C) Vertebral body"
+    },
+    {
+        "question": "The pedicle of a vertebra is located:",
+        "options": {
+            "A": "Posteriorly",
+            "B": "Anteriorly",
+            "C": "Laterally, extending from the body",
+            "D": "Between the lamina and spinous process"
+        },
+        "answer": "C) Laterally, extending from the body"
+    },
+    {
+        "question": "What does the transverse process of a typical vertebra do?",
+        "options": {
+            "A": "Protects the spinal cord",
+            "B": "Connects the vertebra to adjacent vertebrae",
+            "C": "Extends laterally from each pedicle",
+            "D": "Protects the spinal nerves"
+        },
+        "answer": "C) Extends laterally from each pedicle"
+    },
+    {
+        "question": "Which part of the vertebra connects the transverse processes to the spinous process?",
+        "options": {
+            "A": "Pedicle",
+            "B": "Vertebral arch",
+            "C": "Lamina",
+            "D": "Spinous process"
+        },
+        "answer": "C) Lamina"
+    },
+    {
+        "question": "The spinous process of a typical vertebra projects:",
+        "options": {
+            "A": "Anteriorly",
+            "B": "Laterally",
+            "C": "Posteriorly",
+            "D": "Medially"
+        },
+        "answer": "C) Posteriorly"
+    },
+    {
+        "question": "The vertebral arch is formed by the fusion of which two parts of a typical vertebra?",
+        "options": {
+            "A": "Pedicles and laminae",
+            "B": "Pedicles and transverse processes",
+            "C": "Laminae and spinous processes",
+            "D": "Vertebral body and transverse processes"
+        },
+        "answer": "A) Pedicles and laminae"
+    },
+    {
+        "question": "What is the function of the vertebral foramen?",
+        "options": {
+            "A": "To provide attachment for muscles",
+            "B": "To house the spinal cord",
+            "C": "To connect vertebrae to ligaments",
+            "D": "To support the ribs"
+        },
+        "answer": "B) To house the spinal cord"
+    },
+    {
+        "question": "The superior and inferior articular processes of a vertebra are involved in:",
+        "options": {
+            "A": "Protecting the spinal cord",
+            "B": "Forming joints with adjacent vertebrae",
+            "C": "Allowing for muscle attachment",
+            "D": "Absorbing shock"
+        },
+        "answer": "B) Forming joints with adjacent vertebrae"
+    },
+    {
+        "question": "The vertebral foramen is formed by the fusion of which parts of the vertebra?",
+        "options": {
+            "A": "Vertebral body and spinous process",
+            "B": "Vertebral body and pedicles",
+            "C": "Pedicles and laminae",
+            "D": "Transverse process and spinous process"
+        },
+        "answer": "C) Pedicles and laminae"
+    },
+    {
+        "question": "What is the purpose of the superior and inferior articular processes in a typical vertebra?",
+        "options": {
+            "A": "To protect the vertebral body",
+            "B": "To protect the spinal cord",
+            "C": "To provide points of articulation with adjacent vertebrae",
+            "D": "To support the intervertebral discs"
+        },
+        "answer": "C) To provide points of articulation with adjacent vertebrae"
+    },
+    {
+        "question": "Which vertebra is known as the \"Atlas\"?",
+        "options": {
+            "A": "C1",
+            "B": "C2",
+            "C": "T1",
+            "D": "L1"
+        },
+        "answer": "A) C1"
+    },
+    {
+        "question": "What is unique about the first cervical vertebra (C1)?",
+        "options": {
+            "A": "It has a body and a spinous process",
+            "B": "It has a tooth-like protuberance called the dens",
+            "C": "It has no body",
+            "D": "It has the largest body of all vertebrae"
+        },
+        "answer": "C) It has no body"
+    },
+    {
+        "question": "Which of the following features is characteristic of the second cervical vertebra (C2)?",
+        "options": {
+            "A": "It has no body",
+            "B": "It has a superior tooth-like protuberance called the dens",
+            "C": "It has a hatchet-shaped spinous process",
+            "D": "It has the smallest body of all vertebrae"
+        },
+        "answer": "B) It has a superior tooth-like protuberance called the dens"
+    },
+    {
+        "question": "Which type of vertebra typically has a medium-sized body and a long, narrow spinous process that points inferiorly?",
+        "options": {
+            "A": "Cervical vertebrae",
+            "B": "Thoracic vertebrae",
+            "C": "Lumbar vertebrae",
+            "D": "Sacral vertebrae"
+        },
+        "answer": "B) Thoracic vertebrae"
+    },
+    {
+        "question": "The lumbar vertebrae are characterized by:",
+        "options": {
+            "A": "Small bodies and short spinous processes",
+            "B": "The largest bodies and thick, hatchet-shaped spinous processes",
+            "C": "Large transverse processes and small bodies",
+            "D": "A long, sharp-angled spinous process"
+        },
+        "answer": "B) The largest bodies and thick, hatchet-shaped spinous processes"
+    },
+    {
+        "question": "What is the primary function of intervertebral discs?",
+        "options": {
+            "A": "To protect the spinal cord",
+            "B": "To provide strength, permit movement, and absorb shock",
+            "C": "To connect the vertebrae to muscles",
+            "D": "To form joints between the ribs and vertebrae"
+        },
+        "answer": "B) To provide strength, permit movement, and absorb shock"
+    },
+    {
+        "question": "Intervertebral discs are made of which type of tissue?",
+        "options": {
+            "A": "Bone",
+            "B": "Cartilage",
+            "C": "Fibrocartilage",
+            "D": "Elastic cartilage"
+        },
+        "answer": "C) Fibrocartilage"
+    },
+    {
+        "question": "Between which vertebrae can intervertebral discs be found?",
+        "options": {
+            "A": "Only between cervical vertebrae",
+            "B": "Between C2 and the sacrum",
+            "C": "Between the thoracic vertebrae only",
+            "D": "Only between lumbar vertebrae"
+        },
+        "answer": "B) Between C2 and the sacrum"
+    },
+    {
+        "question": "The thoracic vertebrae have which of the following characteristics?",
+        "options": {
+            "A": "Small body and short, blunt spinous process",
+            "B": "Large body and short, hatchet-shaped spinous process",
+            "C": "Medium-sized body with a long, sharp-angled spinous process",
+            "D": "No body and no spinous process"
+        },
+        "answer": "C) Medium-sized body with a long, sharp-angled spinous process"
+    },
+    {
+        "question": "What is the function of the dens in the second cervical vertebra (C2)?",
+        "options": {
+            "A": "To provide attachment for muscles",
+            "B": "To allow for rotation of the head",
+            "C": "To protect the spinal cord",
+            "D": "To form joints between vertebrae"
+        },
+        "answer": "B) To allow for rotation of the head"
+    },
+    {
+        "question": "Which of the following conditions is characterized by an exaggerated thoracic curve?",
+        "options": {
+            "A": "Lordosis",
+            "B": "Scoliosis",
+            "C": "Kyphosis",
+            "D": "Spina bifida"
+        },
+        "answer": "C) Kyphosis"
+    },
+    {
+        "question": "What is the defining feature of lordosis?",
+        "options": {
+            "A": "Exaggerated thoracic curve",
+            "B": "Exaggerated lumbar curve",
+            "C": "Lateral bending of the vertebral column",
+            "D": "Absence of a spinal curve"
+        },
+        "answer": "B) Exaggerated lumbar curve"
+    },
+    {
+        "question": "Which condition involves the vertebral column bending laterally?",
+        "options": {
+            "A": "Lordosis",
+            "B": "Kyphosis",
+            "C": "Scoliosis",
+            "D": "Spondylolisthesis"
+        },
+        "answer": "C) Scoliosis"
+    },
+    {
+        "question": "Which of the following best describes kyphosis?",
+        "options": {
+            "A": "A lateral curvature of the spine",
+            "B": "An exaggerated curvature of the lumbar spine",
+            "C": "A forward curvature of the cervical spine",
+            "D": "An exaggerated curvature of the thoracic spine"
+        },
+        "answer": "D) An exaggerated curvature of the thoracic spine"
+    },
+    {
+        "question": "Lordosis is often referred to as:",
+        "options": {
+            "A": "Hunchback",
+            "B": "Swayback",
+            "C": "Lateral curvature",
+            "D": "Spinal stenosis"
+        },
+        "answer": "B) Swayback"
+    },
+    {
+        "question": "Which of the following is NOT associated with scoliosis?",
+        "options": {
+            "A": "Lateral bending of the vertebral column",
+            "B": "Rotation of the vertebrae",
+            "C": "Exaggeration of the lumbar curve",
+            "D": "Often causes uneven shoulders or hips"
+        },
+        "answer": "C) Exaggeration of the lumbar curve"
+    },
+    {
+        "question": "Kyphosis, lordosis, and scoliosis are all types of:",
+        "options": {
+            "A": "Vertebral fractures",
+            "B": "Spinal misalignments or deformities",
+            "C": "Conditions that affect spinal discs",
+            "D": "Abnormal bone growths"
+        },
+        "answer": "B) Spinal misalignments or deformities"
+    },
+    {
+        "question": "Which of the following is typically associated with an exaggerated lumbar curve?",
+        "options": {
+            "A": "Kyphosis",
+            "B": "Lordosis",
+            "C": "Scoliosis",
+            "D": "Spinal arthritis"
+        },
+        "answer": "B) Lordosis"
+    },
+    {
+        "question": "Scoliosis is most commonly diagnosed in which of the following age groups?",
+        "options": {
+            "A": "Infants",
+            "B": "Teenagers and young adults",
+            "C": "Middle-aged adults",
+            "D": "Older adults"
+        },
+        "answer": "B) Teenagers and young adults"
+    },
+    {
+        "question": "The thoracic cage is composed of which of the following?",
+        "options": {
+            "A": "Sternum, ribs, costal cartilages, and thoracic vertebrae",
+            "B": "Sternum, clavicles, scapulae, and thoracic vertebrae",
+            "C": "Vertebrae, humerus, ribs, and costal cartilage",
+            "D": "Sternum, pelvis, ribs, and lumbar vertebrae"
+        },
+        "answer": "A) Sternum, ribs, costal cartilages, and thoracic vertebrae"
+    },
+    {
+        "question": "The sternum is composed of how many fused bones?",
+        "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+        },
+        "answer": "B) Three"
+    },
+    {
+        "question": "The three fused bones of the sternum are:",
+        "options": {
+            "A": "Manubrium, body, xiphoid process",
+            "B": "Manubrium, sacrum, xiphoid process",
+            "C": "Xiphoid process, costal cartilage, sternum body",
+            "D": "Manubrium, xiphoid process, clavicle"
+        },
+        "answer": "A) Manubrium, body, xiphoid process"
+    },
+    {
+        "question": "How many pairs of ribs are there in the human rib cage?",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14"
+        },
+        "answer": "C) 12"
+    },
+    {
+        "question": "What type of ribs are the first 7 pairs of ribs called?",
+        "options": {
+            "A": "Floating ribs",
+            "B": "Vertebrochondral ribs",
+            "C": "True ribs (vertebrosternal ribs)",
+            "D": "False ribs"
+        },
+        "answer": "C) True ribs (vertebrosternal ribs)"
+    },
+    {
+        "question": "Rib pairs 8 through 10 are known as:",
+        "options": {
+            "A": "True ribs",
+            "B": "Floating ribs",
+            "C": "Vertebrochondral ribs",
+            "D": "Accessory ribs"
+        },
+        "answer": "C) Vertebrochondral ribs"
+    },
+    {
+        "question": "Which of the following is true about rib pairs 11 and 12?",
+        "options": {
+            "A": "They are known as vertebrosternal ribs and attach directly to the sternum.",
+            "B": "They do not have any attachment to the sternum or cartilage and are called floating ribs.",
+            "C": "They are vertebrochondral ribs and attach to the cartilage of the 7th rib.",
+            "D": "They attach directly to the costal cartilage of the 8th rib."
+        },
+        "answer": "B) They do not have any attachment to the sternum or cartilage and are called floating ribs."
+    },
+    {
+        "question": "The costal cartilages of ribs 8 to 10 attach to:",
+        "options": {
+            "A": "The sternum directly",
+            "B": "The costal cartilage of the 7th rib",
+            "C": "The thoracic vertebrae",
+            "D": "The manubrium"
+        },
+        "answer": "B) The costal cartilage of the 7th rib"
+    },
+    {
+        "question": "Which of the following ribs is NOT attached directly to the sternum?",
+        "options": {
+            "A": "1st rib",
+            "B": "2nd rib",
+            "C": "5th rib",
+            "D": "9th rib"
+        },
+        "answer": "D) 9th rib"
+    },
+    {
+        "question": "What is the main function of the thoracic cage?",
+        "options": {
+            "A": "To provide attachment for the muscles of the neck",
+            "B": "To encircle the chest, protect vital organs, and assist in breathing",
+            "C": "To support the weight of the arms",
+            "D": "To store calcium and phosphate"
+        },
+        "answer": "B) To encircle the chest, protect vital organs, and assist in breathing"
+    },
+    {
+        "question": "How many pectoral girdles are there in the human body?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        },
+        "answer": "B) 2"
+    },
+    {
+        "question": "Each pectoral girdle is composed of which two bones?",
+        "options": {
+            "A": "Humerus and scapula",
+            "B": "Scapula and clavicle",
+            "C": "Radius and ulna",
+            "D": "Sternum and clavicle"
+        },
+        "answer": "B) Scapula and clavicle"
+    },
+    {
+        "question": "The pectoral girdle attaches the upper limb to which part of the skeleton?",
+        "options": {
+            "A": "Pelvic girdle",
+            "B": "Thoracic cage",
+            "C": "Axial skeleton",
+            "D": "Vertebral column"
+        },
+        "answer": "C) Axial skeleton"
+    },
+    {
+        "question": "What is the function of the glenoid cavity or fossa in the scapula?",
+        "options": {
+            "A": "To provide attachment for shoulder muscles",
+            "B": "To form the elbow joint",
+            "C": "To articulate with the head of the humerus",
+            "D": "To protect the ribs"
+        },
+        "answer": "C) To articulate with the head of the humerus"
+    },
+    {
+        "question": "The glenoid cavity is located on which bone?",
+        "options": {
+            "A": "Clavicle",
+            "B": "Scapula",
+            "C": "Sternum",
+            "D": "Humerus"
+        },
+        "answer": "B) Scapula"
+    },
+    {
+        "question": "Which of the following correctly describes the scapula?",
+        "options": {
+            "A": "It is also known as the breastbone.",
+            "B": "It is a flat bone that forms part of the pectoral girdle.",
+            "C": "It is part of the vertebral column.",
+            "D": "It articulates with the pelvis."
+        },
+        "answer": "B) It is a flat bone that forms part of the pectoral girdle."
+    },
+    {
+        "question": "What is the primary function of the clavicle in the pectoral girdle?",
+        "options": {
+            "A": "To protect the ribcage",
+            "B": "To stabilize the scapula and allow for free movement of the upper limb",
+            "C": "To form the elbow joint",
+            "D": "To connect the humerus to the scapula"
+        },
+        "answer": "B) To stabilize the scapula and allow for free movement of the upper limb"
+    },
+    {
+        "question": "The articulation between the scapula and the humerus forms which joint?",
+        "options": {
+            "A": "Elbow joint",
+            "B": "Shoulder joint",
+            "C": "Wrist joint",
+            "D": "Sternoclavicular joint"
+        },
+        "answer": "B) Shoulder joint"
+    },
+    {
+        "question": "What type of joint is formed between the scapula's glenoid cavity and the humerus?",
+        "options": {
+            "A": "Hinge joint",
+            "B": "Ball-and-socket joint",
+            "C": "Pivot joint",
+            "D": "Saddle joint"
+        },
+        "answer": "B) Ball-and-socket joint"
+    },
+    {
+        "question": "Which of the following is true regarding the pectoral girdle?",
+        "options": {
+            "A": "It is firmly attached to the axial skeleton for stability.",
+            "B": "It provides a stable base for the upper limb but limits its mobility.",
+            "C": "It allows for a wide range of motion in the upper limbs due to its loose attachment to the axial skeleton.",
+            "D": "It consists of the sacrum and pelvis."
+        },
+        "answer": "C) It allows for a wide range of motion in the upper limbs due to its loose attachment to the axial skeleton."
+    },
+    {
+        "question": "Which bone is commonly referred to as the \"arm bone\"?",
+        "options": {
+            "A": "Radius",
+            "B": "Ulna",
+            "C": "Humerus",
+            "D": "Scapula"
+        },
+        "answer": "C) Humerus"
+    },
+    {
+        "question": "Which of the following is the medial bone of the forearm?",
+        "options": {
+            "A": "Radius",
+            "B": "Humerus",
+            "C": "Ulna",
+            "D": "Scapula"
+        },
+        "answer": "C) Ulna"
+    },
+    {
+        "question": "The radius is located on which side of the forearm in the anatomical position?",
+        "options": {
+            "A": "Medial",
+            "B": "Lateral",
+            "C": "Superior",
+            "D": "Inferior"
+        },
+        "answer": "B) Lateral"
+    },
+    {
+        "question": "Which of the following bones is part of the wrist?",
+        "options": {
+            "A": "Metacarpus",
+            "B": "Carpus",
+            "C": "Phalanges",
+            "D": "Humerus"
+        },
+        "answer": "B) Carpus"
+    },
+    {
+        "question": "The carpus consists of how many bones?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "answer": "D) 8"
+    },
+    {
+        "question": "The metacarpus forms which part of the hand?",
+        "options": {
+            "A": "Fingers",
+            "B": "Wrist",
+            "C": "Palm of the hand",
+            "D": "Elbow"
+        },
+        "answer": "C) Palm of the hand"
+    },
+    {
+        "question": "How many metacarpal bones make up the palm of the hand?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "8"
+        },
+        "answer": "B) 5"
+    },
+    {
+        "question": "The phalanges are the bones of which part of the upper limb?",
+        "options": {
+            "A": "Wrist",
+            "B": "Elbow",
+            "C": "Hand",
+            "D": "Fingers"
+        },
+        "answer": "D) Fingers"
+    },
+    {
+        "question": "How many phalanges are in each finger of the hand, excluding the thumb?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B) 3"
+    },
+    {
+        "question": "The shoulder and elbow joints are classified as which type of joints?",
+        "options": {
+            "A": "Hinge joints",
+            "B": "Ball-and-socket joints",
+            "C": "Pivot joints",
+            "D": "Saddle joints"
+        },
+        "answer": "B) Ball-and-socket joints (shoulder) and A) Hinge joint (elbow)"
+    },
+    {
+        "question": "The ulna and radius are connected by which type of tissue?",
+        "options": {
+            "A": "Tendons",
+            "B": "Ligaments",
+            "C": "Cartilage",
+            "D": "Interosseous membrane"
+        },
+        "answer": "D) Interosseous membrane"
+    },
+    {
+        "question": "Which of the following bones is located in the upper arm?",
+        "options": {
+            "A": "Radius",
+            "B": "Ulna",
+            "C": "Humerus",
+            "D": "Carpal bones"
+        },
+        "answer": "C) Humerus"
+    },
+    {
+        "question": "The elbow joint connects which two bones?",
+        "options": {
+            "A": "Humerus and radius",
+            "B": "Radius and ulna",
+            "C": "Humerus and scapula",
+            "D": "Humerus and ulna"
+        },
+        "answer": "D) Humerus and ulna"
+    },
+    {
+        "question": "The pelvic girdle is composed of which two bones?",
+        "options": {
+            "A": "Clavicle and scapula",
+            "B": "Femur and tibia",
+            "C": "Ossa coxae (hip bones)",
+            "D": "Radius and ulna"
+        },
+        "answer": "C) Ossa coxae (hip bones)"
+    },
+    {
+        "question": "Each os coxa is formed by the fusion of how many separate bones?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B) 3"
+    },
+    {
+        "question": "Which of the following is the largest and most superior part of the os coxa?",
+        "options": {
+            "A": "Ilium",
+            "B": "Ischium",
+            "C": "Pubis",
+            "D": "Acetabulum"
+        },
+        "answer": "A) Ilium"
+    },
+    {
+        "question": "The ischium is located in which part of the os coxa?",
+        "options": {
+            "A": "Superior portion",
+            "B": "Inferior, posterior portion",
+            "C": "Anterior inferior portion",
+            "D": "Medial portion"
+        },
+        "answer": "B) Inferior, posterior portion"
+    },
+    {
+        "question": "Which of the following is the anterior inferior portion of the os coxa?",
+        "options": {
+            "A": "Ilium",
+            "B": "Ischium",
+            "C": "Pubis",
+            "D": "Acetabulum"
+        },
+        "answer": "C) Pubis"
+    },
+    {
+        "question": "The acetabulum is a deep indentation located on which bone?",
+        "options": {
+            "A": "Ilium",
+            "B": "Ischium",
+            "C": "Pubis",
+            "D": "Ossa coxae"
+        },
+        "answer": "D) Ossa coxae (specifically formed by the fusion of the ilium, ischium, and pubis)"
+    },
+    {
+        "question": "What is the function of the acetabulum?",
+        "options": {
+            "A": "To house the head of the humerus",
+            "B": "To connect the femur to the pelvis",
+            "C": "To form the sacroiliac joint",
+            "D": "To provide attachment for abdominal muscles"
+        },
+        "answer": "B) To connect the femur to the pelvis"
+    },
+    {
+        "question": "Which of the following is the largest foramen in the human skeleton?",
+        "options": {
+            "A": "Obturator foramen",
+            "B": "Foramen magnum",
+            "C": "Mental foramen",
+            "D": "Supraorbital foramen"
+        },
+        "answer": "A) Obturator foramen"
+    },
+    {
+        "question": "Which of the following is a deep cup-shaped structure that holds the head of the femur?",
+        "options": {
+            "A": "Pubic symphysis",
+            "B": "Acetabulum",
+            "C": "Ischial tuberosity",
+            "D": "Obturator foramen"
+        },
+        "answer": "B) Acetabulum"
+    },
+    {
+        "question": "The pelvic girdle attaches which part of the body to the axial skeleton?",
+        "options": {
+            "A": "Lower limbs",
+            "B": "Upper limbs",
+            "C": "Head",
+            "D": "Spine"
+        },
+        "answer": "A) Lower limbs"
+    },
+    {
+        "question": "The obturator foramen is located in which bone?",
+        "options": {
+            "A": "Ilium",
+            "B": "Ischium",
+            "C": "Pubis",
+            "D": "Femur"
+        },
+        "answer": "B) Ischium and C) Pubis (It is formed by the fusion of the ischium and pubis)"
+    },
+    {
+        "question": "Which of the following is the largest and strongest bone in the human skeleton?",
+        "options": {
+            "A": "Humerus",
+            "B": "Femur",
+            "C": "Tibia",
+            "D": "Fibula"
+        },
+        "answer": "B) Femur"
+    },
+    {
+        "question": "Which bone is commonly referred to as the kneecap?",
+        "options": {
+            "A": "Patella",
+            "B": "Tibia",
+            "C": "Fibula",
+            "D": "Femur"
+        },
+        "answer": "A) Patella"
+    },
+    {
+        "question": "Which of the following bones is the weight-bearing bone of the leg?",
+        "options": {
+            "A": "Fibula",
+            "B": "Tibia",
+            "C": "Femur",
+            "D": "Patella"
+        },
+        "answer": "B) Tibia"
+    },
+    {
+        "question": "The fibula is located on which side of the leg in the anatomical position?",
+        "options": {
+            "A": "Medial",
+            "B": "Lateral",
+            "C": "Posterior",
+            "D": "Superior"
+        },
+        "answer": "B) Lateral"
+    },
+    {
+        "question": "How many tarsal bones are there in the ankle?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "answer": "C) 7"
+    },
+    {
+        "question": "Which of the following bones makes up the arch of the foot?",
+        "options": {
+            "A": "Metatarsals",
+            "B": "Phalanges",
+            "C": "Tarsals",
+            "D": "Femur"
+        },
+        "answer": "C) Tarsals"
+    },
+    {
+        "question": "The metatarsus is composed of how many metatarsal bones?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "10",
+            "D": "12"
+        },
+        "answer": "A) 5"
+    },
+    {
+        "question": "The phalanges of the toes are similar to the phalanges in which part of the body?",
+        "options": {
+            "A": "Hands",
+            "B": "Elbows",
+            "C": "Knees",
+            "D": "Shoulders"
+        },
+        "answer": "A) Hands"
+    },
+    {
+        "question": "Which bone of the lower limb is located medially?",
+        "options": {
+            "A": "Tibia",
+            "B": "Fibula",
+            "C": "Patella",
+            "D": "Femur"
+        },
+        "answer": "A) Tibia"
+    },
+    {
+        "question": "Which of the following bones of the lower limb is slender and does not bear weight?",
+        "options": {
+            "A": "Tibia",
+            "B": "Fibula",
+            "C": "Femur",
+            "D": "Patella"
+        },
+        "answer": "B) Fibula"
+    },
+    {
+        "question": "The femur articulates with which of the following bones to form the knee joint?",
+        "options": {
+            "A": "Tibia and fibula",
+            "B": "Patella and tibia",
+            "C": "Tibia and femur",
+            "D": "Femur and fibula"
+        },
+        "answer": "B) Patella and tibia"
+    },
+    {
+        "question": "How many phalanges are in each toe (excluding the big toe)?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "answer": "B) 3"
+    },
+    {
+        "question": "What is the primary function of the tibia in the lower limb?",
+        "options": {
+            "A": "To stabilize the knee joint",
+            "B": "To provide balance while standing",
+            "C": "To bear weight from the body",
+            "D": "To connect the knee and ankle joints"
+        },
+        "answer": "C) To bear weight from the body"
+    },
+    {
+        "question": "Joints that connect bones with little to no movement are classified as:",
+        "options": {
+            "A": "Amphiarthroses",
+            "B": "Diarthroses",
+            "C": "Synarthroses",
+            "D": "Synovial joints"
+        },
+        "answer": "C) Synarthroses"
+    },
+    {
+        "question": "Which of the following is an example of a slightly movable joint (amphiarthrosis)?",
+        "options": {
+            "A": "Sutures between skull bones",
+            "B": "Pubic symphysis",
+            "C": "Knee joint",
+            "D": "Shoulder joint"
+        },
+        "answer": "B) Pubic symphysis"
+    },
+    {
+        "question": "Diarthroses are also known as:",
+        "options": {
+            "A": "Immovable joints",
+            "B": "Slightly movable joints",
+            "C": "Freely movable joints",
+            "D": "Cartilaginous joints"
+        },
+        "answer": "C) Freely movable joints"
+    },
+    {
+        "question": "Which of the following joints is classified as a synovial joint?",
+        "options": {
+            "A": "Sutures between skull bones",
+            "B": "Intervertebral joints",
+            "C": "Pubic symphysis",
+            "D": "Knee joint"
+        },
+        "answer": "D) Knee joint"
+    },
+    {
+        "question": "What is the primary characteristic of a synovial joint?",
+        "options": {
+            "A": "Bones are connected by fibrocartilage",
+            "B": "There is no movement between the bones",
+            "C": "A synovial cavity filled with synovial fluid exists between the bones",
+            "D": "The joint is immovable"
+        },
+        "answer": "C) A synovial cavity filled with synovial fluid exists between the bones"
+    },
+    {
+        "question": "Which of the following joints is an example of a synarthrosis?",
+        "options": {
+            "A": "Elbow joint",
+            "B": "Suture between skull bones",
+            "C": "Shoulder joint",
+            "D": "Intervertebral joint"
+        },
+        "answer": "B) Suture between skull bones"
+    },
+    {
+        "question": "Which of the following types of joints allows for the greatest range of motion?",
+        "options": {
+            "A": "Synarthroses",
+            "B": "Amphiarthroses",
+            "C": "Diarthroses",
+            "D": "Fibrous joints"
+        },
+        "answer": "C) Diarthroses"
+    },
+    {
+        "question": "Which joint is found between the bones of the skull?",
+        "options": {
+            "A": "Synovial joint",
+            "B": "Suture",
+            "C": "Ball-and-socket joint",
+            "D": "Pivot joint"
+        },
+        "answer": "B) Suture"
+    },
+    {
+        "question": "Which of the following joints is an example of a diarthrosis?",
+        "options": {
+            "A": "Pubic symphysis",
+            "B": "Hip joint",
+            "C": "Teeth sockets",
+            "D": "Sternocostal joint"
+        },
+        "answer": "B) Hip joint"
+    },
+    {
+        "question": "In which type of joint is synovial fluid found?",
+        "options": {
+            "A": "Amphiarthroses",
+            "B": "Synarthroses",
+            "C": "Diarthroses",
+            "D": "Cartilaginous joints"
+        },
+        "answer": "C) Diarthroses"
+    },
+    {
+        "question": "Which of the following statements about synovial joints is true?",
+        "options": {
+            "A": "They are immovable",
+            "B": "They are connected by fibrocartilage",
+            "C": "They have a synovial cavity filled with synovial fluid",
+            "D": "They have no range of motion"
+        },
+        "answer": "C) They have a synovial cavity filled with synovial fluid"
+    },
+    {
+        "question": "Which of the following is NOT a functional classification of joints?",
+        "options": {
+            "A": "Synarthroses",
+            "B": "Diarthroses",
+            "C": "Amphiarthroses",
+            "D": "Cartilaginous joints"
+        },
+        "answer": "D) Cartilaginous joints"
+    }
+]
