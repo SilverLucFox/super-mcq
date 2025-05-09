@@ -66,7 +66,7 @@ d) Madrid
 Answer: b
 ```
 
-*(Use an empty line between questions)*
+*(Use an empty line between questions or not updated for not may case problems)*
 
 ---
 
