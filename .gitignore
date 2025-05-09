@@ -1,0 +1,49 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Server logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Local development data
+lib/_temp/
+lib/_backups/
+
+# Testing/coverage
+coverage/
+.nyc_output/
+
+# Built files
+dist/
+build/
+public/bundle.js
+public/*.map
+
+# Temporary files
+*.tmp
+*.temp

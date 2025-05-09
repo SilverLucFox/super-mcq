@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.controls {
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+}
+
+select, button {
+    padding: 8px 12px;
+    font-size: 16px;
+}
+
+.question {
+    margin: 20px 0;
+}
+
+.options {
+    list-style: none;
+    padding: 0;
+}
+
+.options li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+}
+
+.options label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.correct { color: green; }
+.incorrect { color: red; }
+.error { color: darkred; }
