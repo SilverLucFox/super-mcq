@@ -11,24 +11,35 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="container">
-      <h1>🧠 Universal MCQ Game</h1>
-      <div class="controls">
-        <select id="category-select">
-          <option value="" disabled selected>Select a category</option>
-        </select>
-        <button id="start-btn">Start Quiz</button>
-      </div>
-      <div id="progress"></div>
-      <div id="question-count"></div>
-      <div id="question-area"></div>
-      <button id="submit-btn" disabled>Submit Answer</button>
+    <div class="layout">
+      <aside class="sidebar">
+        <h1>🧠 Super MCQ</h1>
+        <p class="tagline">Master any subject with ease</p>
+        <div class="controls">
+          <label for="category-select">Select Category</label>
+          <select id="category-select">
+            <option value="" disabled selected>Choose category</option>
+          </select>
+          <button id="start-btn">Start Quiz</button>
+        </div>
+        <footer>
+          Made By
+          <a href="https://github.com/SilverLucFox" target="_blank"
+            >SilverFox</a
+          >
+        </footer>
+      </aside>
 
-      <footer>
-        Made by
-        <a href="https://github.com/SilverLucFox" target="_blank">SilverFox</a>
-      </footer>
+      <main class="main-area">
+        <div id="progress" class="info-box"></div>
+        <div id="question-count" class="info-box"></div>
+        <div id="question-area" class="question-box"></div>
+        <button id="submit-btn" class="submit-btn" disabled>
+          Submit Answer
+        </button>
+      </main>
     </div>
+
     <script src="app.js"></script>
   </body>
 </html>
