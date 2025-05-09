@@ -176,7 +176,3 @@ python converter/txt_to_json.py history.txt lib/History.json
 ✅ The new **History** category will automatically appear in the web interface!
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
