@@ -123,7 +123,6 @@ footer a:hover {
   font-size: 1.1rem;
   line-height: 1.6;
   color: #f1f5f9;
-  word-wrap: break-word;
 }
 
 .submit-btn {
@@ -147,15 +146,22 @@ footer a:hover {
     padding: 2rem;
   }
 }
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+    height: auto;
+    min-height: 100vh;
+  }
 
-@media (max-width: 480px) {
   .sidebar {
-    padding: 1.5rem 1rem;
-    box-shadow: none;
+    width: 100%;
+    padding: 1.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   }
 
   .sidebar h1 {
     font-size: 1.5rem;
+    margin-bottom: 0.25rem;
   }
 
   .sidebar .tagline {
@@ -164,65 +170,61 @@ footer a:hover {
   }
 
   .controls {
-    width: 100%;
-    align-items: stretch;
+    gap: 0.75rem;
   }
 
   select,
   button {
-    width: 100%;
-    font-size: 0.95rem;
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
   }
 
   .main-area {
     padding: 1.5rem;
-    gap: 1rem;
+    overflow-y: visible;
   }
 
   .question-box {
+    padding: 1.2rem;
     font-size: 1rem;
-    padding: 1.5rem;
+    min-height: 120px;
   }
 
   .submit-btn {
     width: 100%;
+    padding: 0.8rem;
     text-align: center;
   }
 
   footer {
+    margin-top: 1.5rem;
     font-size: 0.75rem;
-    padding: 1rem 0;
+  }
+
+  /* Touch optimization */
+  button {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Prevent zoom on input */
+  @media (max-width: 480px) {
+    select {
+      font-size: 16px; /* Prevent iOS zoom */
+    }
   }
 }
 
-
-@media (max-width: 600px) {
-  .sidebar {
-    display: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100%;
-    background: #1e293b;
-    z-index: 999;
-    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease;
-    transform: translateX(-100%);
-  }
-
-  .sidebar.active {
-    display: flex;
-    transform: translateX(0);
-  }
-  .menu-toggle {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    width: 15%;
-    display: block;
-  }
+@media (max-width: 480px) {
   .main-area {
-    padding: 2rem 1rem;
+    padding: 1rem;
+  }
+
+  .question-box {
+    padding: 1rem;
+    line-height: 1.5;
+  }
+
+  .info-box {
+    font-size: 0.9rem;
   }
 }
