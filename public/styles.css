@@ -254,16 +254,16 @@ footer a:hover {
     position: fixed;
     height: 100vh;
     z-index: 999;
-    transform: translateX(-100%);
+    transform: translateX(0);
     transition: transform 0.3s ease;
   }
 
   .sidebar.visible {
-    transform: translateX(0);
+    transform: translateX(-100%);
   }
 
   .sidebar.hidden {
-    transform: translateX(-100%);
+    transform: translateX(0);
   }
 
   .main-area.fullscreen {
