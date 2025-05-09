@@ -71,21 +71,21 @@ function renderQuestion(index) {
 
     const q = incorrectQuestions[index];
     questionArea.innerHTML = `
-        <div class="question">
-            <h3>Q${index + 1}: ${q.question}</h3>
-            <ul class="options">
-                ${Object.entries(q.options).map(([key, value]) => `
-                    <li>
-                        <label>
-                            <input type="radio" name="question-${index}" value="${key}">
-                            ${key}: ${value}
-                        </label>
-                    </li>
-                `).join('')}
-            </ul>
-            <div id="feedback"></div>
-        </div>
-    `;
+    <div class="question">
+        <h3>Q${index + 1}: ${q.question}</h3>
+        <ul class="options">
+            ${Object.entries(q.options).map(([key, value]) => `
+                <li>
+                    <label>
+                        <input type="radio" name="question-${index}" value="${key}">
+                        ${key}: ${value}
+                    </label>
+                </li>
+            `).join('')}
+        </ul>
+        <div id="feedback"></div>
+    </div>
+`;
     questionCount.textContent = `Question ${index + 1} of ${incorrectQuestions.length}`;
 }
 
@@ -145,8 +145,7 @@ mobileToggle.addEventListener('click', () => {
 // Start Quiz button handler modifications
 startBtn.addEventListener('click', () => {
     if (window.innerWidth <= 768) {
-        sidebar.classList.add('hidden');
-        mobileToggle.style.display = 'none';
+        sidebar.classList.toggle('visible');
         document.querySelector('.main-area').classList.add('fullscreen');
     }
 });

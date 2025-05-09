@@ -228,9 +228,6 @@ footer a:hover {
     font-size: 0.9rem;
   }
 }
-.mobile-only {
-  display: none;
-}
 
 @media (max-width: 768px) {
   .mobile-only {
@@ -247,8 +244,7 @@ footer a:hover {
   }
 
   #mobile-toggle {
-    top: 1rem;
-    bottom: auto;
+    bottom: 1rem;
   }
 
   .sidebar {
@@ -271,4 +267,18 @@ footer a:hover {
     margin-left: 0;
     width: 100%;
   }
+}
+.options {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.options li {
+  display: flex;
+  
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
 }
