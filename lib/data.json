@@ -1,0 +1,332 @@
+[
+    {
+        "question": "The managerial function that involves defining the organization's goals, establishing strategies for achieving those goals, and developing plans to integrate and coordinate work activities is:",
+        "options": {
+            "A": "Leading",
+            "B": "Controlling",
+            "C": "Planning",
+            "D": "Organizing",
+            "E": "Directing"
+        },
+        "answer": "C) Planning"
+    },
+    {
+        "question": "Almost all managers participate in some form of planning in order to provide direction to employees, minimize waste and redundancy, and ________.",
+        "options": {
+            "A": "Monitor and correct work performance",
+            "B": "Eliminate competition",
+            "C": "Reduce the number of cost increases",
+            "D": "Reduce uncertainty",
+            "E": "Coordinate work tasks"
+        },
+        "answer": "D) Reduce uncertainty"
+    },
+    {
+        "question": "Planning is concerned with ________.",
+        "options": {
+            "A": "Only the coordination of tasks needed to achieve an objective",
+            "B": "Both what is to be done and how it should be done",
+            "C": "Developing a broad strategy for success",
+            "D": "Only the primary objective",
+            "E": "Only setting the organization's objectives but not the strategies to achieve them"
+        },
+        "answer": "B) Both what is to be done and how it should be done"
+    },
+    {
+        "question": "The relationship between planning and performance is best described as ________.",
+        "options": {
+            "A": "Always positive",
+            "B": "Usually positive",
+            "C": "Always negative",
+            "D": "No relationship",
+            "E": "Usually negative"
+        },
+        "answer": "B) Usually positive"
+    },
+    {
+        "question": "Which of the following is NOT one of the reasons why managers should plan?",
+        "options": {
+            "A": "Planning reduces waste and inefficiency.",
+            "B": "Planning sets goals used for controlling purposes.",
+            "C": "Planning offers direction.",
+            "D": "Planning minimizes uncertainty.",
+            "E": "Planning improves social status."
+        },
+        "answer": "E) Planning improves social status"
+    },
+    {
+        "question": "By engaging in planning, a manager is most likely able to coordinate work activities and ________.",
+        "options": {
+            "A": "Form single-use strategies",
+            "B": "Correct inefficiencies",
+            "C": "Overcome resistance to change",
+            "D": "Develop stretch goals",
+            "E": "Strengthen the organizational culture"
+        },
+        "answer": "B) Correct inefficiencies"
+    },
+    {
+        "question": "An HR procedure providing guidance to hiring managers who repeatedly interview job candidates would be an example of a ________ plan.",
+        "options": {
+            "A": "Directional",
+            "B": "Long-term",
+            "C": "Standing",
+            "D": "Strategic",
+            "E": "Single-use"
+        },
+        "answer": "C) Standing"
+    },
+    {
+        "question": "Plans with time frames beyond five years are ________-term plans; plans with time frames of one year or less are ________-term plans.",
+        "options": {
+            "A": "Short; intermediate",
+            "B": "Short; long",
+            "C": "Intermediate; long",
+            "D": "Intermediate; short",
+            "E": "Long; short"
+        },
+        "answer": "E) Long; short"
+    },
+    {
+        "question": "________ are desired organizational outcomes that guide management decisions and serve as standards for measuring the results of work activities.",
+        "options": {
+            "A": "Single-use plans",
+            "B": "Goals",
+            "C": "Plans",
+            "D": "Strategies",
+            "E": "Formal plans"
+        },
+        "answer": "B) Goals"
+    },
+    {
+        "question": "Strategic plans evolve from an organization's ________.",
+        "options": {
+            "A": "Short-term plans",
+            "B": "Operational plan",
+            "C": "Long-term plans",
+            "D": "Directional plans",
+            "E": "Mission"
+        },
+        "answer": "E) Mission"
+    },
+    {
+        "question": "Which type of plan is flexible and provides managers with a general set of guidelines?",
+        "options": {
+            "A": "Standing plan",
+            "B": "Directional plan",
+            "C": "Single-use plan",
+            "D": "Operational plan",
+            "E": "Short-term plan"
+        },
+        "answer": "B) Directional plan"
+    },
+    {
+        "question": "Which term is LEAST likely to be used to describe different types of organizational plans?",
+        "options": {
+            "A": "Specificity",
+            "B": "Breadth",
+            "C": "Time frame",
+            "D": "Frequency of use",
+            "E": "Target"
+        },
+        "answer": "E) Target"
+    },
+    {
+        "question": "The planning effort by top management in large companies is more ________.",
+        "options": {
+            "A": "Disruptive",
+            "B": "Strategic",
+            "C": "Contingent",
+            "D": "Operational",
+            "E": "Flexible"
+        },
+        "answer": "B) Strategic"
+    },
+    {
+        "question": "Which of the following statements is true concerning planning?",
+        "options": {
+            "A": "When disruptors are attacking an industry, plans should be more flexible.",
+            "B": "The greater the environmental uncertainty, the more plans should be specific.",
+            "C": "If major, rapid changes are taking place, precise plans are more effective in aiding organizational performance.",
+            "D": "The more that current plans affect future commitments, the shorter the time frame for which management should plan.",
+            "E": "Managers are planning for future decisions."
+        },
+        "answer": "A) When disruptors are attacking an industry, plans should be more flexible."
+    },
+    {
+        "question": "Lower-level managers are primarily concerned with which type of planning?",
+        "options": {
+            "A": "Mission-based planning",
+            "B": "Both strategic and operational planning",
+            "C": "Strategic planning",
+            "D": "Long-term planning",
+            "E": "Operational planning"
+        },
+        "answer": "E) Operational planning"
+    },
+    {
+        "question": "Contingency factors that affect planning include all of the following EXCEPT ________.",
+        "options": {
+            "A": "Length of future commitments",
+            "B": "Level in the organization",
+            "C": "Degree of environmental uncertainty",
+            "D": "Organizational mission",
+            "E": "Time frame"
+        },
+        "answer": "D) Organizational mission"
+    },
+    {
+        "question": "The ________ states that the more current plans affect future commitments, the longer the time frame for which management should plan.",
+        "options": {
+            "A": "Mission",
+            "B": "Uncertainty concept",
+            "C": "Commitment concept",
+            "D": "Contingency plan",
+            "E": "Operational plan"
+        },
+        "answer": "C) Commitment concept"
+    },
+    {
+        "question": "More uncertain environments call for ________ plans.",
+        "options": {
+            "A": "Specific",
+            "B": "Static",
+            "C": "More focused",
+            "D": "Long-term",
+            "E": "More flexible"
+        },
+        "answer": "E) More flexible"
+    },
+    {
+        "question": "The phrase \"actions define priorities\" speaks to an organization's ________.",
+        "options": {
+            "A": "Goals",
+            "B": "Real objectives",
+            "C": "Purpose",
+            "D": "Stated objectives",
+            "E": "Mission"
+        },
+        "answer": "B) Real objectives"
+    },
+    {
+        "question": "Which of the following is the last objective linking the hierarchy of the MBO process?",
+        "options": {
+            "A": "Reinforcement of successful achievement of objectives through performance-based rewards",
+            "B": "Allocation of major organizational objectives among divisional and departmental units",
+            "C": "Periodic review of progress toward objectives",
+            "D": "Collaborative establishment of specific objectives with all department members",
+            "E": "Implementation of action plans"
+        },
+        "answer": "A) Reinforcement of successful achievement of objectives through performance-based rewards"
+    },
+    {
+        "question": "________ goals are usually included in official documents and statements such as an organization's charter or its annual report.",
+        "options": {
+            "A": "Real",
+            "B": "Long-term",
+            "C": "Stated",
+            "D": "Multiple",
+            "E": "Short-term"
+        },
+        "answer": "C) Stated"
+    },
+    {
+        "question": "Which of the following involves top managers establishing goals, which then trickle downward through the organization to become subgoals in organizational areas?",
+        "options": {
+            "A": "Stretch goal-setting",
+            "B": "Commitment concept",
+            "C": "Means-ends chain",
+            "D": "Management by objectives",
+            "E": "Traditional goal-setting"
+        },
+        "answer": "C) Means-ends chain"
+    },
+    {
+        "question": "________ says that plans should extend far enough to meet any obligations made when the plans were developed.",
+        "options": {
+            "A": "A mission",
+            "B": "A contingency factor",
+            "C": "A means-ends chain",
+            "D": "A commitment concept",
+            "E": "Traditional goal setting"
+        },
+        "answer": "D) A commitment concept"
+    },
+    {
+        "question": "What is the first step a manager should take when setting goals?",
+        "options": {
+            "A": "Analyze available resources.",
+            "B": "Review the mission of the organization.",
+            "C": "Evaluate whether goals are being met.",
+            "D": "Gather input from others to determine the goals.",
+            "E": "Write down the desired goals and communicate them to others."
+        },
+        "answer": "B) Review the mission of the organization"
+    },
+    {
+        "question": "Which of the following is the best description of environmental scanning?",
+        "options": {
+            "A": "Screening information to detect emerging trends",
+            "B": "Gathering information about competitors that allows managers to anticipate competitors' actions",
+            "C": "Analyzing the organization's strengths, weaknesses, opportunities, and threats",
+            "D": "Establishing mutually agreed-upon goals and using those goals to evaluate employee performance",
+            "E": "Establishing plans that are flexible and set out general guidelines rather than specific goals"
+        },
+        "answer": "A) Screening information to detect emerging trends"
+    },
+    {
+        "question": "Judi monitors her competitors' blogs, posts, and websites and the Twitter messages of their CEOs, and she records dates and notes on a spreadsheet, looking for patterns. Judi is performing ________.",
+        "options": {
+            "A": "Management by objectives (MBO)",
+            "B": "Traditional goal-setting",
+            "C": "Strategic planning",
+            "D": "A SWOT analysis",
+            "E": "Competitive intelligence"
+        },
+        "answer": "E) Competitive intelligence"
+    },
+    {
+        "question": "Which of the following primarily involves assessing information to determine emerging trends?",
+        "options": {
+            "A": "Identifying the commitment concept",
+            "B": "Environmental scanning",
+            "C": "Creating a standing plan",
+            "D": "Digital tools",
+            "E": "Formal planning"
+        },
+        "answer": "B) Environmental scanning"
+    },
+    {
+        "question": "Which of the following involves collecting basic information about rival firms for the purpose of anticipating their actions?",
+        "options": {
+            "A": "Organizational analysis",
+            "B": "Competitor intelligence",
+            "C": "Planning",
+            "D": "Commitment concept",
+            "E": "Social networking"
+        },
+        "answer": "B) Competitor intelligence"
+    },
+    {
+        "question": "Which statement is true about competitive intelligence?",
+        "options": {
+            "A": "Gathering competitive intelligence is always an illegal activity.",
+            "B": "Competitive intelligence is always considered unethical.",
+            "C": "There is often only a small difference between what is legal and what is ethical when working with competitive intelligence.",
+            "D": "Managers do not need to be concerned with the ethical aspect of competitive intelligence.",
+            "E": "The Economic Espionage Act makes it a crime to engage in economic espionage anywhere in the world."
+        },
+        "answer": "C) There is often only a small difference between what is legal and what is ethical when working with competitive intelligence."
+    },
+    {
+        "question": "Which of these techniques or technologies is emerging as a planning tool for managers?",
+        "options": {
+            "A": "Computer games",
+            "B": "5G phones",
+            "C": "Twitter",
+            "D": "MBO",
+            "E": "Virtual reality"
+        },
+        "answer": "E) Virtual reality"
+    }
+]

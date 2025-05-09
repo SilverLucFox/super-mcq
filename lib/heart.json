@@ -1,0 +1,1752 @@
+[
+    {
+        "question": "Which of the following statements is true about the closed circulatory system in humans?",
+        "options": {
+            "a": "Blood flows freely through the body cavity and is not confined to blood vessels.",
+            "b": "The heart pumps blood into large vessels, which then branch into smaller vessels leading into organs.",
+            "c": "The blood and interstitial fluid mix directly in the body tissues.",
+            "d": "Blood is not pumped by the heart but instead flows passively through the body."
+        },
+        "answer": "b) The heart pumps blood into large vessels, which then branch into smaller vessels leading into organs."
+    },
+    {
+        "question": "In a closed circulatory system, how are materials exchanged between the blood and cells?",
+        "options": {
+            "a": "Materials are exchanged through the walls of the heart.",
+            "b": "Diffusion occurs between the blood and interstitial fluid bathing the cells.",
+            "c": "Materials are exchanged directly between the blood and the organs.",
+            "d": "The blood carries oxygen and nutrients, but waste products are not exchanged."
+        },
+        "answer": "b) Diffusion occurs between the blood and interstitial fluid bathing the cells."
+    },
+    {
+        "question": "Which of the following is a characteristic of the closed circulatory system?",
+        "options": {
+            "a": "Blood is not confined to vessels and is mixed with interstitial fluid.",
+            "b": "Blood is confined to vessels and distinct from the interstitial fluid.",
+            "c": "Blood circulates freely within the body cavity.",
+            "d": "Blood is pumped directly into the organs without passing through vessels."
+        },
+        "answer": "b) Blood is confined to vessels and distinct from the interstitial fluid."
+    },
+    {
+        "question": "Which of the following best describes the structure of cardiac muscle cells (cardiomyocytes)?",
+        "options": {
+            "a": "They are long, multinucleated cells that do not connect with each other.",
+            "b": "They are short, branched cells that are highly interconnected.",
+            "c": "They are smooth, unbranched cells that contract independently.",
+            "d": "They are large, cylindrical cells with a single nucleus."
+        },
+        "answer": "b) They are short, branched cells that are highly interconnected."
+    },
+    {
+        "question": "Which of the following is a key feature of the cardiovascular system?",
+        "options": {
+            "a": "The heart pumps blood through arteries, veins, and capillaries.",
+            "b": "The heart pumps air into the lungs for oxygen exchange.",
+            "c": "The blood vessels carry oxygen directly to tissues.",
+            "d": "Blood vessels serve as storage sites for hormones."
+        },
+        "answer": "a) The heart pumps blood through arteries, veins, and capillaries."
+    },
+    {
+        "question": "Which of the following is TRUE about cardiomyocytes?",
+        "options": {
+            "a": "They have a single nucleus and are capable of rapid cell division.",
+            "b": "They are interconnected by specialized structures called intercalated discs.",
+            "c": "They are primarily located in the skin to aid in thermoregulation.",
+            "d": "They only contract voluntarily in response to neural signals."
+        },
+        "answer": "b) They are interconnected by specialized structures called intercalated discs."
+    },
+    {
+        "question": "What is the primary function of the cardiovascular system?",
+        "options": {
+            "a": "To transport oxygen and nutrients to tissues and remove waste products.",
+            "b": "To produce red blood cells for immune defense.",
+            "c": "To regulate body temperature through heat exchange.",
+            "d": "To generate electrical impulses that control digestion."
+        },
+        "answer": "a) To transport oxygen and nutrients to tissues and remove waste products."
+    },
+    {
+        "question": "Which of the following is a characteristic of cardiac muscle cells?",
+        "options": {
+            "a": "They are short, non-branching cells with multiple peripheral nuclei.",
+            "b": "They are elongated, branching cells with 1-2 centrally located nuclei.",
+            "c": "They are cylindrical, non-branching cells with a single nucleus.",
+            "d": "They are flat, non-striated cells with no nuclei."
+        },
+        "answer": "b) They are elongated, branching cells with 1-2 centrally located nuclei."
+    },
+    {
+        "question": "What do intercalated discs in cardiac muscle cells allow for?",
+        "options": {
+            "a": "They allow for the contraction of individual muscle cells independently.",
+            "b": "They connect muscle cells to bones for structural support.",
+            "c": "They provide specialized cell-cell contacts that enable the coordinated contraction of the heart.",
+            "d": "They store calcium for muscle contraction."
+        },
+        "answer": "c) They provide specialized cell-cell contacts that enable the coordinated contraction of the heart."
+    },
+    {
+        "question": "What is the role of gap junctions in cardiac muscle tissue?",
+        "options": {
+            "a": "They prevent action potentials from spreading between cells.",
+            "b": "They allow action potentials to move through neighboring cells, facilitating coordinated contraction.",
+            "c": "They create a physical barrier between muscle cells.",
+            "d": "They increase the force of individual muscle contractions."
+        },
+        "answer": "b) They allow action potentials to move through neighboring cells, facilitating coordinated contraction."
+    },
+    {
+        "question": "How does cardiac muscle behave electrically?",
+        "options": {
+            "a": "As independent cells contracting individually.",
+            "b": "As a single unit, due to the interconnectedness of cells.",
+            "c": "As two separate units, with each half of the heart contracting independently.",
+            "d": "It does not produce electrical impulses, relying on external stimulation."
+        },
+        "answer": "b) As a single unit, due to the interconnectedness of cells."
+    },
+    {
+        "question": "What is the primary function of gap junctions?",
+        "options": {
+            "a": "To prevent electrical signals from passing between cells.",
+            "b": "To couple cells metabolically and electrically, allowing communication between them.",
+            "c": "To provide structural support between cells.",
+            "d": "To store calcium ions for muscle contraction."
+        },
+        "answer": "b) To couple cells metabolically and electrically, allowing communication between them."
+    },
+    {
+        "question": "Where are gap junctions typically found?",
+        "options": {
+            "a": "Only in muscle tissues.",
+            "b": "Only in the nervous system.",
+            "c": "In most animal tissues, including heart tissue.",
+            "d": "Only in connective tissues."
+        },
+        "answer": "c) In most animal tissues, including heart tissue."
+    },
+    {
+        "question": "What is the size of the gap in a gap junction?",
+        "options": {
+            "a": "10-15 nm",
+            "b": "2-4 nm",
+            "c": "50-100 nm",
+            "d": "5-10 \u00b5m"
+        },
+        "answer": "b) 2-4 nm"
+    },
+    {
+        "question": "How do gap junctions contribute to the function of cardiac muscle?",
+        "options": {
+            "a": "They allow muscle cells to contract individually.",
+            "b": "They transmit electrical impulses and metabolic signals between cells, ensuring coordinated heart contractions.",
+            "c": "They store energy for muscle contractions.",
+            "d": "They isolate cells from each other to prevent electrical interference."
+        },
+        "answer": "b) They transmit electrical impulses and metabolic signals between cells, ensuring coordinated heart contractions."
+    },
+    {
+        "question": "What is the primary function of the pulmonary circuit?",
+        "options": {
+            "a": "It circulates blood between the left side of the heart and the rest of the body.",
+            "b": "It carries blood between the right side of the heart, the lungs, and back to the left side of the heart.",
+            "c": "It delivers oxygenated blood to the heart muscle.",
+            "d": "It connects the heart to the digestive system."
+        },
+        "answer": "b) It carries blood between the right side of the heart, the lungs, and back to the left side of the heart."
+    },
+    {
+        "question": "What does the systemic circuit do?",
+        "options": {
+            "a": "Carries blood from the lungs to the right side of the heart.",
+            "b": "Circulates oxygenated blood from the left side of the heart to the body and returns deoxygenated blood to the right side of the heart.",
+            "c": "Transports blood to the kidneys for filtration.",
+            "d": "Sends blood from the heart to the digestive system."
+        },
+        "answer": "b) Circulates oxygenated blood from the left side of the heart to the body and returns deoxygenated blood to the right side of the heart."
+    },
+    {
+        "question": "Which of the following describes the pathway of blood in the pulmonary circuit?",
+        "options": {
+            "a": "From the left side of the heart to the lungs and back to the right side of the heart.",
+            "b": "From the right side of the heart to the lungs and back to the left side of the heart.",
+            "c": "From the right side of the heart to the brain and back to the heart.",
+            "d": "From the left side of the heart to the digestive organs and back."
+        },
+        "answer": "b) From the right side of the heart to the lungs and back to the left side of the heart."
+    },
+    {
+        "question": "In which circuit does blood flow from the left side of the heart to the body tissues?",
+        "options": {
+            "a": "Pulmonary circuit",
+            "b": "Systemic circuit",
+            "c": "Coronary circuit",
+            "d": "Digestive circuit"
+        },
+        "answer": "b) Systemic circuit"
+    },
+    {
+        "question": "What is the primary function of arteries in the cardiovascular system?",
+        "options": {
+            "a": "To carry blood toward the heart.",
+            "b": "To allow gas exchange between blood and tissues.",
+            "c": "To move blood away from the heart.",
+            "d": "To store oxygenated blood for later use."
+        },
+        "answer": "c) To move blood away from the heart."
+    },
+    {
+        "question": "Which of the following is a characteristic of arteries?",
+        "options": {
+            "a": "They are one cell thick to facilitate gas exchange.",
+            "b": "They contain elastic fibers and circular smooth muscle to handle high pressure.",
+            "c": "They have one-way valves to prevent backflow.",
+            "d": "They only carry deoxygenated blood."
+        },
+        "answer": "b) They contain elastic fibers and circular smooth muscle to handle high pressure."
+    },
+    {
+        "question": "What is the primary function of capillaries?",
+        "options": {
+            "a": "To carry blood away from the heart and into the organs.",
+            "b": "To serve as the site for gas exchange between the blood and tissues.",
+            "c": "To transport blood from the veins to the arteries.",
+            "d": "To store oxygen in the blood for later use."
+        },
+        "answer": "b) To serve as the site for gas exchange between the blood and tissues."
+    },
+    {
+        "question": "Which of the following is a feature of capillaries?",
+        "options": {
+            "a": "They have circular smooth muscle to regulate blood flow.",
+            "b": "They are thick-walled to withstand high pressure.",
+            "c": "They are one cell thick, allowing for efficient gas exchange.",
+            "d": "They contain one-way valves to prevent blood from flowing backward."
+        },
+        "answer": "c) They are one cell thick, allowing for efficient gas exchange."
+    },
+    {
+        "question": "What is the role of veins in the cardiovascular system?",
+        "options": {
+            "a": "To carry oxygenated blood away from the heart.",
+            "b": "To carry blood from the lungs to the heart.",
+            "c": "To move blood back toward the heart, assisted by skeletal muscle contractions.",
+            "d": "To regulate blood pressure in the arteries."
+        },
+        "answer": "c) To move blood back toward the heart, assisted by skeletal muscle contractions."
+    },
+    {
+        "question": "Why do veins contain one-way valves?",
+        "options": {
+            "a": "To help blood move away from the heart.",
+            "b": "To prevent backflow and ensure blood flows toward the heart.",
+            "c": "To store excess blood for future use.",
+            "d": "To allow oxygen to pass from the blood into surrounding tissues."
+        },
+        "answer": "b) To prevent backflow and ensure blood flows toward the heart."
+    },
+    {
+        "question": "Approximately how large is the human heart?",
+        "options": {
+            "a": "The size of a small apple",
+            "b": "The size of a closed fist",
+            "c": "The size of a grapefruit",
+            "d": "The size of a tennis ball"
+        },
+        "answer": "b) The size of a closed fist"
+    },
+    {
+        "question": "Which of the following best describes the shape of the heart?",
+        "options": {
+            "a": "Spherical with a smooth surface",
+            "b": "Cone-shaped, with a blunt rounded apex and flat base",
+            "c": "Triangular with sharp edges",
+            "d": "Cuboidal with straight lines and sharp angles"
+        },
+        "answer": "b) Cone-shaped, with a blunt rounded apex and flat base"
+    },
+    {
+        "question": "Where is the apex of the heart located?",
+        "options": {
+            "a": "At the top of the heart, pointing toward the brain",
+            "b": "At the base of the heart, opposite the point",
+            "c": "At the bottom, pointing toward the left side of the body",
+            "d": "At the center of the heart, pointing toward the lungs"
+        },
+        "answer": "c) At the bottom, pointing toward the left side of the body"
+    },
+    {
+        "question": "Where is the heart located in the body?",
+        "options": {
+            "a": "In the abdominal cavity, just below the stomach",
+            "b": "In the thoracic cavity, within the mediastinum",
+            "c": "In the pelvic cavity, near the bladder",
+            "d": "In the cranial cavity, near the brain"
+        },
+        "answer": "b) In the thoracic cavity, within the mediastinum"
+    },
+    {
+        "question": "Which of the following layers is part of the fibrous pericardium?",
+        "options": {
+            "a": "Visceral pericardium",
+            "b": "Parietal pericardium",
+            "c": "Fibrous pericardium",
+            "d": "Pericardial cavity"
+        },
+        "answer": "c) Fibrous pericardium"
+    },
+    {
+        "question": "What is the function of the serous pericardium?",
+        "options": {
+            "a": "It protects the heart from mechanical damage.",
+            "b": "It produces red blood cells for the heart.",
+            "c": "It forms a protective, lubricating layer around the heart.",
+            "d": "It pumps blood into the coronary arteries."
+        },
+        "answer": "c) It forms a protective, lubricating layer around the heart."
+    },
+    {
+        "question": "What does the visceral pericardium do?",
+        "options": {
+            "a": "It lines the chest wall and protects the heart from external damage.",
+            "b": "It covers the surface of the heart.",
+            "c": "It separates the heart from the lungs.",
+            "d": "It produces lubricating fluid in the pericardial cavity."
+        },
+        "answer": "b) It covers the surface of the heart."
+    },
+    {
+        "question": "Which of the following correctly describes the parietal pericardium?",
+        "options": {
+            "a": "It covers the heart\u2019s outer surface and is in direct contact with the myocardium.",
+            "b": "It lines the chest wall, forming a layer that separates the heart from the lungs.",
+            "c": "It contains the lubricating fluid that allows the heart to beat smoothly.",
+            "d": "It is the inner lining of the heart chambers."
+        },
+        "answer": "b) It lines the chest wall, forming a layer that separates the heart from the lungs."
+    },
+    {
+        "question": "What is found between the visceral and parietal pericardium?",
+        "options": {
+            "a": "The myocardium",
+            "b": "The pericardial cavity, filled with lubricating fluid",
+            "c": "The heart valves",
+            "d": "The coronary arteries"
+        },
+        "answer": "b) The pericardial cavity, filled with lubricating fluid"
+    },
+    {
+        "question": "Which of the following layers is the outermost layer of the heart?",
+        "options": {
+            "a": "Myocardium",
+            "b": "Endocardium",
+            "c": "Epicardium (Visceral pericardium)",
+            "d": "Pericardium"
+        },
+        "answer": "c) Epicardium (Visceral pericardium)"
+    },
+    {
+        "question": "What is the primary function of the myocardium?",
+        "options": {
+            "a": "It serves as the smooth inner surface of the heart chambers.",
+            "b": "It produces the lubricating fluid in the pericardial cavity.",
+            "c": "It is composed of cardiac muscle cells and is responsible for heart contraction.",
+            "d": "It protects the heart from external damage."
+        },
+        "answer": "c) It is composed of cardiac muscle cells and is responsible for heart contraction."
+    },
+    {
+        "question": "Which layer of the heart is responsible for providing a smooth inner surface for the heart chambers?",
+        "options": {
+            "a": "Myocardium",
+            "b": "Epicardium",
+            "c": "Endocardium",
+            "d": "Pericardium"
+        },
+        "answer": "c) Endocardium"
+    },
+    {
+        "question": "The epicardium is also known as the:",
+        "options": {
+            "a": "Parietal pericardium",
+            "b": "Visceral pericardium",
+            "c": "Myocardium",
+            "d": "Endocardium"
+        },
+        "answer": "b) Visceral pericardium"
+    },
+    {
+        "question": "What type of tissue makes up the myocardium?",
+        "options": {
+            "a": "Epithelial tissue",
+            "b": "Cardiac muscle tissue",
+            "c": "Smooth muscle tissue",
+            "d": "Connective tissue"
+        },
+        "answer": "b) Cardiac muscle tissue"
+    },
+    {
+        "question": "Which of the following is a primary function of the heart?",
+        "options": {
+            "a": "To generate digestive enzymes",
+            "b": "To regulate body temperature",
+            "c": "To generate blood pressure and pump blood throughout the body",
+            "d": "To store oxygen for future use"
+        },
+        "answer": "c) To generate blood pressure and pump blood throughout the body"
+    },
+    {
+        "question": "How does the heart help in routing blood through the body?",
+        "options": {
+            "a": "By circulating blood through the lungs only",
+            "b": "By separating pulmonary and systemic circulations",
+            "c": "By controlling the oxygen content of the blood",
+            "d": "By storing and releasing blood at different times"
+        },
+        "answer": "b) By separating pulmonary and systemic circulations"
+    },
+    {
+        "question": "What ensures that blood flows in only one direction through the heart?",
+        "options": {
+            "a": "Cardiac muscle contraction",
+            "b": "Heart valves",
+            "c": "Blood pressure",
+            "d": "Capillary beds"
+        },
+        "answer": "b) Heart valves"
+    },
+    {
+        "question": "How does the heart regulate blood supply to meet the body\u2019s needs?",
+        "options": {
+            "a": "By maintaining a constant heart rate regardless of activity",
+            "b": "By changing contraction rate and force to match metabolic demands",
+            "c": "By storing blood for later use during periods of high activity",
+            "d": "By keeping blood pressure constant throughout the body"
+        },
+        "answer": "b) By changing contraction rate and force to match metabolic demands"
+    },
+    {
+        "question": "Why is it important that the heart separates pulmonary and systemic circulations?",
+        "options": {
+            "a": "To allow oxygenated blood to be mixed with deoxygenated blood",
+            "b": "To ensure blood flows to the lungs for oxygenation and then to the body",
+            "c": "To store excess oxygen in the lungs for future use",
+            "d": "To regulate the heart rate in different parts of the body"
+        },
+        "answer": "b) To ensure blood flows to the lungs for oxygenation and then to the body"
+    },
+    {
+        "question": "How many chambers does the human heart have?",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "2"
+        },
+        "answer": "b) 4"
+    },
+    {
+        "question": "Which of the following are the two types of atrioventricular valves in the heart?",
+        "options": {
+            "a": "Tricuspid and pulmonary",
+            "b": "Aortic and mitral",
+            "c": "Tricuspid and bicuspid (mitral)",
+            "d": "Pulmonary and semilunar"
+        },
+        "answer": "c) Tricuspid and bicuspid (mitral)"
+    },
+    {
+        "question": "What is the function of the auricles in the heart?",
+        "options": {
+            "a": "To contract and push blood into the ventricles",
+            "b": "To store oxygen for later use",
+            "c": "To increase the heart's volume and receive blood from veins",
+            "d": "To protect the heart from infection"
+        },
+        "answer": "c) To increase the heart's volume and receive blood from veins"
+    },
+    {
+        "question": "Which major vein carries deoxygenated blood from the upper body to the heart?",
+        "options": {
+            "a": "Pulmonary vein",
+            "b": "Superior vena cava",
+            "c": "Inferior vena cava",
+            "d": "Aorta"
+        },
+        "answer": "b) Superior vena cava"
+    },
+    {
+        "question": "Which major artery carries oxygenated blood from the heart to the rest of the body?",
+        "options": {
+            "a": "Pulmonary trunk",
+            "b": "Pulmonary vein",
+            "c": "Aorta",
+            "d": "Superior vena cava"
+        },
+        "answer": "c) Aorta"
+    },
+    {
+        "question": "What is the function of the semilunar valves (aortic and pulmonary)?",
+        "options": {
+            "a": "To allow blood flow from the atria to the ventricles",
+            "b": "To prevent blood from flowing back into the ventricles after contraction",
+            "c": "To regulate the flow of oxygenated blood into the lungs",
+            "d": "To allow blood to flow into the heart from veins"
+        },
+        "answer": "b) To prevent blood from flowing back into the ventricles after contraction"
+    },
+    {
+        "question": "Which valve is located between the right atrium and right ventricle?",
+        "options": {
+            "a": "Bicuspid (mitral) valve",
+            "b": "Pulmonary valve",
+            "c": "Tricuspid valve",
+            "d": "Aortic valve"
+        },
+        "answer": "c) Tricuspid valve"
+    },
+    {
+        "question": "How do heart valves work?",
+        "options": {
+            "a": "They open and close based on electrical signals from the brain.",
+            "b": "They are controlled by hormones released during exercise.",
+            "c": "They are pressure-sensitive, opening when pressure is higher on one side of the valve.",
+            "d": "They open and close randomly to regulate blood flow."
+        },
+        "answer": "c) They are pressure-sensitive, opening when pressure is higher on one side of the valve."
+    },
+    {
+        "question": "Which of the following is the first step in the pathway of blood through the heart?",
+        "options": {
+            "a": "Right ventricle",
+            "b": "Aorta",
+            "c": "Superior and inferior vena cava",
+            "d": "Pulmonary veins"
+        },
+        "answer": "c) Superior and inferior vena cava"
+    },
+    {
+        "question": "After blood enters the right atrium, which valve does it pass through to enter the right ventricle?",
+        "options": {
+            "a": "Bicuspid (mitral) valve",
+            "b": "Pulmonary semilunar valve",
+            "c": "Tricuspid valve",
+            "d": "Aortic semilunar valve"
+        },
+        "answer": "c) Tricuspid valve"
+    },
+    {
+        "question": "What is the next destination for blood after it passes through the right ventricle?",
+        "options": {
+            "a": "Aorta",
+            "b": "Lungs",
+            "c": "Left atrium",
+            "d": "Left ventricle"
+        },
+        "answer": "b) Lungs"
+    },
+    {
+        "question": "Which valve does blood pass through to exit the right ventricle and enter the pulmonary arteries?",
+        "options": {
+            "a": "Bicuspid valve",
+            "b": "Pulmonary semilunar valve",
+            "c": "Tricuspid valve",
+            "d": "Aortic semilunar valve"
+        },
+        "answer": "b) Pulmonary semilunar valve"
+    },
+    {
+        "question": "After blood becomes oxygenated in the lungs, where does it go next?",
+        "options": {
+            "a": "Right atrium",
+            "b": "Pulmonary vein",
+            "c": "Left atrium",
+            "d": "Aorta"
+        },
+        "answer": "b) Pulmonary vein"
+    },
+    {
+        "question": "Once blood enters the left atrium, which valve does it pass through to enter the left ventricle?",
+        "options": {
+            "a": "Pulmonary semilunar valve",
+            "b": "Tricuspid valve",
+            "c": "Aortic semilunar valve",
+            "d": "Bicuspid (mitral) valve"
+        },
+        "answer": "d) Bicuspid (mitral) valve"
+    },
+    {
+        "question": "After blood enters the left ventricle, which valve does it pass through to enter the aorta?",
+        "options": {
+            "a": "Pulmonary semilunar valve",
+            "b": "Tricuspid valve",
+            "c": "Bicuspid (mitral) valve",
+            "d": "Aortic semilunar valve"
+        },
+        "answer": "d) Aortic semilunar valve"
+    },
+    {
+        "question": "Where does blood go after passing through the aorta?",
+        "options": {
+            "a": "To the lungs",
+            "b": "To the left atrium",
+            "c": "To the body\u2019s organs and cells",
+            "d": "Back to the right atrium"
+        },
+        "answer": "c) To the body\u2019s organs and cells"
+    },
+    {
+        "question": "What is the primary function of the heart's impulse-conducting system?",
+        "options": {
+            "a": "To regulate blood pressure",
+            "b": "To generate and propagate waves of depolarization that stimulate rhythmic contractions",
+            "c": "To store oxygen for the myocardium",
+            "d": "To regulate the heart rate by controlling blood flow"
+        },
+        "answer": "b) To generate and propagate waves of depolarization that stimulate rhythmic contractions"
+    },
+    {
+        "question": "Where is the sinoatrial (SA) node located?",
+        "options": {
+            "a": "In the left atrium",
+            "b": "In the right atrium, near the superior vena cava",
+            "c": "In the right ventricle",
+            "d": "In the left ventricle"
+        },
+        "answer": "b) In the right atrium, near the superior vena cava"
+    },
+    {
+        "question": "What is the role of the sinoatrial (SA) node in the heart?",
+        "options": {
+            "a": "It sends electrical impulses to the atrioventricular (AV) node",
+            "b": "It acts as the heart's natural pacemaker, initiating electrical impulses",
+            "c": "It directs blood flow to the ventricles",
+            "d": "It regulates the flow of oxygenated blood into the heart"
+        },
+        "answer": "b) It acts as the heart's natural pacemaker, initiating electrical impulses"
+    },
+    {
+        "question": "Which of the following is the function of the atrioventricular (AV) node?",
+        "options": {
+            "a": "It generates electrical impulses that trigger the heartbeat.",
+            "b": "It delays the electrical signal between the atria and ventricles, ensuring proper timing of contraction.",
+            "c": "It directly stimulates the ventricles to contract.",
+            "d": "It connects the left and right sides of the heart."
+        },
+        "answer": "b) It delays the electrical signal between the atria and ventricles, ensuring proper timing of contraction."
+    },
+    {
+        "question": "What is the AV bundle (bundle of His) responsible for?",
+        "options": {
+            "a": "Transmitting electrical impulses from the AV node to the ventricles",
+            "b": "Generating electrical impulses that control the heart rate",
+            "c": "Pumping oxygenated blood to the body",
+            "d": "Regulating the flow of blood into the lungs"
+        },
+        "answer": "a) Transmitting electrical impulses from the AV node to the ventricles"
+    },
+    {
+        "question": "What is the subendocardial network (Purkinje fibers) responsible for?",
+        "options": {
+            "a": "Stimulating the contraction of the atria",
+            "b": "Propagating the electrical impulse throughout the ventricles for coordinated contraction",
+            "c": "Controlling the heart rate",
+            "d": "Maintaining the heart's structure and shape"
+        },
+        "answer": "b) Propagating the electrical impulse throughout the ventricles for coordinated contraction"
+    },
+    {
+        "question": "Which part of the heart's impulse-conducting system is responsible for initiating the contraction of the ventricles?",
+        "options": {
+            "a": "Sinoatrial (SA) node",
+            "b": "Atrioventricular (AV) node",
+            "c": "AV bundle (bundle of His)",
+            "d": "Subendocardial network (Purkinje fibers)"
+        },
+        "answer": "d) Subendocardial network (Purkinje fibers)"
+    },
+    {
+        "question": "What is the order of the heart's electrical conduction system, starting from the pacemaker?",
+        "options": {
+            "a": "SA node \u2192 AV node \u2192 Purkinje fibers \u2192 AV bundle \u2192 atria",
+            "b": "SA node \u2192 AV node \u2192 AV bundle \u2192 Purkinje fibers \u2192 ventricles",
+            "c": "AV node \u2192 SA node \u2192 Purkinje fibers \u2192 AV bundle \u2192 atria",
+            "d": "Purkinje fibers \u2192 AV bundle \u2192 SA node \u2192 AV node \u2192 ventricles"
+        },
+        "answer": "b) SA node \u2192 AV node \u2192 AV bundle \u2192 Purkinje fibers \u2192 ventricles"
+    },
+    {
+        "question": "What is the resting membrane potential (RMP) of cardiac muscle cells?",
+        "options": {
+            "a": "A temporary change in electrical charge across the membrane",
+            "b": "The difference in charge across the membrane when the cell is at rest",
+            "c": "A phase of rapid electrical depolarization",
+            "d": "The period when the heart muscle contracts"
+        },
+        "answer": "b) The difference in charge across the membrane when the cell is at rest"
+    },
+    {
+        "question": "What characterizes the action potential of cardiac muscle cells?",
+        "options": {
+            "a": "A constant voltage across the membrane",
+            "b": "A single rapid depolarization followed by a long period of no change",
+            "c": "Rapid depolarization, followed by early repolarization, a plateau phase, and rapid final repolarization",
+            "d": "A steady state of partial repolarization during contraction"
+        },
+        "answer": "c) Rapid depolarization, followed by early repolarization, a plateau phase, and rapid final repolarization"
+    },
+    {
+        "question": "Which of the following phases in the action potential of cardiac muscle cells is known as the \"plateau phase\"?",
+        "options": {
+            "a": "Rapid depolarization",
+            "b": "Early repolarization",
+            "c": "Slow repolarization",
+            "d": "Final rapid repolarization"
+        },
+        "answer": "c) Slow repolarization"
+    },
+    {
+        "question": "What happens during the \"plateau phase\" of the cardiac action potential?",
+        "options": {
+            "a": "There is rapid depolarization of the cell membrane.",
+            "b": "There is a brief period of no change in membrane potential.",
+            "c": "There is a prolonged period of slow depolarization.",
+            "d": "The membrane potential quickly returns to resting levels."
+        },
+        "answer": "b) There is a brief period of no change in membrane potential."
+    },
+    {
+        "question": "What is the sequence of events in the action potential of cardiac muscle cells, starting with depolarization?",
+        "options": {
+            "a": "Rapid depolarization \u2192 plateau phase \u2192 rapid repolarization \u2192 resting phase",
+            "b": "Plateau phase \u2192 early repolarization \u2192 rapid depolarization \u2192 final repolarization",
+            "c": "Resting phase \u2192 rapid depolarization \u2192 plateau phase \u2192 early repolarization",
+            "d": "Final repolarization \u2192 plateau phase \u2192 resting phase \u2192 rapid depolarization"
+        },
+        "answer": "a) Rapid depolarization \u2192 plateau phase \u2192 rapid repolarization \u2192 resting phase"
+    },
+    {
+        "question": "The rapid final repolarization phase in cardiac action potentials is primarily due to:",
+        "options": {
+            "a": "Calcium influx into the cell",
+            "b": "Sodium ion efflux",
+            "c": "Potassium ion efflux",
+            "d": "Chloride ion movement"
+        },
+        "answer": "c) Potassium ion efflux"
+    },
+    {
+        "question": "Which phase of the cardiac action potential is responsible for the heart's \"refractory period,\" during which the heart cannot be restimulated?",
+        "options": {
+            "a": "Rapid depolarization",
+            "b": "Plateau phase",
+            "c": "Early repolarization",
+            "d": "Final rapid repolarization"
+        },
+        "answer": "b) Plateau phase"
+    },
+    {
+        "question": "What occurs during the absolute refractory period of a cardiac muscle cell?",
+        "options": {
+            "a": "The cell can respond to further stimulation.",
+            "b": "The cell is completely insensitive to further stimulation.",
+            "c": "The cell begins to repolarize.",
+            "d": "The cell reaches its resting membrane potential."
+        },
+        "answer": "b) The cell is completely insensitive to further stimulation."
+    },
+    {
+        "question": "What is the primary characteristic of the relative refractory period in cardiac muscle cells?",
+        "options": {
+            "a": "The cell is completely insensitive to any further stimulation.",
+            "b": "The cell is highly sensitive to additional stimuli.",
+            "c": "The cell exhibits reduced sensitivity to further stimulation, meaning it can be restimulated under certain conditions.",
+            "d": "The cell is fully repolarized and ready for another contraction."
+        },
+        "answer": "c) The cell exhibits reduced sensitivity to further stimulation, meaning it can be restimulated under certain conditions."
+    },
+    {
+        "question": "Why is the long refractory period in cardiac muscle cells important?",
+        "options": {
+            "a": "It allows the heart to maintain a high heart rate.",
+            "b": "It prevents tetanic contractions, ensuring the heart has time to relax and refill with blood.",
+            "c": "It prevents the heart from contracting at all.",
+            "d": "It ensures the heart only beats once per minute."
+        },
+        "answer": "b) It prevents tetanic contractions, ensuring the heart has time to relax and refill with blood."
+    },
+    {
+        "question": "What would likely happen if the cardiac muscle had a short refractory period?",
+        "options": {
+            "a": "The heart would be unable to contract.",
+            "b": "The heart would experience prolonged relaxation periods.",
+            "c": "Tetanic contractions could occur, leading to ineffective heart function.",
+            "d": "The heart would beat less frequently."
+        },
+        "answer": "c) Tetanic contractions could occur, leading to ineffective heart function."
+    },
+    {
+        "question": "During the absolute refractory period, why is the cardiac muscle cell unable to respond to new stimuli?",
+        "options": {
+            "a": "The cell has not yet fully depolarized.",
+            "b": "The cell is still in a state of full depolarization and cannot initiate another contraction.",
+            "c": "The cell is in the final phase of repolarization.",
+            "d": "The cell is actively pumping sodium ions out."
+        },
+        "answer": "b) The cell is still in a state of full depolarization and cannot initiate another contraction."
+    },
+    {
+        "question": "How does the long refractory period contribute to coordinated heartbeats?",
+        "options": {
+            "a": "It allows the atria and ventricles to contract simultaneously.",
+            "b": "It ensures that the heart is able to pump blood continuously without irregular beats.",
+            "c": "It prevents overlapping contractions of the atria and ventricles, allowing them to function efficiently.",
+            "d": "It increases the number of heartbeats per minute."
+        },
+        "answer": "c) It prevents overlapping contractions of the atria and ventricles, allowing them to function efficiently."
+    },
+    {
+        "question": "What is the pattern in an electrocardiogram (ECG) that represents atrial depolarization?",
+        "options": {
+            "a": "QRS complex",
+            "b": "P wave",
+            "c": "T wave",
+            "d": "U wave"
+        },
+        "answer": "b) P wave"
+    },
+    {
+        "question": "Which part of the ECG corresponds to ventricular depolarization?",
+        "options": {
+            "a": "T wave",
+            "b": "P wave",
+            "c": "QRS complex",
+            "d": "U wave"
+        },
+        "answer": "c) QRS complex"
+    },
+    {
+        "question": "What electrical event does the T wave in an ECG represent?",
+        "options": {
+            "a": "Atrial depolarization",
+            "b": "Ventricular repolarization",
+            "c": "Atrial repolarization",
+            "d": "Ventricular depolarization"
+        },
+        "answer": "b) Ventricular repolarization"
+    },
+    {
+        "question": "What occurs during the P wave of the electrocardiogram (ECG)?",
+        "options": {
+            "a": "The ventricles are repolarizing.",
+            "b": "The atria are depolarizing.",
+            "c": "The ventricles are depolarizing.",
+            "d": "The atria are repolarizing."
+        },
+        "answer": "b) The atria are depolarizing."
+    },
+    {
+        "question": "Which of the following events occurs simultaneously with the QRS complex in the ECG?",
+        "options": {
+            "a": "Atrial depolarization",
+            "b": "Ventricular depolarization and atrial repolarization",
+            "c": "Ventricular repolarization",
+            "d": "Atrial repolarization"
+        },
+        "answer": "b) Ventricular depolarization and atrial repolarization"
+    },
+    {
+        "question": "The QRS complex in the ECG is primarily due to which event?",
+        "options": {
+            "a": "Atrial depolarization",
+            "b": "Ventricular depolarization",
+            "c": "Ventricular repolarization",
+            "d": "Atrial repolarization"
+        },
+        "answer": "b) Ventricular depolarization"
+    },
+    {
+        "question": "What is the significance of the T wave in the cardiac cycle?",
+        "options": {
+            "a": "It shows the contraction of the atria.",
+            "b": "It shows the relaxation of the ventricles.",
+            "c": "It indicates the repolarization of the ventricles, allowing them to relax.",
+            "d": "It represents the depolarization of the ventricles, leading to contraction."
+        },
+        "answer": "c) It indicates the repolarization of the ventricles, allowing them to relax."
+    },
+    {
+        "question": "In the ECG pattern, the T wave follows the QRS complex. What is this wave related to?",
+        "options": {
+            "a": "Atrial depolarization",
+            "b": "Ventricular repolarization",
+            "c": "Atrial repolarization",
+            "d": "Ventricular depolarization"
+        },
+        "answer": "b) Ventricular repolarization"
+    },
+    {
+        "question": "Which electrical event does atrial repolarization correspond to in the ECG?",
+        "options": {
+            "a": "P wave",
+            "b": "QRS complex",
+            "c": "T wave",
+            "d": "It is not typically visible on the ECG."
+        },
+        "answer": "d) It is not typically visible on the ECG."
+    },
+    {
+        "question": "What is the definition of tachycardia?",
+        "options": {
+            "a": "Heart rate in excess of 120 bpm",
+            "b": "Heart rate less than 60 bpm",
+            "c": "Heart rate between 60 and 100 bpm",
+            "d": "Heart rate in excess of 100 bpm"
+        },
+        "answer": "d) Heart rate in excess of 100 bpm"
+    },
+    {
+        "question": "Bradycardia is characterized by a heart rate of:",
+        "options": {
+            "a": "More than 100 bpm",
+            "b": "Less than 60 bpm",
+            "c": "Between 60 and 100 bpm",
+            "d": "Less than 50 bpm"
+        },
+        "answer": "b) Less than 60 bpm"
+    },
+    {
+        "question": "Which of the following describes premature atrial contractions (PACs)?",
+        "options": {
+            "a": "Occasional irregularities in the heart rhythm caused by delayed repolarization of the ventricles.",
+            "b": "Abnormally slow heart rate, usually less than 40 bpm.",
+            "c": "Occasional shortened intervals between one contraction and the succeeding one, often occurring in healthy individuals.",
+            "d": "A condition where the ventricles contract too early, leading to a decreased stroke volume."
+        },
+        "answer": "c) Occasional shortened intervals between one contraction and the succeeding one, often occurring in healthy individuals."
+    },
+    {
+        "question": "Which of the following is most likely to experience tachycardia?",
+        "options": {
+            "a": "A resting person under normal circumstances",
+            "b": "An individual with an abnormally low heart rate due to high physical fitness",
+            "c": "A person experiencing stress, exercise, or certain cardiac conditions",
+            "d": "A person with a heart rate of less than 60 bpm"
+        },
+        "answer": "c) A person experiencing stress, exercise, or certain cardiac conditions"
+    },
+    {
+        "question": "Which of the following is a common cause of bradycardia?",
+        "options": {
+            "a": "Physical activity or exercise",
+            "b": "Certain medications, especially those affecting the heart's electrical system",
+            "c": "Stress or anxiety",
+            "d": "Increased body temperature"
+        },
+        "answer": "b) Certain medications, especially those affecting the heart's electrical system"
+    },
+    {
+        "question": "Premature atrial contractions (PACs) are often seen in:",
+        "options": {
+            "a": "Only individuals with cardiovascular disease",
+            "b": "Healthy individuals with no underlying heart conditions",
+            "c": "Individuals with severe bradycardia",
+            "d": "Individuals who experience regular episodes of tachycardia"
+        },
+        "answer": "b) Healthy individuals with no underlying heart conditions"
+    },
+    {
+        "question": "Which condition is described by occasional premature beats from the atria that result in a shorter interval between heartbeats?",
+        "options": {
+            "a": "Atrial fibrillation",
+            "b": "Premature ventricular contractions (PVCs)",
+            "c": "Premature atrial contractions (PACs)",
+            "d": "Sinus tachycardia"
+        },
+        "answer": "c) Premature atrial contractions (PACs)"
+    },
+    {
+        "question": "What is the typical heart rate for bradycardia?",
+        "options": {
+            "a": "Greater than 100 bpm",
+            "b": "Less than 60 bpm",
+            "c": "Between 80-100 bpm",
+            "d": "Between 60-100 bpm"
+        },
+        "answer": "b) Less than 60 bpm"
+    },
+    {
+        "question": "How is the heart structured in terms of its pumping action?",
+        "options": {
+            "a": "It has one pump for oxygenated blood and one for deoxygenated blood.",
+            "b": "It has two pumps: the right half and the left half working together.",
+            "c": "The heart pumps blood in a single direction only.",
+            "d": "The heart is divided into four pumps for different parts of the body."
+        },
+        "answer": "b) It has two pumps: the right half and the left half working together."
+    },
+    {
+        "question": "The cardiac cycle consists of:",
+        "options": {
+            "a": "Only contraction phases of the heart",
+            "b": "Only relaxation phases of the heart",
+            "c": "Repetitive contraction (systole) and relaxation (diastole) of the heart chambers",
+            "d": "Continuous contraction of both atria and ventricles"
+        },
+        "answer": "c) Repetitive contraction (systole) and relaxation (diastole) of the heart chambers"
+    },
+    {
+        "question": "Blood moves through the circulatory system:",
+        "options": {
+            "a": "From areas of lower to higher pressure",
+            "b": "From areas of higher to lower pressure",
+            "c": "From veins to arteries only",
+            "d": "Through capillaries under constant pressure"
+        },
+        "answer": "b) From areas of higher to lower pressure"
+    },
+    {
+        "question": "What produces the pressure that moves blood through the circulatory system?",
+        "options": {
+            "a": "Elasticity of blood vessels",
+            "b": "The contraction of muscles surrounding the blood vessels",
+            "c": "The contraction of the heart",
+            "d": "The expansion of the lungs"
+        },
+        "answer": "c) The contraction of the heart"
+    },
+    {
+        "question": "What does systole refer to in the cardiac cycle?",
+        "options": {
+            "a": "The relaxation phase of the heart",
+            "b": "The phase when the heart fills with blood",
+            "c": "The contraction phase of the heart",
+            "d": "The phase when the heart is at rest"
+        },
+        "answer": "c) The contraction phase of the heart"
+    },
+    {
+        "question": "During diastole, which of the following happens in the heart?",
+        "options": {
+            "a": "The heart is contracting to pump blood.",
+            "b": "The heart chambers are relaxed and filling with blood.",
+            "c": "The heart valves are closed.",
+            "d": "The blood pressure is at its peak."
+        },
+        "answer": "b) The heart chambers are relaxed and filling with blood."
+    },
+    {
+        "question": "How does the contraction of the heart affect blood pressure?",
+        "options": {
+            "a": "It decreases the blood pressure.",
+            "b": "It has no effect on blood pressure.",
+            "c": "It increases the blood pressure, helping move blood through the circulatory system.",
+            "d": "It equalizes the blood pressure between arteries and veins."
+        },
+        "answer": "c) It increases the blood pressure, helping move blood through the circulatory system."
+    },
+    {
+        "question": "Why are both halves of the heart considered to be two pumps working together?",
+        "options": {
+            "a": "They pump blood in the same direction.",
+            "b": "The left side pumps oxygenated blood, and the right side pumps deoxygenated blood.",
+            "c": "Both sides pump blood to the same destination at the same time.",
+            "d": "They contract and relax at different times to prevent overlap."
+        },
+        "answer": "b) The left side pumps oxygenated blood, and the right side pumps deoxygenated blood."
+    },
+    {
+        "question": "The repetitive cycles of systole and diastole allow the heart to:",
+        "options": {
+            "a": "Perform continuous work without rest",
+            "b": "Regulate heart rate and blood pressure",
+            "c": "Create and maintain the pressure that moves blood throughout the body",
+            "d": "Prevent the body from becoming fatigued"
+        },
+        "answer": "c) Create and maintain the pressure that moves blood throughout the body"
+    },
+    {
+        "question": "What causes the first heart sound (\"lubb\")?",
+        "options": {
+            "a": "The closure of the aortic and pulmonary semilunar valves.",
+            "b": "The closure of the atrioventricular (AV) valves at the beginning of ventricular systole.",
+            "c": "The opening of the AV valves during ventricular diastole.",
+            "d": "The contraction of the ventricles."
+        },
+        "answer": "b) The closure of the atrioventricular (AV) valves at the beginning of ventricular systole."
+    },
+    {
+        "question": "The first heart sound (\"lubb\") is associated with:",
+        "options": {
+            "a": "The closure of the semilunar valves.",
+            "b": "The beginning of ventricular diastole.",
+            "c": "The closure of the atrioventricular (AV) valves as the ventricles contract.",
+            "d": "The opening of the atrioventricular valves."
+        },
+        "answer": "c) The closure of the atrioventricular (AV) valves as the ventricles contract."
+    },
+    {
+        "question": "Which heart sound is heard as \"dupp\"?",
+        "options": {
+            "a": "The closing of the atrioventricular (AV) valves.",
+            "b": "The closing of the aortic and pulmonary semilunar valves.",
+            "c": "The closing of the tricuspid valve.",
+            "d": "The contraction of the atria."
+        },
+        "answer": "b) The closing of the aortic and pulmonary semilunar valves."
+    },
+    {
+        "question": "When does the second heart sound (\"dupp\") occur?",
+        "options": {
+            "a": "At the beginning of ventricular systole.",
+            "b": "At the beginning of ventricular diastole, when the semilunar valves close.",
+            "c": "During atrial contraction.",
+            "d": "At the moment the atrioventricular (AV) valves open."
+        },
+        "answer": "b) At the beginning of ventricular diastole, when the semilunar valves close."
+    },
+    {
+        "question": "What is the main reason the second heart sound (\"dupp\") lasts longer than the first?",
+        "options": {
+            "a": "The atrioventricular valves take longer to close than the semilunar valves.",
+            "b": "The closure of the semilunar valves is associated with a slower ventricular relaxation.",
+            "c": "The closing of the semilunar valves involves larger pressure changes in the ventricles.",
+            "d": "The closure of the semilunar valves occurs more abruptly."
+        },
+        "answer": "b) The closure of the semilunar valves is associated with a slower ventricular relaxation."
+    },
+    {
+        "question": "What happens during ventricular systole that produces the first heart sound?",
+        "options": {
+            "a": "The semilunar valves open and blood is pumped into the arteries.",
+            "b": "The atrioventricular (AV) valves close, causing fluid vibrations.",
+            "c": "The atria contract and push blood into the ventricles.",
+            "d": "The atrioventricular valves open to allow blood flow into the ventricles."
+        },
+        "answer": "b) The atrioventricular (AV) valves close, causing fluid vibrations."
+    },
+    {
+        "question": "Which of the following is true about the first heart sound (\"lubb\")?",
+        "options": {
+            "a": "It is caused by the closure of the semilunar valves.",
+            "b": "It marks the start of ventricular diastole.",
+            "c": "It occurs at the beginning of ventricular systole when the AV valves close.",
+            "d": "It is associated with atrial contraction."
+        },
+        "answer": "c) It occurs at the beginning of ventricular systole when the AV valves close."
+    },
+    {
+        "question": "The second heart sound (\"dupp\") is associated with the closure of which valves?",
+        "options": {
+            "a": "Tricuspid and mitral valves",
+            "b": "Aortic and pulmonary semilunar valves",
+            "c": "Bicuspid and tricuspid valves",
+            "d": "Pulmonary and aortic valves during atrial contraction"
+        },
+        "answer": "b) Aortic and pulmonary semilunar valves"
+    },
+    {
+        "question": "What is Mean Arterial Pressure (MAP)?",
+        "options": {
+            "a": "The pressure in the left ventricle during systole.",
+            "b": "The average blood pressure in the aorta during the cardiac cycle.",
+            "c": "The pressure in the arteries during diastole.",
+            "d": "The maximum pressure exerted by the ventricles during contraction."
+        },
+        "answer": "b) The average blood pressure in the aorta during the cardiac cycle."
+    },
+    {
+        "question": "The equation MAP = CO x PR represents:",
+        "options": {
+            "a": "The relationship between blood flow and blood volume.",
+            "b": "The relationship between cardiac output and peripheral resistance.",
+            "c": "The relationship between heart rate and stroke volume.",
+            "d": "The calculation of the total blood volume in the arteries."
+        },
+        "answer": "b) The relationship between cardiac output and peripheral resistance."
+    },
+    {
+        "question": "In the equation for cardiac output (CO = SV x HR), SV stands for:",
+        "options": {
+            "a": "Heart rate",
+            "b": "Stroke volume",
+            "c": "Blood pressure",
+            "d": "Peripheral resistance"
+        },
+        "answer": "b) Stroke volume"
+    },
+    {
+        "question": "What is stroke volume (SV)?",
+        "options": {
+            "a": "The amount of blood pumped by the heart per minute.",
+            "b": "The volume of blood pumped by the heart in each beat.",
+            "c": "The number of times the heart beats per minute.",
+            "d": "The resistance against which blood must be pumped."
+        },
+        "answer": "b) The volume of blood pumped by the heart in each beat."
+    },
+    {
+        "question": "What is the relationship between cardiac output (CO), stroke volume (SV), and heart rate (HR)?",
+        "options": {
+            "a": "Cardiac output equals stroke volume plus heart rate.",
+            "b": "Cardiac output is the product of stroke volume and heart rate.",
+            "c": "Cardiac output equals stroke volume divided by heart rate.",
+            "d": "Cardiac output is independent of heart rate."
+        },
+        "answer": "b) Cardiac output is the product of stroke volume and heart rate."
+    },
+    {
+        "question": "What is cardiac reserve?",
+        "options": {
+            "a": "The difference between systolic and diastolic blood pressure.",
+            "b": "The amount of blood the heart pumps per minute during rest.",
+            "c": "The difference between cardiac output at rest and the maximum cardiac output during exercise.",
+            "d": "The volume of blood pumped by the heart in one contraction."
+        },
+        "answer": "c) The difference between cardiac output at rest and the maximum cardiac output during exercise."
+    },
+    {
+        "question": "Peripheral resistance (PR) refers to:",
+        "options": {
+            "a": "The force exerted by the heart against the walls of the arteries.",
+            "b": "The resistance that blood encounters as it flows through the arteries.",
+            "c": "The volume of blood pumped by the heart per minute.",
+            "d": "The pressure in the arteries during systole."
+        },
+        "answer": "b) The resistance that blood encounters as it flows through the arteries."
+    },
+    {
+        "question": "The equation MAP = CO x PR shows that if either cardiac output (CO) or peripheral resistance (PR) increases, what happens to the mean arterial pressure (MAP)?",
+        "options": {
+            "a": "MAP decreases.",
+            "b": "MAP remains the same.",
+            "c": "MAP increases.",
+            "d": "MAP becomes irregular."
+        },
+        "answer": "c) MAP increases."
+    },
+    {
+        "question": "Which of the following would lead to an increase in mean arterial pressure (MAP)?",
+        "options": {
+            "a": "A decrease in stroke volume (SV).",
+            "b": "A decrease in peripheral resistance (PR).",
+            "c": "An increase in cardiac output (CO).",
+            "d": "A decrease in heart rate (HR)."
+        },
+        "answer": "c) An increase in cardiac output (CO)."
+    },
+    {
+        "question": "If cardiac output (CO) decreases, how is mean arterial pressure (MAP) affected, assuming peripheral resistance (PR) stays constant?",
+        "options": {
+            "a": "MAP will decrease.",
+            "b": "MAP will increase.",
+            "c": "MAP will stay the same.",
+            "d": "MAP will become irregular."
+        },
+        "answer": "a) MAP will decrease."
+    },
+    {
+        "question": "Intrinsic regulation of the heart refers to:",
+        "options": {
+            "a": "Control by the autonomic nervous system and hormones.",
+            "b": "Neural and hormonal regulation of heart rate and force.",
+            "c": "Regulation that arises from the heart's own functional characteristics.",
+            "d": "The effect of exercise on heart function."
+        },
+        "answer": "c) Regulation that arises from the heart's own functional characteristics."
+    },
+    {
+        "question": "Starling's law of the heart states that:",
+        "options": {
+            "a": "The heart's output is directly related to the resistance in the arteries.",
+            "b": "The heart will pump more blood if it receives more blood, up to a point.",
+            "c": "The rate of heart contraction is determined by external hormonal factors.",
+            "d": "The heart always pumps the same amount of blood regardless of input."
+        },
+        "answer": "b) The heart will pump more blood if it receives more blood, up to a point."
+    },
+    {
+        "question": "Extrinsic regulation of the heart involves:",
+        "options": {
+            "a": "The heart's natural ability to regulate its function without external input.",
+            "b": "Neural and hormonal control affecting heart rate and contractility.",
+            "c": "The regulation of heart rate by the heart's internal pacemaker.",
+            "d": "Only the effects of physical activity on heart function."
+        },
+        "answer": "b) Neural and hormonal control affecting heart rate and contractility."
+    },
+    {
+        "question": "According to Starling's law of the heart, what happens when the heart muscle is stretched by an increase in venous return?",
+        "options": {
+            "a": "The heart pumps less blood.",
+            "b": "The force of contraction increases.",
+            "c": "The heart relaxes more slowly.",
+            "d": "The heart rate decreases."
+        },
+        "answer": "b) The force of contraction increases."
+    },
+    {
+        "question": "Which of the following is an example of extrinsic regulation of heart function?",
+        "options": {
+            "a": "The heart's response to changes in venous return.",
+            "b": "The effect of the parasympathetic nervous system on heart rate.",
+            "c": "The heart's ability to pump blood according to its intrinsic properties.",
+            "d": "The increase in heart rate during exercise due to muscle contractions."
+        },
+        "answer": "b) The effect of the parasympathetic nervous system on heart rate."
+    },
+    {
+        "question": "Starling's law of the heart explains the relationship between:",
+        "options": {
+            "a": "Cardiac output and peripheral resistance.",
+            "b": "Stroke volume and end-diastolic volume.",
+            "c": "Heart rate and stroke volume.",
+            "d": "Blood pressure and heart rate."
+        },
+        "answer": "b) Stroke volume and end-diastolic volume."
+    },
+    {
+        "question": "In intrinsic regulation, the heart adjusts its pumping ability based on:",
+        "options": {
+            "a": "Neural input from the brain.",
+            "b": "Hormonal signals like adrenaline.",
+            "c": "The amount of blood filling the heart (preload).",
+            "d": "The strength of ventricular contractions."
+        },
+        "answer": "c) The amount of blood filling the heart (preload)."
+    },
+    {
+        "question": "Which of the following is NOT a component of extrinsic regulation?",
+        "options": {
+            "a": "Sympathetic stimulation increasing heart rate.",
+            "b": "Hormonal control by epinephrine and norepinephrine.",
+            "c": "The heart's natural response to changes in venous return.",
+            "d": "Parasympathetic nervous system decreasing heart rate."
+        },
+        "answer": "c) The heart's natural response to changes in venous return."
+    },
+    {
+        "question": "In extrinsic regulation, what is the role of the autonomic nervous system?",
+        "options": {
+            "a": "To regulate heart rate and contractility based on the body's needs.",
+            "b": "To prevent the heart from over-pumping during exercise.",
+            "c": "To ensure that the heart pumps a fixed amount of blood.",
+            "d": "To control the amount of blood returning to the heart."
+        },
+        "answer": "a) To regulate heart rate and contractility based on the body's needs."
+    },
+    {
+        "question": "Which of the following would be an example of intrinsic regulation during exercise?",
+        "options": {
+            "a": "The release of adrenaline to increase heart rate.",
+            "b": "The heart pumping more blood when it receives more blood during exercise.",
+            "c": "The vagus nerve slowing the heart rate after exercise.",
+            "d": "The effects of the sympathetic nervous system on stroke volume."
+        },
+        "answer": "b) The heart pumping more blood when it receives more blood during exercise."
+    },
+    {
+        "question": "Where are the cardiac centers and vasomotor centers located?",
+        "options": {
+            "a": "In the spinal cord",
+            "b": "In the hypothalamus",
+            "c": "In the medulla oblongata",
+            "d": "In the cerebral cortex"
+        },
+        "answer": "c) In the medulla oblongata"
+    },
+    {
+        "question": "The cardioacceleratory center in the medulla oblongata:",
+        "options": {
+            "a": "Inhibits cardiac output through parasympathetic signals.",
+            "b": "Increases cardiac output by stimulating the sympathetic nervous system.",
+            "c": "Regulates blood vessel diameter by controlling vasoconstriction.",
+            "d": "Stimulates vasodilation in blood vessels."
+        },
+        "answer": "b) Increases cardiac output by stimulating the sympathetic nervous system."
+    },
+    {
+        "question": "The cardioinhibitory center functions to:",
+        "options": {
+            "a": "Increase heart rate and cardiac output.",
+            "b": "Decrease heart rate and cardiac output through parasympathetic activity.",
+            "c": "Regulate blood pressure by constricting arteries.",
+            "d": "Stimulate vasoconstriction in large blood vessels."
+        },
+        "answer": "b) Decrease heart rate and cardiac output through parasympathetic activity."
+    },
+    {
+        "question": "The vasomotor centers in the medulla oblongata control:",
+        "options": {
+            "a": "The contraction and relaxation of the heart muscle.",
+            "b": "The regulation of heart rate via the sinoatrial node.",
+            "c": "The dilation and constriction of blood vessels.",
+            "d": "The blood volume circulating through the body."
+        },
+        "answer": "c) The dilation and constriction of blood vessels."
+    },
+    {
+        "question": "Vasodilation is caused by:",
+        "options": {
+            "a": "Excitation of the vasomotor centers.",
+            "b": "Inhibition of the vasomotor centers.",
+            "c": "Sympathetic stimulation of smooth muscle in blood vessel walls.",
+            "d": "Increased blood viscosity."
+        },
+        "answer": "b) Inhibition of the vasomotor centers."
+    },
+    {
+        "question": "Vasoconstriction is caused by:",
+        "options": {
+            "a": "Inhibition of the vasomotor centers.",
+            "b": "Excitation of the vasomotor centers.",
+            "c": "Increased parasympathetic activity.",
+            "d": "Reduced blood pressure."
+        },
+        "answer": "b) Excitation of the vasomotor centers."
+    },
+    {
+        "question": "Which of the following senses changes in blood pressure?",
+        "options": {
+            "a": "Chemoreceptors",
+            "b": "Baroreceptors",
+            "c": "Cardiovascular centers",
+            "d": "Afferent neurons in the spinal cord"
+        },
+        "answer": "b) Baroreceptors"
+    },
+    {
+        "question": "Which type of transducer in the cardiovascular system senses changes in blood pH, blood pressure, and gas concentrations?",
+        "options": {
+            "a": "Chemoreceptors",
+            "b": "Mechanoreceptors",
+            "c": "Baroreceptors",
+            "d": "Photoreceptors"
+        },
+        "answer": "a) Chemoreceptors"
+    },
+    {
+        "question": "Baroreceptors are primarily responsible for:",
+        "options": {
+            "a": "Detecting chemical changes in the blood, such as oxygen and carbon dioxide levels.",
+            "b": "Sensing the mechanical stretch of blood vessel walls and monitoring blood pressure.",
+            "c": "Regulating the contraction of the heart muscle.",
+            "d": "Stimulating the release of hormones that affect blood pressure."
+        },
+        "answer": "b) Sensing the mechanical stretch of blood vessel walls and monitoring blood pressure."
+    },
+    {
+        "question": "Chemoreceptors monitor which of the following parameters in the blood?",
+        "options": {
+            "a": "Blood pressure and oxygen concentration.",
+            "b": "Blood pH, oxygen, and carbon dioxide levels.",
+            "c": "Heart rate and stroke volume.",
+            "d": "Blood vessel diameter."
+        },
+        "answer": "b) Blood pH, oxygen, and carbon dioxide levels."
+    },
+    {
+        "question": "The cardiovascular centers respond to changes in:",
+        "options": {
+            "a": "The speed of blood flow through arteries.",
+            "b": "Blood pressure, pH, and dissolved gas concentrations.",
+            "c": "The physical activity of the muscles.",
+            "d": "The volume of blood in the veins."
+        },
+        "answer": "b) Blood pressure, pH, and dissolved gas concentrations."
+    },
+    {
+        "question": "If baroreceptors detect a drop in blood pressure, what response occurs?",
+        "options": {
+            "a": "Inhibition of the vasomotor centers and vasodilation.",
+            "b": "Stimulation of the cardioacceleratory center to increase heart rate.",
+            "c": "Inhibition of the cardioinhibitory center to decrease heart rate.",
+            "d": "Vasoconstriction to increase blood pressure."
+        },
+        "answer": "b) Stimulation of the cardioacceleratory center to increase heart rate."
+    },
+    {
+        "question": "The cardiovascular centers in the medulla oblongata help to:",
+        "options": {
+            "a": "Control blood pressure by adjusting the heart rate and the diameter of blood vessels.",
+            "b": "Regulate the respiratory rate by monitoring oxygen levels in the blood.",
+            "c": "Prevent changes in blood flow during physical exercise.",
+            "d": "Control digestion and absorption of nutrients."
+        },
+        "answer": "a) Control blood pressure by adjusting the heart rate and the diameter of blood vessels."
+    },
+    {
+        "question": "Where are chemoreceptors primarily located in the body?",
+        "options": {
+            "a": "In the liver and kidneys",
+            "b": "In the aortic arch and carotid sinuses",
+            "c": "In the brainstem only",
+            "d": "In the pulmonary arteries"
+        },
+        "answer": "b) In the aortic arch and carotid sinuses"
+    },
+    {
+        "question": "In addition to the chemoreceptors in the aortic arch and carotid sinuses, where else are chemoreceptors found to monitor blood composition?",
+        "options": {
+            "a": "In the adrenal glands",
+            "b": "In the medulla oblongata, monitoring cerebrospinal fluid (CSF) composition",
+            "c": "In the ventricles of the heart",
+            "d": "In the lungs and bronchi"
+        },
+        "answer": "b) In the medulla oblongata, monitoring cerebrospinal fluid (CSF) composition"
+    },
+    {
+        "question": "What triggers the activation of chemoreceptors in the cardiovascular system?",
+        "options": {
+            "a": "A decrease in oxygen levels",
+            "b": "A rise in CO\u2082 or a drop in pH",
+            "c": "An increase in heart rate",
+            "d": "A rise in blood pressure"
+        },
+        "answer": "b) A rise in CO\u2082 or a drop in pH"
+    },
+    {
+        "question": "Activation of the chemoreceptor reflex results in the stimulation of which centers?",
+        "options": {
+            "a": "The sensory and motor centers in the brain",
+            "b": "The cardioacceleratory and vasomotor centers",
+            "c": "The respiratory and digestive centers",
+            "d": "The visual and auditory centers"
+        },
+        "answer": "b) The cardioacceleratory and vasomotor centers"
+    },
+    {
+        "question": "Which of the following occurs as a result of chemoreceptor reflex activation?",
+        "options": {
+            "a": "Decreased cardiac output and vasodilation",
+            "b": "Increased cardiac output and vasoconstriction",
+            "c": "Decreased heart rate and vasodilation",
+            "d": "Increased heart rate and vasodilation"
+        },
+        "answer": "b) Increased cardiac output and vasoconstriction"
+    },
+    {
+        "question": "The chemoreceptor reflex is most sensitive to changes in:",
+        "options": {
+            "a": "Oxygen levels",
+            "b": "Carbon dioxide levels and pH",
+            "c": "Sodium and potassium concentrations",
+            "d": "Blood volume"
+        },
+        "answer": "b) Carbon dioxide levels and pH"
+    },
+    {
+        "question": "What effect does a rise in CO\u2082 or a drop in pH have on the body\u2019s cardiovascular system?",
+        "options": {
+            "a": "It decreases blood pressure by dilating blood vessels.",
+            "b": "It causes activation of the cardioacceleratory and vasomotor centers, increasing cardiac output and vasoconstriction.",
+            "c": "It decreases the heart rate and causes vasodilation.",
+            "d": "It leads to the relaxation of the heart muscle."
+        },
+        "answer": "b) It causes activation of the cardioacceleratory and vasomotor centers, increasing cardiac output and vasoconstriction."
+    },
+    {
+        "question": "Chemoreceptors in the carotid sinuses and aortic arch primarily detect:",
+        "options": {
+            "a": "Changes in blood glucose levels",
+            "b": "Changes in pH, CO\u2082, and oxygen levels in the blood",
+            "c": "Changes in blood pressure only",
+            "d": "The level of electrolytes in the bloodstream"
+        },
+        "answer": "b) Changes in pH, CO\u2082, and oxygen levels in the blood"
+    },
+    {
+        "question": "The chemoreceptor reflex helps to regulate:",
+        "options": {
+            "a": "Blood glucose concentration",
+            "b": "Respiratory rate and cardiovascular functions in response to changes in blood gas levels",
+            "c": "Renal filtration rate",
+            "d": "Digestive enzyme production"
+        },
+        "answer": "b) Respiratory rate and cardiovascular functions in response to changes in blood gas levels"
+    },
+    {
+        "question": "When the chemoreceptors detect a rise in CO\u2082 or a drop in pH, what is the result for the blood vessels?",
+        "options": {
+            "a": "Vasodilation occurs to reduce blood pressure.",
+            "b": "Vasoconstriction occurs to increase blood pressure and redirect blood flow to vital organs.",
+            "c": "Blood vessels remain unchanged.",
+            "d": "Blood vessels dilate and heart rate decreases."
+        },
+        "answer": "b) Vasoconstriction occurs to increase blood pressure and redirect blood flow to vital organs."
+    },
+    {
+        "question": "The medullary chemoreceptors, which monitor the composition of CSF, are sensitive to changes in:",
+        "options": {
+            "a": "Blood pressure only",
+            "b": "Blood oxygen levels",
+            "c": "Blood pH and carbon dioxide levels",
+            "d": "Blood glucose levels"
+        },
+        "answer": "c) Blood pH and carbon dioxide levels"
+    },
+    {
+        "question": "Which of the following is a consequence of the chemoreceptor reflex during situations like exercise or hypoxia?",
+        "options": {
+            "a": "A decrease in heart rate and blood pressure.",
+            "b": "A decrease in blood flow to vital organs.",
+            "c": "An increase in heart rate, cardiac output, and vasoconstriction to improve oxygen delivery.",
+            "d": "Decreased oxygen consumption by tissues."
+        },
+        "answer": "c) An increase in heart rate, cardiac output, and vasoconstriction to improve oxygen delivery."
+    },
+    {
+        "question": "Which of the following hormones is released immediately upon activation of the adrenal medulla for short-term regulation of cardiovascular function?",
+        "options": {
+            "a": "Angiotensin II",
+            "b": "Antidiuretic hormone (ADH)",
+            "c": "Epinephrine",
+            "d": "Erythropoietin"
+        },
+        "answer": "c) Epinephrine"
+    },
+    {
+        "question": "Angiotensin II is produced in response to:",
+        "options": {
+            "a": "A decrease in blood oxygen levels.",
+            "b": "An increase in blood pressure.",
+            "c": "Low blood pressure, triggered by renin from the kidneys.",
+            "d": "A rise in blood sodium levels."
+        },
+        "answer": "c) Low blood pressure, triggered by renin from the kidneys."
+    },
+    {
+        "question": "What effect does Angiotensin II have on the cardiovascular system?",
+        "options": {
+            "a": "It promotes vasodilation and reduces blood pressure.",
+            "b": "It causes vasoconstriction, increasing blood pressure.",
+            "c": "It stimulates the release of erythropoietin to increase red blood cell production.",
+            "d": "It promotes the loss of sodium and water from the kidneys."
+        },
+        "answer": "b) It causes vasoconstriction, increasing blood pressure."
+    },
+    {
+        "question": "Antidiuretic hormone (ADH) responds to changes in:",
+        "options": {
+            "a": "Blood oxygen levels.",
+            "b": "Plasma solute concentration (e.g., increased osmolarity).",
+            "c": "Blood glucose levels.",
+            "d": "Blood pressure and heart rate."
+        },
+        "answer": "b) Plasma solute concentration (e.g., increased osmolarity)."
+    },
+    {
+        "question": "The release of Antidiuretic hormone (ADH) causes:",
+        "options": {
+            "a": "Water retention at the kidneys and vasodilation.",
+            "b": "Vasoconstriction and water retention at the kidneys.",
+            "c": "Vasodilation and increased urine output.",
+            "d": "Water loss and sodium retention."
+        },
+        "answer": "b) Vasoconstriction and water retention at the kidneys."
+    },
+    {
+        "question": "Erythropoietin (EPO) is released by the kidneys in response to:",
+        "options": {
+            "a": "Increased blood pressure.",
+            "b": "Increased blood oxygen levels.",
+            "c": "Decreased oxygen levels or low blood pressure.",
+            "d": "Increased sodium levels."
+        },
+        "answer": "c) Decreased oxygen levels or low blood pressure."
+    },
+    {
+        "question": "The primary effect of erythropoietin (EPO) is to:",
+        "options": {
+            "a": "Stimulate vasodilation and reduce blood pressure.",
+            "b": "Increase red blood cell production in the bone marrow.",
+            "c": "Retain sodium and water in the kidneys.",
+            "d": "Cause vasoconstriction to increase blood pressure."
+        },
+        "answer": "b) Increase red blood cell production in the bone marrow."
+    },
+    {
+        "question": "Atrial Natriuretic Peptide (ANP) is released by the heart in response to:",
+        "options": {
+            "a": "Decreased blood pressure.",
+            "b": "Increased venous filling or elevated blood pressure.",
+            "c": "A decrease in plasma sodium levels.",
+            "d": "Increased sympathetic stimulation."
+        },
+        "answer": "b) Increased venous filling or elevated blood pressure."
+    },
+    {
+        "question": "The action of Atrial Natriuretic Peptide (ANP) involves:",
+        "options": {
+            "a": "Increased water retention by the kidneys.",
+            "b": "Inhibition of sympathetic activation of the adrenal medulla.",
+            "c": "Vasoconstriction and increased blood volume.",
+            "d": "Inhibition of urine output and sodium retention."
+        },
+        "answer": "b) Inhibition of sympathetic activation of the adrenal medulla."
+    },
+    {
+        "question": "Atrial Natriuretic Peptide (ANP) promotes:",
+        "options": {
+            "a": "Vasodilation, loss of sodium, and water from the kidneys.",
+            "b": "Vasoconstriction, and water and sodium retention at the kidneys.",
+            "c": "Increased red blood cell production.",
+            "d": "Release of angiotensin II and aldosterone."
+        },
+        "answer": "a) Vasodilation, loss of sodium, and water from the kidneys."
+    },
+    {
+        "question": "Which of the following hormones activates other hormones that act to retain water and increase blood pressure?",
+        "options": {
+            "a": "Epinephrine",
+            "b": "Angiotensin II",
+            "c": "Atrial Natriuretic Peptide (ANP)",
+            "d": "Erythropoietin"
+        },
+        "answer": "b) Angiotensin II"
+    },
+    {
+        "question": "Atrial Natriuretic Peptide (ANP) counteracts the action of:",
+        "options": {
+            "a": "Epinephrine and norepinephrine.",
+            "b": "Angiotensin II and aldosterone.",
+            "c": "Antidiuretic hormone (ADH).",
+            "d": "Erythropoietin."
+        },
+        "answer": "b) Angiotensin II and aldosterone"
+    },
+    {
+        "question": "Short-term regulation of blood pressure in the cardiovascular system is largely controlled by:",
+        "options": {
+            "a": "Hormones like erythropoietin and ANP.",
+            "b": "The adrenal gland through the release of epinephrine.",
+            "c": "The kidneys through the release of renin.",
+            "d": "The autonomic nervous system via chemoreceptors and baroreceptors."
+        },
+        "answer": "b) The adrenal gland through the release of epinephrine."
+    },
+    {
+        "question": "Long-term regulation of blood pressure primarily involves:",
+        "options": {
+            "a": "The release of epinephrine by the adrenal medulla.",
+            "b": "Angiotensin II, aldosterone, and other hormones that act to retain water and increase blood pressure.",
+            "c": "Vasodilation and reduced heart rate.",
+            "d": "Short-term changes in sympathetic activity."
+        },
+        "answer": "b) Angiotensin II, aldosterone, and other hormones that act to retain water and increase blood pressure."
+    },
+    {
+        "question": "Angiotensin II works to raise blood pressure by:",
+        "options": {
+            "a": "Increasing the release of erythropoietin from the kidneys.",
+            "b": "Stimulating vasodilation and the release of atrial natriuretic peptide.",
+            "c": "Inducing vasoconstriction and stimulating the release of aldosterone.",
+            "d": "Reducing water retention at the kidneys."
+        },
+        "answer": "c) Inducing vasoconstriction and stimulating the release of aldosterone."
+    }
+]

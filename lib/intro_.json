@@ -1,0 +1,1092 @@
+[
+    {
+        "question": "What is the primary focus of the field of anatomy?",
+        "options": {
+            "A": "The study of body functions",
+            "B": "The study of body structures and their relationships",
+            "C": "The study of human diseases",
+            "D": "The study of genetics"
+        },
+        "answer": "B) The study of body structures and relationships"
+    },
+    {
+        "question": "Why is anatomy considered fundamental for the practice of medicine?",
+        "options": {
+            "A": "It helps in diagnosing and treating diseases based on structural knowledge.",
+            "B": "It teaches patients how to exercise.",
+            "C": "It focuses on mental health.",
+            "D": "It explains how medicines affect the body."
+        },
+        "answer": "A) It helps in diagnosing and treating diseases based on structural knowledge."
+    },
+    {
+        "question": "Which of the following is a non-invasive imaging technique used to study anatomy?",
+        "options": {
+            "A": "Dissection",
+            "B": "MRI (Magnetic Resonance Imaging)",
+            "C": "Surgery",
+            "D": "Palpation"
+        },
+        "answer": "B) MRI (Magnetic Resonance Imaging)"
+    },
+    {
+        "question": "How was anatomy primarily studied in ancient times?",
+        "options": {
+            "A": "Through the use of X-rays",
+            "B": "Through experimentation on animals",
+            "C": "By dissection of cadavers",
+            "D": "By studying the writings of ancient scholars"
+        },
+        "answer": "C) By dissection of cadavers"
+    },
+    {
+        "question": "Which of the following is NOT an advanced imaging technique used in modern anatomy?",
+        "options": {
+            "A": "PET (Positron Emission Tomography)",
+            "B": "Ultrasound Scanning",
+            "C": "CT Scanning",
+            "D": "Microscopy"
+        },
+        "answer": "D) Microscopy"
+    },
+    {
+        "question": "What is the significance of anatomy for paramedical staff (e.g., medical lab technicians, therapists)?",
+        "options": {
+            "A": "It helps them understand the underlying causes of diseases.",
+            "B": "It aids them in patient treatment by providing knowledge about body structures.",
+            "C": "It allows them to perform surgeries.",
+            "D": "It teaches them how to administer drugs."
+        },
+        "answer": "B) It aids them in patient treatment by providing knowledge about body structures."
+    },
+    {
+        "question": "Which technique is most commonly used today, along with dissection, to study anatomy?",
+        "options": {
+            "A": "Observation and visualization",
+            "B": "Scientific modeling",
+            "C": "Physical examination",
+            "D": "Computer simulations"
+        },
+        "answer": "A) Observation and visualization"
+    },
+    {
+        "question": "What does the word \"anatomy\" literally mean?",
+        "options": {
+            "A": "Process of repairing",
+            "B": "Process of cutting",
+            "C": "Process of healing",
+            "D": "Process of examining"
+        },
+        "answer": "B) Process of cutting"
+    },
+    {
+        "question": "Which of the following best describes how anatomy has evolved over time?",
+        "options": {
+            "A": "It was always studied using only visual observation.",
+            "B": "It began with dissection and now incorporates advanced imaging techniques.",
+            "C": "It was originally studied using animal models, and dissection came later.",
+            "D": "It was a theoretical science until the development of MRI technology."
+        },
+        "answer": "B) It began with dissection and now incorporates advanced imaging techniques."
+    },
+    {
+        "question": "What is the primary method of learning anatomy?",
+        "options": {
+            "A": "Memorization of textbooks",
+            "B": "Observation and visualization",
+            "C": "Performing surgeries",
+            "D": "Studying pathology"
+        },
+        "answer": "B) Observation and visualization"
+    },
+    {
+        "question": "What is the anatomical position?",
+        "options": {
+            "A": "Lying on the back with arms raised above the head",
+            "B": "Standing upright with feet together, arms at the sides, and palms facing forward",
+            "C": "Sitting with legs crossed and arms on the knees",
+            "D": "Lying face down with the mouth open"
+        },
+        "answer": "B) Standing upright with feet together, arms at the sides, and palms facing forward"
+    },
+    {
+        "question": "Which of the following best describes the anatomical position?",
+        "options": {
+            "A": "Face looking forward, mouth open, palms facing backward",
+            "B": "Face looking forward, mouth closed, palms facing forward",
+            "C": "Face down, palms facing backward",
+            "D": "Face looking to the left, palms facing backward"
+        },
+        "answer": "B) Face looking forward, mouth closed, palms facing forward"
+    },
+    {
+        "question": "In the anatomical position, how are the thumbs oriented?",
+        "options": {
+            "A": "Parallel to the fingers",
+            "B": "90\u00b0 to the fingers",
+            "C": "Pointing upward",
+            "D": "Pointing downward"
+        },
+        "answer": "B) 90\u00b0 to the fingers"
+    },
+    {
+        "question": "What does the term \"prone\" refer to in reclining positions?",
+        "options": {
+            "A": "Lying face up",
+            "B": "Lying on the side",
+            "C": "Lying face down",
+            "D": "Sitting upright"
+        },
+        "answer": "C) Lying face down"
+    },
+    {
+        "question": "In the anatomical position, how are the toes positioned?",
+        "options": {
+            "A": "Pointing sideways",
+            "B": "Pointing backward",
+            "C": "Pointing forward",
+            "D": "Pointing upward"
+        },
+        "answer": "C) Pointing forward"
+    },
+    {
+        "question": "of the following regions is part of the axial region of the body?",
+        "options": {
+            "A": "Arm",
+            "B": "Head",
+            "C": "Leg",
+            "D": "Pelvis"
+        },
+        "answer": "B) Head"
+    },
+    {
+        "question": "Which of the following is NOT part of the appendicular region of the body?",
+        "options": {
+            "A": "Shoulder",
+            "B": "Abdomen",
+            "C": "Thigh",
+            "D": "Hand"
+        },
+        "answer": "B) Abdomen"
+    },
+    {
+        "question": "What does the term \"supine\" refer to?",
+        "options": {
+            "A": "Lying face down",
+            "B": "Lying on the side",
+            "C": "Lying face up",
+            "D": "Sitting with the back straight"
+        },
+        "answer": "C) Lying face up"
+    },
+    {
+        "question": "Which of the following describes the axial region of the body?",
+        "options": {
+            "A": "Limbs and pelvis",
+            "B": "Head, neck, thorax, and abdomen",
+            "C": "Shoulders and hips",
+            "D": "Hands and feet"
+        },
+        "answer": "B) Head, neck, thorax, and abdomen"
+    },
+    {
+        "question": "The appendicular region includes which of the following?",
+        "options": {
+            "A": "Abdomen and chest",
+            "B": "Limbs and pelvis",
+            "C": "Head and neck",
+            "D": "Spine and ribs"
+        },
+        "answer": "B) Limbs and pelvis"
+    },
+    {
+        "question": "Which anatomical plane divides the body into anterior (front) and posterior (back) parts?",
+        "options": {
+            "A": "Sagittal Plane",
+            "B": "Coronal (Frontal) Plane",
+            "C": "Transverse Plane",
+            "D": "Oblique Plane"
+        },
+        "answer": "B) Coronal (Frontal) Plane"
+    },
+    {
+        "question": "What does the sagittal plane divide the body into?",
+        "options": {
+            "A": "Superior and inferior parts",
+            "B": "Anterior and posterior parts",
+            "C": "Right and left parts",
+            "D": "Equal right and left halves"
+        },
+        "answer": "C) Right and left parts"
+    },
+    {
+        "question": "What is the median (midsagittal) plane responsible for?",
+        "options": {
+            "A": "Dividing the body into equal right and left halves",
+            "B": "Dividing the body into unequal right and left parts",
+            "C": "Dividing the body into anterior and posterior parts",
+            "D": "Dividing the body into superior and inferior parts"
+        },
+        "answer": "A) Dividing the body into equal right and left halves"
+    },
+    {
+        "question": "Which plane divides the body into unequal right and left parts?",
+        "options": {
+            "A": "Median (Midsagittal) Plane",
+            "B": "Coronal (Frontal) Plane",
+            "C": "Parasagittal Plane",
+            "D": "Transverse Plane"
+        },
+        "answer": "C) Parasagittal Plane"
+    },
+    {
+        "question": "What does the coronal (frontal) plane divide the body into?",
+        "options": {
+            "A": "Equal right and left halves",
+            "B": "Anterior (front) and posterior (back) parts",
+            "C": "Superior (upper) and inferior (lower) parts",
+            "D": "Right and left parts"
+        },
+        "answer": "B) Anterior (front) and posterior (back) parts"
+    },
+    {
+        "question": "Which plane divides the body into equal right and left halves?",
+        "options": {
+            "A": "Parasagittal Plane",
+            "B": "Sagittal Plane",
+            "C": "Median (Midsagittal) Plane",
+            "D": "Coronal Plane"
+        },
+        "answer": "C) Median (Midsagittal) Plane"
+    },
+    {
+        "question": "Which of the following anatomical planes divides the body into right and left parts?",
+        "options": {
+            "A": "Sagittal Plane",
+            "B": "Coronal Plane",
+            "C": "Transverse Plane",
+            "D": "Oblique Plane"
+        },
+        "answer": "A) Sagittal Plane"
+    },
+    {
+        "question": "What is the difference between the median (midsagittal) plane and the parasagittal plane?",
+        "options": {
+            "A": "The median plane divides the body into unequal right and left sides, while the parasagittal plane divides it into equal halves.",
+            "B": "The median plane divides the body into equal right and left halves, while the parasagittal plane divides it into unequal right and left sides.",
+            "C": "The median plane divides the body into anterior and posterior parts, while the parasagittal plane divides it into superior and inferior parts.",
+            "D": "The median and parasagittal planes are identical."
+        },
+        "answer": "B) The median plane divides the body into equal right and left halves, while the parasagittal plane divides it into unequal right and left sides."
+    },
+    {
+        "question": "What does the term \"superior\" (or cephalic) refer to?",
+        "options": {
+            "A": "Toward the feet",
+            "B": "Away from the head",
+            "C": "Toward the head",
+            "D": "Nearer to the front"
+        },
+        "answer": "C) Toward the head"
+    },
+    {
+        "question": "Which of the following is described as \"inferior\" (or caudal)?",
+        "options": {
+            "A": "Nearer to the front of the body",
+            "B": "Away from the head",
+            "C": "Nearer to the back",
+            "D": "Near the midline"
+        },
+        "answer": "B) Away from the head"
+    },
+    {
+        "question": "Which directional term describes something closer to the front of the body?",
+        "options": {
+            "A": "Posterior",
+            "B": "Lateral",
+            "C": "Anterior (Ventral)",
+            "D": "Medial"
+        },
+        "answer": "C) Anterior (Ventral)"
+    },
+    {
+        "question": "What does the term \"posterior\" (or dorsal) mean?",
+        "options": {
+            "A": "Nearer to the front of the body",
+            "B": "Nearer to the back of the body",
+            "C": "Closer to the head",
+            "D": "Closer to the trunk"
+        },
+        "answer": "B) Nearer to the back of the body"
+    },
+    {
+        "question": "Which of the following structures is described as \"medial\"?",
+        "options": {
+            "A": "The lungs are medial to the heart",
+            "B": "The ulna is medial to the radius",
+            "C": "The fingers are medial to the wrist",
+            "D": "The ears are medial to the face"
+        },
+        "answer": "B) The ulna is medial to the radius"
+    },
+    {
+        "question": "The term \"lateral\" means:",
+        "options": {
+            "A": "Near the midline",
+            "B": "Farther from the midline",
+            "C": "Near the surface",
+            "D": "Farther from the trunk"
+        },
+        "answer": "B) Farther from the midline"
+    },
+    {
+        "question": "What does the term \"intermediate\" mean?",
+        "options": {
+            "A": "On the opposite side",
+            "B": "Between two structures",
+            "C": "Nearer to the surface",
+            "D": "Farther from the surface"
+        },
+        "answer": "B) Between two structures"
+    },
+    {
+        "question": "Which term describes structures that are on the same side of the body?",
+        "options": {
+            "A": "Contralateral",
+            "B": "Ipsilateral",
+            "C": "Medial",
+            "D": "Distal"
+        },
+        "answer": "B) Ipsilateral"
+    },
+    {
+        "question": "What is the definition of \"contralateral\"?",
+        "options": {
+            "A": "On the same side of the body",
+            "B": "Closer to the trunk",
+            "C": "On the opposite side of the body",
+            "D": "Farther from the trunk"
+        },
+        "answer": "C) On the opposite side of the body"
+    },
+    {
+        "question": "The term \"proximal\" refers to being:",
+        "options": {
+            "A": "Closer to the trunk",
+            "B": "Farther from the trunk",
+            "C": "Closer to the head",
+            "D": "Nearer to the surface"
+        },
+        "answer": "A) Closer to the trunk"
+    },
+    {
+        "question": "Which of the following structures is described as \"distal\"?",
+        "options": {
+            "A": "The humerus is distal to the radius",
+            "B": "The phalanges are distal to the carpals",
+            "C": "The brain is distal to the spinal cord",
+            "D": "The lungs are distal to the heart"
+        },
+        "answer": "B) The phalanges are distal to the carpals"
+    },
+    {
+        "question": "What does the term \"superficial\" mean?",
+        "options": {
+            "A": "Near the midline",
+            "B": "On the surface",
+            "C": "Away from the surface",
+            "D": "Nearer to the back"
+        },
+        "answer": "B) On the surface"
+    },
+    {
+        "question": "Which of the following describes something that is \"deep\"?",
+        "options": {
+            "A": "Near the surface",
+            "B": "Away from the surface",
+            "C": "Toward the front",
+            "D": "Farther from the midline"
+        },
+        "answer": "B) Away from the surface"
+    },
+    {
+        "question": "What does the term \"rostral\" refer to?",
+        "options": {
+            "A": "Toward the feet",
+            "B": "Toward the nose or mouth",
+            "C": "Toward the back of the body",
+            "D": "Toward the head"
+        },
+        "answer": "B) Toward the nose or mouth"
+    },
+    {
+        "question": "What is the definition of membranes in the body cavities?",
+        "options": {
+            "A": "Thick tissues covering the muscles",
+            "B": "Thin, pliable tissues covering, lining, or connecting structures",
+            "C": "Rigid structures that support body cavities",
+            "D": "Hard tissues connecting organs to the skeleton"
+        },
+        "answer": "B) Thin, pliable tissues covering, lining, or connecting structures"
+    },
+    {
+        "question": "Which of the following best describes a serous membrane?",
+        "options": {
+            "A": "A membrane that lines the skeletal muscles",
+            "B": "A double-layered membrane covering cavities and organs",
+            "C": "A single-layered membrane covering the skin",
+            "D": "A membrane that supports bone growth"
+        },
+        "answer": "B) A double-layered membrane covering cavities and organs"
+    },
+    {
+        "question": "What does the parietal layer of a serous membrane do?",
+        "options": {
+            "A": "Covers the organs within the cavity",
+            "B": "Lines the cavity walls",
+            "C": "Lubricates the layers to reduce friction",
+            "D": "Supports the surrounding bones"
+        },
+        "answer": "B) Lines the cavity walls"
+    },
+    {
+        "question": "What is the function of the visceral layer of a serous membrane?",
+        "options": {
+            "A": "To line the cavity walls",
+            "B": "To cover the organs within the cavity",
+            "C": "To produce serous fluid",
+            "D": "To support the organs in place"
+        },
+        "answer": "B) To cover the organs within the cavity"
+    },
+    {
+        "question": "What is the role of serous fluid in body cavities?",
+        "options": {
+            "A": "To form a protective layer around the skin",
+            "B": "To reduce friction between the layers of the serous membrane",
+            "C": "To store nutrients for the organs",
+            "D": "To increase the thickness of the membranes"
+        },
+        "answer": "B) To reduce friction between the layers of the serous membrane"
+    },
+    {
+        "question": "Which body cavity contains the brain?",
+        "options": {
+            "A": "Vertebral canal",
+            "B": "Thoracic cavity",
+            "C": "Cranial cavity",
+            "D": "Abdominopelvic cavity"
+        },
+        "answer": "C) Cranial cavity"
+    },
+    {
+        "question": "The vertebral canal contains which of the following?",
+        "options": {
+            "A": "Heart",
+            "B": "Spinal cord and the beginnings of spinal nerves",
+            "C": "Lungs",
+            "D": "Stomach and spleen"
+        },
+        "answer": "B) Spinal cord and the beginnings of spinal nerves"
+    },
+    {
+        "question": "What is true about the relationship between the cranial cavity and vertebral canal?",
+        "options": {
+            "A": "They are completely separate and have no connection",
+            "B": "They are continuous with one another",
+            "C": "The cranial cavity is superior to the vertebral canal",
+            "D": "The vertebral canal is part of the abdominal cavity"
+        },
+        "answer": "B) They are continuous with one another"
+    },
+    {
+        "question": "Which of the following cavities is part of the thoracic cavity?",
+        "options": {
+            "A": "Abdominal cavity",
+            "B": "Vertebral canal",
+            "C": "Pleural cavity",
+            "D": "Pelvic cavity"
+        },
+        "answer": "C) Pleural cavity"
+    },
+    {
+        "question": "The pericardial cavity surrounds which organ?",
+        "options": {
+            "A": "Lungs",
+            "B": "Heart",
+            "C": "Stomach",
+            "D": "Brain"
+        },
+        "answer": "B) Heart"
+    },
+    {
+        "question": "Which of the following is true about the mediastinum?",
+        "options": {
+            "A": "It contains the lungs",
+            "B": "It is the central portion of the thoracic cavity between the lungs",
+            "C": "It only contains the heart",
+            "D": "It is part of the pelvic cavity"
+        },
+        "answer": "B) It is the central portion of the thoracic cavity between the lungs"
+    },
+    {
+        "question": "Which structures are located in the mediastinum?",
+        "options": {
+            "A": "Lungs and pleural cavities",
+            "B": "Heart, thymus, esophagus, trachea, and several large blood vessels",
+            "C": "Liver, spleen, and stomach",
+            "D": "Kidneys and bladder"
+        },
+        "answer": "B) Heart, thymus, esophagus, trachea, and several large blood vessels"
+    },
+    {
+        "question": "The abdominopelvic cavity is subdivided into which two cavities?",
+        "options": {
+            "A": "Thoracic and pelvic cavities",
+            "B": "Abdominal and pelvic cavities",
+            "C": "Cranial and vertebral cavities",
+            "D": "Pleural and pericardial cavities"
+        },
+        "answer": "B) Abdominal and pelvic cavities"
+    },
+    {
+        "question": "What is contained in the abdominal cavity?",
+        "options": {
+            "A": "Heart, thymus, and esophagus",
+            "B": "Stomach, spleen, liver, gallbladder, small intestine, and most of the large intestine",
+            "C": "Urinary bladder and internal organs of reproduction",
+            "D": "Lungs and pleura"
+        },
+        "answer": "B) Stomach, spleen, liver, gallbladder, small intestine, and most of the large intestine"
+    },
+    {
+        "question": "Which of the following organs is located in the pelvic cavity?",
+        "options": {
+            "A": "Liver",
+            "B": "Heart",
+            "C": "Urinary bladder and portions of the large intestine",
+            "D": "Lungs"
+        },
+        "answer": "C) Urinary bladder and portions of the large intestine"
+    },
+    {
+        "question": "What separates the thoracic cavity from the abdominopelvic cavity?",
+        "options": {
+            "A": "The pleural cavity",
+            "B": "The vertebral column",
+            "C": "The diaphragm",
+            "D": "The mediastinum"
+        },
+        "answer": "C) The diaphragm"
+    },
+    {
+        "question": "What term is used for the organs inside the thoracic and abdominopelvic cavities?",
+        "options": {
+            "A": "Viscera",
+            "B": "Appendages",
+            "C": "Ligaments",
+            "D": "Cartilage"
+        },
+        "answer": "A) Viscera"
+    },
+    {
+        "question": "What is the definition of a membrane in the context of body cavities?",
+        "options": {
+            "A": "A rigid structure that protects organs",
+            "B": "A thin, pliable tissue that covers, lines, partitions, or connects structures",
+            "C": "A thick tissue that forms the walls of organs",
+            "D": "A fluid-filled structure that supports organs"
+        },
+        "answer": "B) A thin, pliable tissue that covers, lines, partitions, or connects structures"
+    },
+    {
+        "question": "Which type of membrane covers and lines the walls of the thoracic and abdominal cavities?",
+        "options": {
+            "A": "Mucous membrane",
+            "B": "Serous membrane",
+            "C": "Synovial membrane",
+            "D": "Cutaneous membrane"
+        },
+        "answer": "B) Serous membrane"
+    },
+    {
+        "question": "What is the function of serous fluid in the body cavities?",
+        "options": {
+            "A": "To protect the organs from physical injury",
+            "B": "To reduce friction between the layers of the serous membrane",
+            "C": "To increase the thickness of the membranes",
+            "D": "To aid in digestion and absorption"
+        },
+        "answer": "B) To reduce friction between the layers of the serous membrane"
+    },
+    {
+        "question": "What is the parietal layer of a serous membrane responsible for?",
+        "options": {
+            "A": "Covering the viscera within the cavity",
+            "B": "Lining the walls of the thoracic and abdominal cavities",
+            "C": "Producing serous fluid",
+            "D": "Connecting structures to the skin"
+        },
+        "answer": "B) Lining the walls of the thoracic and abdominal cavities"
+    },
+    {
+        "question": "Which layer of the serous membrane adheres directly to the viscera within the cavities?",
+        "options": {
+            "A": "Parietal layer",
+            "B": "Visceral layer",
+            "C": "Serous fluid",
+            "D": "Epithelium layer"
+        },
+        "answer": "B) Visceral layer"
+    },
+    {
+        "question": "Which of the following is true about the pleura?",
+        "options": {
+            "A": "It is the serous membrane of the pericardial cavity",
+            "B": "The visceral pleura covers the abdominal viscera",
+            "C": "The parietal pleura lines the chest wall and covers the diaphragm",
+            "D": "The pleural cavity is filled with solid tissue"
+        },
+        "answer": "C) The parietal pleura lines the chest wall and covers the diaphragm"
+    },
+    {
+        "question": "What is the function of the pleural cavity?",
+        "options": {
+            "A": "To house the heart",
+            "B": "To store lubricating fluid to reduce friction between the lungs and chest wall",
+            "C": "To store blood for circulation",
+            "D": "To protect the kidneys"
+        },
+        "answer": "B) To store lubricating fluid to reduce friction between the lungs and chest wall"
+    },
+    {
+        "question": "What is the pericardium?",
+        "options": {
+            "A": "The serous membrane that covers the abdominal viscera",
+            "B": "The serous membrane of the pericardial cavity",
+            "C": "The membrane that lines the thoracic cavity",
+            "D": "The membrane that surrounds the brain"
+        },
+        "answer": "B) The serous membrane of the pericardial cavity"
+    },
+    {
+        "question": "What is the function of the visceral pericardium?",
+        "options": {
+            "A": "To cover the surface of the heart",
+            "B": "To line the chest wall",
+            "C": "To protect the lungs",
+            "D": "To line the abdominal cavity"
+        },
+        "answer": "A) To cover the surface of the heart"
+    },
+    {
+        "question": "Which of the following correctly describes the parietal pericardium?",
+        "options": {
+            "A": "It covers the heart",
+            "B": "It lines the chest wall",
+            "C": "It covers the abdominal organs",
+            "D": "It lines the peritoneal cavity"
+        },
+        "answer": "B) It lines the chest wall"
+    },
+    {
+        "question": "Which membrane is associated with the abdominal cavity?",
+        "options": {
+            "A": "Pleura",
+            "B": "Pericardium",
+            "C": "Peritoneum",
+            "D": "Meninges"
+        },
+        "answer": "C) Peritoneum"
+    },
+    {
+        "question": "What is the role of the visceral peritoneum?",
+        "options": {
+            "A": "To line the abdominal walls",
+            "B": "To cover the abdominal viscera",
+            "C": "To store food for digestion",
+            "D": "To protect the kidneys"
+        },
+        "answer": "B) To cover the abdominal viscera"
+    },
+    {
+        "question": "Which cavity is described by the peritoneal cavity?",
+        "options": {
+            "A": "The space between the visceral and parietal peritoneum",
+            "B": "The cavity between the heart and lungs",
+            "C": "The space between the pleura and lungs",
+            "D": "The space inside the skull"
+        },
+        "answer": "A) The space between the visceral and parietal peritoneum"
+    },
+    {
+        "question": "What is the term for organs located between the parietal peritoneum and the posterior abdominal wall?",
+        "options": {
+            "A": "Intraperitoneal organs",
+            "B": "Retroperitoneal organs",
+            "C": "Parietal organs",
+            "D": "Visceral organs"
+        },
+        "answer": "B) Retroperitoneal organs"
+    },
+    {
+        "question": "Which of the following is an example of a retroperitoneal organ?",
+        "options": {
+            "A": "Stomach",
+            "B": "Kidneys",
+            "C": "Small intestine",
+            "D": "Liver"
+        },
+        "answer": "B) Kidneys"
+    },
+    {
+        "question": "Which organ is located in the peritoneal cavity?",
+        "options": {
+            "A": "Kidneys",
+            "B": "Pancreas",
+            "C": "Spleen",
+            "D": "Adrenal glands"
+        },
+        "answer": "C) Spleen"
+    },
+    {
+        "question": "What is the definition of physiology?",
+        "options": {
+            "A": "The study of body structures",
+            "B": "The study of how living organisms work, including the function and integration of body parts",
+            "C": "The study of diseases and disorders",
+            "D": "The study of chemical reactions in the body"
+        },
+        "answer": "B) The study of how living organisms work, including the function and integration of body parts"
+    },
+    {
+        "question": "Which of the following is an example of studying physiology at the molecular level?",
+        "options": {
+            "A": "Studying how the heart pumps blood",
+            "B": "Examining how a protein\u2019s shape and electrical properties allow it to function as a channel for ions",
+            "C": "Analyzing how the digestive system absorbs nutrients",
+            "D": "Investigating how the kidneys filter blood"
+        },
+        "answer": "B) Examining how a protein\u2019s shape and electrical properties allow it to function as a channel for ions"
+    },
+    {
+        "question": "Which example describes the study of physiology at the system level?",
+        "options": {
+            "A": "How a muscle cell contracts",
+            "B": "How a protein functions as a channel for ions",
+            "C": "How the heart, kidneys, and glands work together to regulate sodium excretion after eating salty food",
+            "D": "How the stomach secretes digestive enzymes"
+        },
+        "answer": "C) How the heart, kidneys, and glands work together to regulate sodium excretion after eating salty food"
+    },
+    {
+        "question": "What is the chemical level of structural organization in the human body?",
+        "options": {
+            "A": "The level where molecules combine to form cells",
+            "B": "The level where atoms and molecules interact to form compounds",
+            "C": "The level where different types of tissues join together to form organs",
+            "D": "The level where systems of organs work together to perform complex functions"
+        },
+        "answer": "B) The level where atoms and molecules interact to form compounds"
+    },
+    {
+        "question": "At the cellular level of organization, what happens?",
+        "options": {
+            "A": "Different tissues join together to form an organ",
+            "B": "Molecules combine to form cells, which are the basic structural and functional units of life",
+            "C": "Various organs work together to perform a specific function",
+            "D": "The body performs integrated and complex physiological functions"
+        },
+        "answer": "B) Molecules combine to form cells, which are the basic structural and functional units of life"
+    },
+    {
+        "question": "Which of the following is an example of the tissue level of organization?",
+        "options": {
+            "A": "The heart pumping blood",
+            "B": "Muscle cells working together to contract and move the body",
+            "C": "The stomach digesting food",
+            "D": "The brain coordinating various bodily functions"
+        },
+        "answer": "B) Muscle cells working together to contract and move the body"
+    },
+    {
+        "question": "At the organ level of organization, different types of tissues are joined together to form:",
+        "options": {
+            "A": "Cells that carry out specific functions",
+            "B": "Systems that perform complex functions",
+            "C": "Recognizable organs with specific functions and shapes",
+            "D": "Molecules that are the building blocks of life"
+        },
+        "answer": "C) Recognizable organs with specific functions and shapes"
+    },
+    {
+        "question": "Which of the following is an example of the organ level of structural organization?",
+        "options": {
+            "A": "The heart, which is made up of muscle, connective, and nervous tissue, and pumps blood",
+            "B": "The kidney, which filters blood to produce urine",
+            "C": "The digestive system, including the mouth, esophagus, and stomach",
+            "D": "The skin, which protects the body from the environment"
+        },
+        "answer": "A) The heart, which is made up of muscle, connective, and nervous tissue, and pumps blood"
+    },
+    {
+        "question": "What is the system level of structural organization?",
+        "options": {
+            "A": "The level where cells perform specialized functions",
+            "B": "The level where organs work together to perform specific activities",
+            "C": "The level where tissues combine to form organs",
+            "D": "The level where the body is a complete functioning individual"
+        },
+        "answer": "B) The level where organs work together to perform specific activities"
+    },
+    {
+        "question": "Which of the following is an example of a system level function?",
+        "options": {
+            "A": "Muscle cells contracting to cause movement",
+            "B": "The digestive system working to break down food and absorb nutrients",
+            "C": "The kidney filtering blood to remove waste",
+            "D": "The brain sending signals to the muscles"
+        },
+        "answer": "B) The digestive system working to break down food and absorb nutrients"
+    },
+    {
+        "question": "The organism level of structural organization refers to:",
+        "options": {
+            "A": "A single cell performing all functions of life",
+            "B": "Groups of organs working together",
+            "C": "A living individual with all parts of the body functioning together",
+            "D": "Groups of similar cells working to perform a common function"
+        },
+        "answer": "C) A living individual with all parts of the body functioning together"
+    },
+    {
+        "question": "Which of the following is an example of the organism level of organization?",
+        "options": {
+            "A": "The stomach producing digestive enzymes",
+            "B": "The nervous system sending signals to the muscles",
+            "C": "The human body working as a whole to perform all necessary functions for survival",
+            "D": "The pancreas releasing insulin to regulate blood sugar levels"
+        },
+        "answer": "C) The human body working as a whole to perform all necessary functions for survival"
+    },
+    {
+        "question": "What is the definition of homeostasis?",
+        "options": {
+            "A": "The process of maintaining external conditions in a body",
+            "B": "The process of keeping the internal environment of the body within the range that cells can tolerate",
+            "C": "The process of eliminating waste from the body",
+            "D": "The process of growing and developing in a stable environment"
+        },
+        "answer": "B) The process of keeping the internal environment of the body within the range that cells can tolerate"
+    },
+    {
+        "question": "How do organ systems interact to control homeostasis?",
+        "options": {
+            "A": "They create a stable external environment",
+            "B": "They work together to keep internal conditions stable to support life",
+            "C": "They monitor only the body's external temperature",
+            "D": "They regulate the amount of water in the bloodstream"
+        },
+        "answer": "B) They work together to keep internal conditions stable to support life"
+    },
+    {
+        "question": "In vertebrates, which of the following is involved in maintaining homeostasis?",
+        "options": {
+            "A": "Only the brain",
+            "B": "The brain, muscles, glands, and sensory receptors",
+            "C": "The heart and lungs alone",
+            "D": "Only the sensory receptors"
+        },
+        "answer": "B) The brain, muscles, glands, and sensory receptors"
+    },
+    {
+        "question": "What is the role of sensory receptors in homeostasis?",
+        "options": {
+            "A": "To create hormones that regulate body temperature",
+            "B": "To detect specific stimuli and monitor the body for changes",
+            "C": "To send signals to muscles for movement",
+            "D": "To store energy for future use"
+        },
+        "answer": "B) To detect specific stimuli and monitor the body for changes"
+    },
+    {
+        "question": "How does the brain participate in maintaining homeostasis?",
+        "options": {
+            "A": "It sends blood to muscles to maintain body temperature",
+            "B": "It evaluates information from sensory receptors and signals muscles and glands to adjust internal conditions",
+            "C": "It produces digestive enzymes to break down food",
+            "D": "It generates heat to maintain a stable internal environment"
+        },
+        "answer": "B) It evaluates information from sensory receptors and signals muscles and glands to adjust internal conditions"
+    },
+    {
+        "question": "What is a homeostatic control system most commonly associated with?",
+        "options": {
+            "A": "Positive feedback",
+            "B": "Negative feedback",
+            "C": "Hormonal secretion only",
+            "D": "Physical changes in the environment"
+        },
+        "answer": "B) Negative feedback"
+    },
+    {
+        "question": "What does a negative feedback mechanism do in the body?",
+        "options": {
+            "A": "It strengthens or reinforces a change in the body\u2019s condition",
+            "B": "It reverses or counteracts a change to bring the body back to its setpoint",
+            "C": "It keeps the body from ever changing",
+            "D": "It causes the body to increase its temperature permanently"
+        },
+        "answer": "B) It reverses or counteracts a change to bring the body back to its setpoint"
+    },
+    {
+        "question": "What is a \"setpoint\" in the context of homeostasis?",
+        "options": {
+            "A": "The point where the body can no longer adapt to changes",
+            "B": "The desired or target value for an essential variable, such as body temperature",
+            "C": "The maximum limit of temperature the body can tolerate",
+            "D": "The average temperature of the body in a given environment"
+        },
+        "answer": "B) The desired or target value for an essential variable, such as body temperature"
+    },
+    {
+        "question": "How does the body maintain a normal temperature of 37\u00b0C during exercise?",
+        "options": {
+            "A": "By sweating continuously to reduce body heat",
+            "B": "By using the positive feedback mechanism to increase body temperature",
+            "C": "By relaxing blood vessel muscles to allow more blood flow to the skin and release heat",
+            "D": "By sending more oxygen to the muscles to prevent overheating"
+        },
+        "answer": "C) By relaxing blood vessel muscles to allow more blood flow to the skin and release heat"
+    },
+    {
+        "question": "Which of the following describes the process that occurs when the body temperature increases during exercise?",
+        "options": {
+            "A": "Sensory receptors in the skin and brain detect the temperature change and send signals to the hypothalamus, which then activates cooling mechanisms like vasodilation.",
+            "B": "The body stops cooling and begins producing more heat to balance the temperature.",
+            "C": "The brain sends a signal to the muscles to increase their activity to raise body temperature.",
+            "D": "The sensory receptors in the skin stop detecting temperature changes once the body is too hot."
+        },
+        "answer": "A) Sensory receptors in the skin and brain detect the temperature change and send signals to the hypothalamus, which then activates cooling mechanisms like vasodilation."
+    },
+    {
+        "question": "What is the purpose of a positive feedback loop?",
+        "options": {
+            "A": "To maintain stability by counteracting changes in the body",
+            "B": "To strengthen or reinforce a change in the body\u2019s controlled conditions",
+            "C": "To prevent any change in the body",
+            "D": "To reduce the production of hormones in the body"
+        },
+        "answer": "B) To strengthen or reinforce a change in the body\u2019s controlled conditions"
+    },
+    {
+        "question": "Which of the following is an example of a positive feedback loop?",
+        "options": {
+            "A": "The body increasing its temperature when exposed to cold",
+            "B": "The release of oxytocin during childbirth that intensifies uterine contractions",
+            "C": "The slowing down of heart rate when blood pressure is high",
+            "D": "The activation of sweat glands to cool the body"
+        },
+        "answer": "B) The release of oxytocin during childbirth that intensifies uterine contractions"
+    },
+    {
+        "question": "How does childbirth serve as an example of a positive feedback loop?",
+        "options": {
+            "A": "The brain signals the muscles to contract more slowly during labor",
+            "B": "Increased oxytocin is released to intensify uterine contractions, which then causes more oxytocin to be released, reinforcing the process until birth occurs",
+            "C": "The body maintains a stable temperature during childbirth",
+            "D": "The nervous system reduces the intensity of contractions over time"
+        },
+        "answer": "B)"
+    },
+    {
+        "question": "What is metabolism?",
+        "options": {
+            "A": "The process by which the body generates energy from food",
+            "B": "The sum of all chemical processes that occur in the body",
+            "C": "The breakdown of food into nutrients for the body",
+            "D": "The formation of new cells for tissue growth"
+        },
+        "answer": "B) The sum of all chemical processes that occur in the body"
+    },
+    {
+        "question": "What is catabolism?",
+        "options": {
+            "A": "The process of building up complex molecules from simpler ones",
+            "B": "The breakdown of complex chemical substances into simpler components",
+            "C": "The regulation of the body's internal temperature",
+            "D": "The process of cell division and replication"
+        },
+        "answer": "B) The breakdown of complex chemical substances into simpler components"
+    },
+    {
+        "question": "What is anabolism?",
+        "options": {
+            "A": "The breakdown of complex molecules to release energy",
+            "B": "The building up of complex chemical substances from simpler components",
+            "C": "The formation of new cells in the body",
+            "D": "The movement of cells within the body"
+        },
+        "answer": "B) The building up of complex chemical substances from simpler components"
+    },
+    {
+        "question": "Which of the following is an example of responsiveness in the human body?",
+        "options": {
+            "A": "The growth of muscles during exercise",
+            "B": "The body\u2019s ability to sweat when the temperature rises",
+            "C": "The increase in the number of red blood cells over time",
+            "D": "The division of cells during development"
+        },
+        "answer": "B) The body\u2019s ability to sweat when the temperature rises"
+    },
+    {
+        "question": "What does movement in a living organism refer to?",
+        "options": {
+            "A": "Only the movement of muscles",
+            "B": "The motion of the whole body, individual organs, cells, and structures inside cells",
+            "C": "The circulation of blood in the heart",
+            "D": "The growth of new tissues and organs"
+        },
+        "answer": "B) The motion of the whole body, individual organs, cells, and structures inside cells"
+    },
+    {
+        "question": "What is growth in a living organism?",
+        "options": {
+            "A": "The development of specialized cells from unspecialized ones",
+            "B": "The increase in the size of the body or organs due to an increase in the size or number of cells",
+            "C": "The ability to reproduce offspring",
+            "D": "The ability of cells to maintain homeostasis"
+        },
+        "answer": "B) The increase in the size of the body or organs due to an increase in the size or number of cells"
+    },
+    {
+        "question": "What is differentiation in the context of cellular biology?",
+        "options": {
+            "A": "The process of cells dividing into two identical cells",
+            "B": "The development of a cell from an unspecialized state to a specialized state",
+            "C": "The breakdown of larger molecules into smaller components",
+            "D": "The ability of cells to replicate and produce new cells"
+        },
+        "answer": "B) The development of a cell from an unspecialized state to a specialized state"
+    },
+    {
+        "question": "What does reproduction refer to in the context of living organisms?",
+        "options": {
+            "A": "The creation of energy for the cells of the body",
+            "B": "The formation of new cells for tissue growth, repair, or replacement, or the production of new individuals",
+            "C": "The development of complex molecules from simpler ones",
+            "D": "The breakdown of old cells to form new tissues"
+        },
+        "answer": "B) The formation of new cells for tissue growth, repair, or replacement, or the production of new individuals"
+    },
+    {
+        "question": "What happens when any of the life processes of the human body cease to occur properly?",
+        "options": {
+            "A": "The organism remains healthy but becomes less active",
+            "B": "The body compensates by strengthening other life processes",
+            "C": "Death of cells and tissues can occur, leading to the potential death of the organism",
+            "D": "The body will regenerate any malfunctioning cells"
+        },
+        "answer": "C) Death of cells and tissues can occur, leading to the potential death of the organism"
+    }
+]
