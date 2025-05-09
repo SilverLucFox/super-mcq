@@ -1,25 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz App</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Universal MCQ Game</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div class="container">
-        <h1>Quiz App</h1>
-        <div class="controls">
-            <select id="category-select">
-                <option value="" disabled selected>Select a category</option>
-            </select>
-            <button id="start-btn">Start Quiz</button>
-        </div>
-        <div id="progress"></div>
-        <div id="question-count"></div>
-        <div id="question-area"></div>
-        <button id="submit-btn" disabled>Submit Answer</button>
+      <h1>🧠 Universal MCQ Game</h1>
+      <div class="controls">
+        <select id="category-select">
+          <option value="" disabled selected>Select a category</option>
+        </select>
+        <button id="start-btn">Start Quiz</button>
+      </div>
+      <div id="progress"></div>
+      <div id="question-count"></div>
+      <div id="question-area"></div>
+      <button id="submit-btn" disabled>Submit Answer</button>
+
+      <footer>
+        Made by
+        <a href="https://github.com/SilverLucFox" target="_blank">SilverFox</a>
+      </footer>
     </div>
     <script src="app.js"></script>
-</body>
+  </body>
 </html>

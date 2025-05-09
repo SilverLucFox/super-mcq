@@ -1,0 +1,522 @@
+[
+  {
+    "question": "Which command is used to print the current working directory?",
+    "options": {
+      "a": "ls",
+      "b": "pwd",
+      "c": "cd",
+      "d": "whoami"
+    },
+    "answer": "b) pwd"
+  },
+  {
+    "question": "Which command lists all files including hidden ones?",
+    "options": {
+      "a": "ls",
+      "b": "showfiles",
+      "c": "dir",
+      "d": "ls -la"
+    },
+    "answer": "d) ls -la"
+  },
+  {
+    "question": "Which command changes the current directory?",
+    "options": {
+      "a": "pwd",
+      "b": "ls",
+      "c": "mv",
+      "d": "cd"
+    },
+    "answer": "d) cd"
+  },
+  {
+    "question": "Which command shows IP address info?",
+    "options": {
+      "a": "tcpdump",
+      "b": "netstat",
+      "c": "ip a",
+      "d": "ping"
+    },
+    "answer": "c) ip a"
+  },
+  {
+    "question": "Which tool shows the path packets take to a host?",
+    "options": {
+      "a": "netstat",
+      "b": "ping",
+      "c": "route",
+      "d": "traceroute"
+    },
+    "answer": "d) traceroute"
+  },
+  {
+    "question": "Which tool is used to test basic connectivity to a host?",
+    "options": {
+      "a": "nmap",
+      "b": "curl",
+      "c": "ping",
+      "d": "traceroute"
+    },
+    "answer": "c) ping"
+  },
+  {
+    "question": "Which command is used to view system-wide active connections?",
+    "options": {
+      "a": "uptime",
+      "b": "netstat -tuln",
+      "c": "top",
+      "d": "ps aux"
+    },
+    "answer": "b) netstat -tuln"
+  },
+  {
+    "question": "Which tool is used for advanced socket statistics?",
+    "options": {
+      "a": "netstat",
+      "b": "ip a",
+      "c": "ss -tuln",
+      "d": "tcpdump"
+    },
+    "answer": "c) ss -tuln"
+  },
+  {
+    "question": "Which tool scans hosts and services?",
+    "options": {
+      "a": "nmap",
+      "b": "ping",
+      "c": "dirb",
+      "d": "tcpdump"
+    },
+    "answer": "a) nmap"
+  },
+  {
+    "question": "Which command shows network interfaces?",
+    "options": {
+      "a": "ifconfig",
+      "b": "ping",
+      "c": "ip addr",
+      "d": "nslookup"
+    },
+    "answer": "a) ifconfig"
+  },
+  {
+    "question": "Which command creates a new empty file?",
+    "options": {
+      "a": "nano",
+      "b": "cat",
+      "c": "touch",
+      "d": "mkdir"
+    },
+    "answer": "c) touch"
+  },
+  {
+    "question": "Which editor opens text files in the terminal?",
+    "options": {
+      "a": "vim",
+      "b": "touch",
+      "c": "nano",
+      "d": "code"
+    },
+    "answer": "c) nano"
+  },
+  {
+    "question": "Which command shows contents of a file?",
+    "options": {
+      "a": "cat",
+      "b": "touch",
+      "c": "ls",
+      "d": "nano"
+    },
+    "answer": "a) cat"
+  },
+  {
+    "question": "Which command copies a file?",
+    "options": {
+      "a": "cp",
+      "b": "mv",
+      "c": "copy",
+      "d": "scp"
+    },
+    "answer": "a) cp"
+  },
+  {
+    "question": "Which command moves or renames a file?",
+    "options": {
+      "a": "mv",
+      "b": "cp",
+      "c": "rename",
+      "d": "cut"
+    },
+    "answer": "a) mv"
+  },
+  {
+    "question": "Which command deletes a directory and its contents?",
+    "options": {
+      "a": "rm -rf",
+      "b": "delete",
+      "c": "mv",
+      "d": "cut"
+    },
+    "answer": "a) rm -rf"
+  },
+  {
+    "question": "Which command displays the kernel version?",
+    "options": {
+      "a": "whoami",
+      "b": "uname -a",
+      "c": "top",
+      "d": "lsb_release -a"
+    },
+    "answer": "b) uname -a"
+  },
+  {
+    "question": "Which command shows who is currently logged in?",
+    "options": {
+      "a": "who",
+      "b": "id",
+      "c": "login",
+      "d": "whoami"
+    },
+    "answer": "d) whoami"
+  },
+  {
+    "question": "Which command lists running processes?",
+    "options": {
+      "a": "kill",
+      "b": "top",
+      "c": "jobs",
+      "d": "ps aux"
+    },
+    "answer": "d) ps aux"
+  },
+  {
+    "question": "Which command monitors system usage in real-time?",
+    "options": {
+      "a": "top",
+      "b": "ps",
+      "c": "htop",
+      "d": "uptime"
+    },
+    "answer": "a) top"
+  },
+  {
+    "question": "Which command launches Metasploit?",
+    "options": {
+      "a": "exploit",
+      "b": "msfconsole",
+      "c": "nmap",
+      "d": "msfvenom"
+    },
+    "answer": "b) msfconsole"
+  },
+  {
+    "question": "Which tool searches Exploit-DB?",
+    "options": {
+      "a": "searchsploit",
+      "b": "msfconsole",
+      "c": "recon-ng",
+      "d": "exploitdb"
+    },
+    "answer": "a) searchsploit"
+  },
+  {
+    "question": "Which tool performs brute force SSH attacks?",
+    "options": {
+      "a": "nmap",
+      "b": "john",
+      "c": "sqlmap",
+      "d": "hydra"
+    },
+    "answer": "d) hydra"
+  },
+  {
+    "question": "Which tool cracks password hashes?",
+    "options": {
+      "a": "hydra",
+      "b": "john",
+      "c": "hashcat",
+      "d": "crackmapexec"
+    },
+    "answer": "b) john"
+  },
+  {
+    "question": "Which tool performs directory brute-forcing?",
+    "options": {
+      "a": "ffuf",
+      "b": "gobuster",
+      "c": "all",
+      "d": "dirb"
+    },
+    "answer": "c) all"
+  },
+  {
+    "question": "Which command detects SQL injection?",
+    "options": {
+      "a": "nikto",
+      "b": "dirsearch",
+      "c": "sqlmap",
+      "d": "xsser"
+    },
+    "answer": "c) sqlmap"
+  },
+  {
+    "question": "Which command analyzes packets on a network?",
+    "options": {
+      "a": "ss",
+      "b": "tcpdump",
+      "c": "ping",
+      "d": "wireshark"
+    },
+    "answer": "b) tcpdump"
+  },
+  {
+    "question": "Which GUI tool is used for packet analysis?",
+    "options": {
+      "a": "tcpdump",
+      "b": "aircrack-ng",
+      "c": "wireshark",
+      "d": "nmap"
+    },
+    "answer": "c) wireshark"
+  },
+  {
+    "question": "Which command is used to crack Wi-Fi passwords?",
+    "options": {
+      "a": "hydra",
+      "b": "reaver",
+      "c": "tcpdump",
+      "d": "aircrack-ng"
+    },
+    "answer": "d) aircrack-ng"
+  },
+  {
+    "question": "Which tool generates payloads?",
+    "options": {
+      "a": "exploitdb",
+      "b": "msfconsole",
+      "c": "msfvenom",
+      "d": "searchsploit"
+    },
+    "answer": "c) msfvenom"
+  },
+  {
+    "question": "Which tool scans LAN for active devices?",
+    "options": {
+      "a": "masscan",
+      "b": "zmap",
+      "c": "arp-scan",
+      "d": "ping sweep"
+    },
+    "answer": "c) arp-scan"
+  },
+  {
+    "question": "Which tool enumerates Windows/Samba info?",
+    "options": {
+      "a": "smbclient",
+      "b": "nmap",
+      "c": "enum4linux",
+      "d": "rpcclient"
+    },
+    "answer": "c) enum4linux"
+  },
+  {
+    "question": "Which command queries SNMP info?",
+    "options": {
+      "a": "enum4linux",
+      "b": "snmpget",
+      "c": "nmap",
+      "d": "snmpwalk"
+    },
+    "answer": "d) snmpwalk"
+  },
+  {
+    "question": "Which tool crafts custom TCP/IP packets?",
+    "options": {
+      "a": "ping",
+      "b": "tcpdump",
+      "c": "nmap",
+      "d": "hping3"
+    },
+    "answer": "d) hping3"
+  },
+  {
+    "question": "Which command performs DNS enumeration?",
+    "options": {
+      "a": "dnsenum",
+      "b": "dig",
+      "c": "nslookup",
+      "d": "whois"
+    },
+    "answer": "a) dnsenum"
+  },
+  {
+    "question": "Which scanner checks web servers for issues?",
+    "options": {
+      "a": "nikto",
+      "b": "burpsuite",
+      "c": "nmap",
+      "d": "dirsearch"
+    },
+    "answer": "a) nikto"
+  },
+  {
+    "question": "Which tool scans WordPress for vulnerabilities?",
+    "options": {
+      "a": "wpscan",
+      "b": "sqlmap",
+      "c": "cmseek",
+      "d": "nuclei"
+    },
+    "answer": "a) wpscan"
+  },
+  {
+    "question": "Which framework is used for open-source recon?",
+    "options": {
+      "a": "recon-ng",
+      "b": "searchsploit",
+      "c": "ffuf",
+      "d": "xssstrike"
+    },
+    "answer": "a) recon-ng"
+  },
+  {
+    "question": "Which command runs the Burp proxy?",
+    "options": {
+      "a": "proxychains",
+      "b": "nmap",
+      "c": "burp",
+      "d": "burpsuite"
+    },
+    "answer": "d) burpsuite"
+  },
+  {
+    "question": "Which tool finds and exploits XSS?",
+    "options": {
+      "a": "sqlmap",
+      "b": "dirb",
+      "c": "jwt_tool",
+      "d": "xsser"
+    },
+    "answer": "d) xsser"
+  },
+  {
+    "question": "Which command sets up a simple backdoor?",
+    "options": {
+      "a": "nc",
+      "b": "socat",
+      "c": "pwncat",
+      "d": "ncat"
+    },
+    "answer": "d) ncat"
+  },
+  {
+    "question": "Which tool creates reverse encrypted shells?",
+    "options": {
+      "a": "ncat",
+      "b": "mimikatz",
+      "c": "chisel",
+      "d": "socat"
+    },
+    "answer": "d) socat"
+  },
+  {
+    "question": "Which tool creates tunnels for pivoting?",
+    "options": {
+      "a": "pwncat",
+      "b": "proxychains",
+      "c": "chisel",
+      "d": "nmap"
+    },
+    "answer": "c) chisel"
+  },
+  {
+    "question": "Which tool is used for post-exploitation on Windows?",
+    "options": {
+      "a": "netcat",
+      "b": "empire",
+      "c": "powersploit",
+      "d": "mimikatz"
+    },
+    "answer": "b) empire"
+  },
+  {
+    "question": "Which tool cracks hashes with GPU acceleration?",
+    "options": {
+      "a": "hashcat",
+      "b": "john",
+      "c": "hydra",
+      "d": "reaver"
+    },
+    "answer": "a) hashcat"
+  },
+  {
+    "question": "Which tool generates custom wordlists from websites?",
+    "options": {
+      "a": "john",
+      "b": "reNgine",
+      "c": "cewl",
+      "d": "hydra"
+    },
+    "answer": "c) cewl"
+  },
+  {
+    "question": "Which tool cracks JWT tokens?",
+    "options": {
+      "a": "hashcat",
+      "b": "jwt_tool",
+      "c": "jwt-cracker",
+      "d": "sqlmap"
+    },
+    "answer": "c) jwt-cracker"
+  },
+  {
+    "question": "Which tool performs SMB and Kerberos attacks?",
+    "options": {
+      "a": "impacket",
+      "b": "evil-winrm",
+      "c": "crackmapexec",
+      "d": "hydra"
+    },
+    "answer": "a) impacket"
+  },
+  {
+    "question": "Which tool can enumerate and exploit SMB shares?",
+    "options": {
+      "a": "smbmap",
+      "b": "enum4linux",
+      "c": "crackmapexec",
+      "d": "nmap"
+    },
+    "answer": "c) crackmapexec"
+  },
+  {
+    "question": "Which tool is used for exploiting WinRM service?",
+    "options": {
+      "a": "mimikatz",
+      "b": "evil-winrm",
+      "c": "wmiexec",
+      "d": "crackmapexec"
+    },
+    "answer": "b) evil-winrm"
+  },
+  {
+    "question": "Which tool automates recon and vulnerability scanning in a web UI?",
+    "options": {
+      "a": "recon-ng",
+      "b": "burpsuite",
+      "c": "amass",
+      "d": "reNgine"
+    },
+    "answer": "d) reNgine"
+  },
+  {
+    "question": "Which scripting method is used to execute post-exploitation logic on Windows?",
+    "options": {
+      "a": "bash",
+      "b": "curl",
+      "c": "python",
+      "d": "powershell scripts"
+    },
+    "answer": "d) powershell scripts"
+  }
+]
