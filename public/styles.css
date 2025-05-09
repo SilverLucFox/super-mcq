@@ -123,6 +123,7 @@ footer a:hover {
   font-size: 1.1rem;
   line-height: 1.6;
   color: #f1f5f9;
+  word-wrap: break-word;
 }
 
 .submit-btn {
@@ -146,4 +147,95 @@ footer a:hover {
     padding: 2rem;
   }
 }
- 
+
+@media (max-width: 480px) {
+  .sidebar {
+    padding: 1.5rem 1rem;
+    box-shadow: none;
+  }
+
+  .sidebar h1 {
+    font-size: 1.5rem;
+  }
+
+  .sidebar .tagline {
+    font-size: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .controls {
+    width: 100%;
+    align-items: stretch;
+  }
+
+  select,
+  button {
+    width: 100%;
+    font-size: 0.95rem;
+  }
+
+  .main-area {
+    padding: 1.5rem;
+    gap: 1rem;
+  }
+
+  .question-box {
+    font-size: 1rem;
+    padding: 1.5rem;
+  }
+
+  .submit-btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  footer {
+    font-size: 0.75rem;
+    padding: 1rem 0;
+  }
+}
+/* Menu Toggle Button */
+.menu-toggle {
+  display: none;
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  background-color: #bb38f8;
+  color: #0f172a;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  z-index: 1000;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .sidebar {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background: #1e293b;
+    z-index: 999;
+    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+    transform: translateX(-100%);
+  }
+
+  .sidebar.active {
+    display: flex;
+    transform: translateX(0);
+  }
+
+  .menu-toggle {
+    width: 15%;
+    display: block;
+  }
+
+  .main-area {
+    padding: 2rem 1rem;
+  }
+}

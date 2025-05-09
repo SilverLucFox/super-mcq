@@ -32,6 +32,9 @@
       </aside>
 
       <main class="main-area">
+        <button id="menu-toggle" class="menu-toggle" aria-label="Toggle menu">
+          ☰
+        </button>
         <div id="progress" class="info-box"></div>
         <div id="question-count" class="info-box"></div>
         <div id="question-area" class="question-box"></div>
@@ -42,5 +45,13 @@
     </div>
 
     <script src="app.js"></script>
+    <script>
+      const toggleBtn = document.getElementById("menu-toggle");
+      const sidebar = document.querySelector(".sidebar");
+
+      toggleBtn.addEventListener("click", () => {
+        sidebar.classList.toggle("active");
+      });
+    </script>
   </body>
 </html>
