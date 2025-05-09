@@ -228,3 +228,47 @@ footer a:hover {
     font-size: 0.9rem;
   }
 }
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-only {
+    display: block;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    z-index: 1000;
+    padding: 0.8rem 1.2rem;
+    background: #bb38f8;
+    color: #0f172a;
+    border-radius: 0.5rem;
+    font-weight: 600;
+  }
+
+  #mobile-toggle {
+    top: 1rem;
+    bottom: auto;
+  }
+
+  .sidebar {
+    position: fixed;
+    height: 100vh;
+    z-index: 999;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+
+  .sidebar.visible {
+    transform: translateX(0);
+  }
+
+  .sidebar.hidden {
+    transform: translateX(-100%);
+  }
+
+  .main-area.fullscreen {
+    margin-left: 0;
+    width: 100%;
+  }
+}

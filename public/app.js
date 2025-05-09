@@ -18,11 +18,11 @@ async function populateCategoryDropdown() {
         const response = await fetch('/lib');
         if (!response.ok) throw new Error('Failed to load categories');
         const files = await response.json();
-        
+
         const categories = files
             .filter(file => file.endsWith('.json'))
             .map(file => file.replace('.json', ''));
-        
+
         categorySelect.innerHTML = '<option value="" disabled selected>Select a category</option>';
         categories.forEach(category => {
             const option = document.createElement('option');
@@ -41,15 +41,15 @@ async function startQuiz() {
     try {
         const selectedValue = categorySelect.value;
         if (!selectedValue) return;
-        
+
         const response = await fetch(`/lib/${selectedValue}.json`);
         if (!response.ok) throw new Error('Failed to load questions');
-        
+
         selectedCategory = await response.json();
         incorrectQuestions = [...selectedCategory];
         currentQuestionIndex = 0;
         correctAnswers = 0;
-        
+
         submitBtn.disabled = false;
         startBtn.disabled = true;
         categorySelect.disabled = true;
@@ -93,7 +93,7 @@ function renderQuestion(index) {
 function checkAnswer() {
     const selectedOption = document.querySelector(`input[name="question-${currentQuestionIndex}"]:checked`);
     const feedback = document.getElementById('feedback');
-    
+
     if (!selectedOption) {
         feedback.innerHTML = '<p class="incorrect">Please select an answer before submitting.</p>';
         return;
@@ -101,7 +101,7 @@ function checkAnswer() {
 
     const selectedValue = selectedOption.value;
     const correctAnswer = incorrectQuestions[currentQuestionIndex].answer[0];
-    
+
     if (selectedValue === correctAnswer) {
         feedback.innerHTML = '<p class="correct">Correct!</p>';
         correctAnswers++;
@@ -132,3 +132,46 @@ function updateProgress() {
 document.addEventListener('DOMContentLoaded', populateCategoryDropdown);
 startBtn.addEventListener('click', startQuiz);
 submitBtn.addEventListener('click', checkAnswer);
+
+const mobileToggle = document.getElementById('mobile-toggle');
+const showMenuBtn = document.getElementById('show-menu');
+const sidebar = document.querySelector('.sidebar');
+
+// Toggle sidebar visibility
+mobileToggle.addEventListener('click', () => {
+    sidebar.classList.toggle('visible');
+});
+
+// Start Quiz button handler modifications
+startBtn.addEventListener('click', () => {
+    if (window.innerWidth <= 768) {
+        sidebar.classList.add('hidden');
+        mobileToggle.style.display = 'none';
+        document.querySelector('.main-area').classList.add('fullscreen');
+    }
+});
+
+// When quiz ends (add this to your quiz completion logic)
+function handleQuizCompletion() {
+    if (window.innerWidth <= 768) {
+        showMenuBtn.style.display = 'block';
+    }
+}
+
+// Show menu button handler
+showMenuBtn.addEventListener('click', () => {
+    sidebar.classList.add('visible');
+    showMenuBtn.style.display = 'none';
+    document.querySelector('.main-area').classList.remove('fullscreen');
+});
+
+// Handle window resize
+window.addEventListener('resize', () => {
+    if (window.innerWidth > 768) {
+        sidebar.classList.remove('visible', 'hidden');
+        mobileToggle.style.display = 'none';
+        showMenuBtn.style.display = 'none';
+    } else {
+        mobileToggle.style.display = 'block';
+    }
+});
