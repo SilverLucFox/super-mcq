@@ -1,12 +1,11 @@
 # 🧠 Universal MCQ Game
 
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/universal-mcq-game?color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/SilverLucFox/super-mcq?color=blue)
 ![HTML](https://img.shields.io/badge/HTML-%3C%2F%3E-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-%3C%2F%3E-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-Converter-blue?logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen?logo=node.js)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 A web-based Multiple Choice Question game system that works with any subject. Includes a TXT-to-JSON converter for easy question bank creation.
