@@ -1,312 +1,699 @@
-Q1. Which command is used to print the current working directory?
- a) ls
- b) pwd
- c) cd
- d) whoami
- Answer: b) pwd
- Q2. Which command lists all files including hidden ones?
- a) ls
- b) showfiles
- c) dir
- d) ls -la
- Answer: d) ls -la
- Q3. Which command changes the current directory?
- a) pwd
- b) ls
- c) mv
- d) cd
- Answer: d) cd
- Q4. Which command shows IP address info?
- a) tcpdump
- b) netstat
- c) ip a
- d) ping
- Answer: c) ip a
- Q5. Which tool shows the path packets take to a host?
- a) netstat
- b) ping
- c) route
- d) traceroute
- Answer: d) traceroute
- Q6. Which tool is used to test basic connectivity to a host?
- a) nmap
- b) curl
- c) ping
- d) traceroute
- Answer: c) ping
- Q7. Which command is used to view system-wide active connections?
- a) uptime
- b) netstat -tuln
- c) top
- d) ps aux
- Answer: b) netstat -tuln
-Q8. Which tool is used for advanced socket statistics?
- a) netstat
- b) ip a
- c) ss -tuln
- d) tcpdump
- Answer: c) ss -tuln
- Q9. Which tool scans hosts and services?
- a) nmap
- b) ping
- c) dirb
- d) tcpdump
- Answer: a) nmap
- Q10. Which command shows network interfaces?
- a) ifconfig
- b) ping
- c) ip addr
- d) nslookup
- Answer: a) ifconfig
- Q11. Which command creates a new empty file?
- a) nano
- b) cat
- c) touch
- d) mkdir
- Answer: c) touch
- Q12. Which editor opens text files in the terminal?
- a) vim
- b) touch
- c) nano
- d) code
- Answer: c) nano
- Q13. Which command shows contents of a file?
- a) cat
- b) touch
- c) ls
- d) nano
- Answer: a) cat
- Q14. Which command copies a file?
- a) cp
- b) mv
- c) copy
- d) scp
- Answer: a) cp
-Q15. Which command moves or renames a file?
- a) mv
- b) cp
- c) rename
- d) cut
- Answer: a) mv
- Q16. Which command deletes a directory and its contents?
- a) rm -rf
- b) delete
- c) mv
- d) cut
- Answer: a) rm -rf
- Q17. Which command displays the kernel version?
- a) whoami
- b) uname -a
- c) top
- d) lsb_release -a
- Answer: b) uname -a
- Q18. Which command shows who is currently logged in?
- a) who
- b) id
- c) login
- d) whoami
- Answer: d) whoami
- Q19. Which command lists running processes?
- a) kill
- b) top
- c) jobs
- d) ps aux
- Answer: d) ps aux
- Q20. Which command monitors system usage in real-time?
- a) top
- b) ps
- c) htop
- d) uptime
- Answer: a) top
- Q21. Which command launches Metasploit?
- a) exploit
- b) msfconsole
- c) nmap
- d) msfvenom
- Answer: b) msfconsole
-Q22. Which tool searches Exploit-DB?
- a) searchsploit
- b) msfconsole
- c) recon-ng
- d) exploitdb
- Answer: a) searchsploit
- Q23. Which tool performs brute force SSH attacks?
- a) nmap
- b) john
- c) sqlmap
- d) hydra
- Answer: d) hydra
- Q24. Which tool cracks password hashes?
- a) hydra
- b) john
- c) hashcat
- d) crackmapexec
- Answer: b) john
- Q25. Which tool performs directory brute-forcing?
- a) ffuf
- b) gobuster
- c) all
- d) dirb
- Answer: c) all
- Q26. Which command detects SQL injection?
- a) nikto
- b) dirsearch
- c) sqlmap
- d) xsser
- Answer: c) sqlmap
- Q27. Which command analyzes packets on a network?
- a) ss
- b) tcpdump
- c) ping
- d) wireshark
- Answer: b) tcpdump
- Q28. Which GUI tool is used for packet analysis?
- a) tcpdump
- b) aircrack-ng
- c) wireshark
- d) nmap
- Answer: c) wireshark
-Q29. Which command is used to crack Wi-Fi passwords?
- a) hydra
- b) reaver
- c) tcpdump
- d) aircrack-ng
- Answer: d) aircrack-ng
- Q30. Which tool generates payloads?
- a) exploitdb
- b) msfconsole
- c) msfvenom
- d) searchsploit
- Answer: c) msfvenom
- Q31. Which tool scans LAN for active devices?
- a) masscan
- b) zmap
- c) arp-scan
- d) ping sweep
- Answer: c) arp-scan
- Q32. Which tool enumerates Windows/Samba info?
- a) smbclient
- b) nmap
- c) enum4linux
- d) rpcclient
- Answer: c) enum4linux
- Q33. Which command queries SNMP info?
- a) enum4linux
- b) snmpget
- c) nmap
- d) snmpwalk
- Answer: d) snmpwalk
- Q34. Which tool crafts custom TCP/IP packets?
- a) ping
- b) tcpdump
- c) nmap
- d) hping3
- Answer: d) hping3
- Q35. Which command performs DNS enumeration?
- a) dnsenum
- b) dig
- c) nslookup
- d) whois
- Answer: a) dnsenum
-Q36. Which scanner checks web servers for issues?
- a) nikto
- b) burpsuite
- c) nmap
- d) dirsearch
- Answer: a) nikto
- Q37. Which tool scans WordPress for vulnerabilities?
- a) wpscan
- b) sqlmap
- c) cmseek
- d) nuclei
- Answer: a) wpscan
- Q38. Which framework is used for open-source recon?
- a) recon-ng
- b) searchsploit
- c) ffuf
- d) xssstrike
- Answer: a) recon-ng
- Q39. Which command runs the Burp proxy?
- a) proxychains
- b) nmap
- c) burp
- d) burpsuite
- Answer: d) burpsuite
- Q40. Which tool finds and exploits XSS?
- a) sqlmap
- b) dirb
- c) jwt_tool
- d) xsser
- Answer: d) xsser
- Q41. Which command sets up a simple backdoor?
- a) nc
- b) socat
- c) pwncat
- d) ncat
- Answer: d) ncat
- Q42. Which tool creates reverse encrypted shells?
- a) ncat
- b) mimikatz
- c) chisel
- d) socat
- Answer: d) socat
-Q43. Which tool creates tunnels for pivoting?
- a) pwncat
- b) proxychains
- c) chisel
- d) nmap
- Answer: c) chisel
- Q44. Which tool is used for post-exploitation on Windows?
- a) netcat
- b) empire
- c) powersploit
- d) mimikatz
- Answer: b) empire
- Q45. Which tool cracks hashes with GPU acceleration?
- a) hashcat
- b) john
- c) hydra
- d) reaver
- Answer: a) hashcat
- Q51. Which tool generates custom wordlists from websites?
- a) john
- b) reNgine
- c) cewl
- d) hydra
- Answer: c) cewl
- Q52. Which tool cracks JWT tokens?
- a) hashcat
- b) jwt_tool
- c) jwt-cracker
- d) sqlmap
- Answer: c) jwt-cracker
- Q53. Which tool performs SMB and Kerberos attacks?
- a) impacket
- b) evil-winrm
- c) crackmapexec
- d) hydra
- Answer: a) impacket
- Q54. Which tool can enumerate and exploit SMB shares?
- a) smbmap
- b) enum4linux
- c) crackmapexec
- d) nmap
- Answer: c) crackmapexec
-Q55. Which tool is used for exploiting WinRM service?
- a) mimikatz
- b) evil-winrm
- c) wmiexec
- d) crackmapexec
- Answer: b) evil-winrm
- Q56. Which tool automates recon and vulnerability scanning in a web UI?
- a) recon-ng
- b) burpsuite
- c) amass
- d) reNgine
- Answer: d) reNgine
- Q57. Which scripting method is used to execute post-exploitation logic on Windows?
- a) bash
- b) curl
- c) python
- d) powershell scripts
- Answer: d) powershell scripts
+Q1. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q2. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q3. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q4. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q5. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q6. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q7. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q8. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q9. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q10. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q11. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q12. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q13. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q14. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q15. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q16. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q17. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q18. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q19. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q20. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q21. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q22. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q23. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q24. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q25. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q26. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q27. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q28. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q29. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q30. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q31. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q32. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q33. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q34. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q35. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q36. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q37. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q38. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q39. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q40. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q41. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q42. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q43. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q44. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q45. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q46. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q47. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q48. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q49. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q50. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q51. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q52. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q53. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q54. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q55. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q56. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q57. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q58. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q59. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q60. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q61. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q62. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q63. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q64. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q65. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q66. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q67. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q68. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q69. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q70. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q71. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q72. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q73. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q74. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q75. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q76. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q77. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q78. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q79. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q80. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q81. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q82. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q83. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q84. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q85. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q86. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q87. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q88. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q89. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q90. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor
+
+Q91. Which of the following is the general solution of dy/dx = k y?
+ a) y = Ce^{kx}
+ b) y = kx + C
+ c) y = C e^{-kx}
+ d) y = x^k + C
+ Answer: a)) y = Ce^{kx}
+
+Q92. What is the integrating factor for dy/dx + P(x)y = Q(x)?
+ a) e^{∫P(x)dx}
+ b) e^{∫Q(x)dx}
+ c) ∫P(x)dx
+ d) ∫Q(x)dx
+ Answer: a)) e^{∫P(x)dx}
+
+Q93. What is the solution of dy/dx = x y?
+ a) y = Ce^{x^2/2}
+ b) y = Cx
+ c) y = Ce^{-x^2/2}
+ d) y = x^2/2 + C
+ Answer: a)) y = Ce^{x^2/2}
+
+Q94. Solve x dy/dx + y = x^2; what is IF?
+ a) 1/x
+ b) x
+ c) e^x
+ d) e^{-x}
+ Answer: b)) x
+
+Q95. For dy/dx = y/x, the general solution is:
+ a) y = C x
+ b) y = Ce^{x}
+ c) y = C \ln x
+ d) y = x^C
+ Answer: a)) y = C x
+
+Q96. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
+ a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
+ b) y = x^2∫ sin(x)/x^2 dx + Cx^2
+ c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
+ d) y = Ce^{-2/x}
+ Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
+
+Q97. Solve dy/dx = y^2 x; which is correct?
+ a) -1/y = x^2/2 + C
+ b) y = Ce^{x^2/2}
+ c) y = C/x^2
+ d) y = x^2y + C
+ Answer: a)) -1/y = x^2/2 + C
+
+Q98. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
+ a) \sec(x)
+ b) \cos(x)
+ c) 	an(x)
+ d) \sin(x)
+ Answer: a)) \sec(x)
+
+Q99. Which method applies to dy/dx = g(x)h(y)?
+ a) Separation of Variables
+ b) Integrating Factor
+ c) Homogeneous
+ d) Exact Equation
+ Answer: a)) Separation of Variables
+
+Q100. Which technique solves dy/dx + 3y = e^{-x}?
+ a) Integrating Factor
+ b) Separation of Variables
+ c) Exact Equation
+ d) Substitution
+ Answer: a)) Integrating Factor

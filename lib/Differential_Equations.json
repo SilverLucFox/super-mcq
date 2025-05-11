@@ -1,6 +1,6 @@
 [
   {
-    "question": "Which of the following is the general solution of dy/dx = k y?",
+    "question": "Which of the following is the general solution of dy/dx = k y ?",
     "options": {
       "a": "y = Ce^{kx}",
       "b": "y = kx + C",

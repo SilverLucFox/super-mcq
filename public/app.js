@@ -1,4 +1,4 @@
-// Global variables for quiz state
+// Global state
 let selectedCategory = [];
 let incorrectQuestions = [];
 let currentQuestionIndex = 0;
@@ -12,165 +12,237 @@ const submitBtn = document.getElementById('submit-btn');
 const categorySelect = document.getElementById('category-select');
 const startBtn = document.getElementById('start-btn');
 
-// Populate categories from lib folder
+// Populate category dropdown from /lib
 async function populateCategoryDropdown() {
     try {
-        const response = await fetch('/lib');
-        if (!response.ok) throw new Error('Failed to load categories');
-        const files = await response.json();
+        const res = await fetch('/lib');
+        if (!res.ok) throw new Error('Failed to load categories');
+        const files = await res.json();
 
         const categories = files
-            .filter(file => file.endsWith('.json'))
-            .map(file => file.replace('.json', ''));
+            .filter(f => f.endsWith('.json'))
+            .map(f => f.replace('.json', ''));
 
-        categorySelect.innerHTML = '<option value="" disabled selected>Select a category</option>';
-        categories.forEach(category => {
-            const option = document.createElement('option');
-            option.value = category;
-            option.textContent = category;
-            categorySelect.appendChild(option);
-        });
-    } catch (error) {
-        console.error('Error loading categories:', error);
-        questionArea.innerHTML = '<p class="error">Error loading categories. Please try again later.</p>';
+        categorySelect.innerHTML =
+            '<option value="" disabled selected>Select category</option>' +
+            categories.map(c => `<option value="${c}">${c}</option>`).join('');
+    } catch (err) {
+        console.error(err);
+        questionArea.innerHTML =
+            '<p class="error">Error loading categories. Please try again later.</p>';
     }
 }
 
-// Initialize quiz with selected category
+// Start the quiz
 async function startQuiz() {
+    const cat = categorySelect.value;
+    if (!cat) return;
+
     try {
-        const selectedValue = categorySelect.value;
-        if (!selectedValue) return;
-
-        const response = await fetch(`/lib/${selectedValue}.json`);
-        if (!response.ok) throw new Error('Failed to load questions');
-
-        selectedCategory = await response.json();
-        incorrectQuestions = [...selectedCategory];
-        currentQuestionIndex = 0;
-        correctAnswers = 0;
-
-        submitBtn.disabled = false;
-        startBtn.disabled = true;
-        categorySelect.disabled = true;
-        updateProgress();
-        renderQuestion(currentQuestionIndex);
-    } catch (error) {
-        console.error('Error starting quiz:', error);
-        questionArea.innerHTML = '<p class="error">Failed to load questions. Please try again.</p>';
-    }
-}
-
-// Render current question
-function renderQuestion(index) {
-    if (incorrectQuestions.length === 0) {
-        questionArea.innerHTML = '<p class="correct">All questions answered correctly!<br>Well done!</p>';
-        submitBtn.disabled = true;
+        const res = await fetch(`/lib/${cat}.json`);
+        if (!res.ok) throw new Error('Failed to load questions');
+        selectedCategory = await res.json();
+    } catch (err) {
+        console.error(err);
+        questionArea.innerHTML =
+            '<p class="error">Failed to load questions. Please try again.</p>';
         return;
     }
 
-    const q = incorrectQuestions[index];
+    incorrectQuestions = [...selectedCategory];
+    currentQuestionIndex = 0;
+    correctAnswers = 0;
+
+    submitBtn.disabled = false;
+    startBtn.disabled = true;
+    categorySelect.disabled = true;
+
+    updateProgress();
+    renderQuestion();
+}
+
+// Helper: prepare text with math delimiters
+function prepareForKatex(text) {
+    if (!text) return '';
+    
+    // First convert common latex-style commands if they don't have $ delimiters already
+    if (text.includes('\\') && !text.includes('$')) {
+        return `$${text}$`;
+    }
+    
+    let processed = text;
+    
+    // Add math delimiters to equations and math expressions that don't have them yet
+    const needsDelimiters = [
+        // Equalities with variables
+        /([a-zA-Z][a-zA-Z0-9]*\s*=\s*[^.,;!?<>\n]+)/g,
+        
+        // Derivatives
+        /([a-zA-Z]+\/[a-zA-Z]+)/g,
+        
+        // Functions
+        /([a-zA-Z]\s*\([a-zA-Z]\)\s*=\s*[^.,;!?<>\n]+)/g,
+        
+        // Greek letters
+        /\b([α-ωΑ-Ω])\b/g,
+        
+        // Common math functions
+        /\b(sin|cos|tan|log|ln)\s*\([^\)]+\)/g,
+        
+        // Fractions
+        /(\d+\/\d+)/g
+    ];
+    
+    needsDelimiters.forEach(pattern => {
+        processed = processed.replace(pattern, match => {
+            // Don't add delimiters if already within $ or $$ delimiters
+            if (match.includes('$')) return match;
+            return `$${match}$`;
+        });
+    });
+    
+    return processed;
+}
+
+// Render the current question
+function renderQuestion() {
+    if (incorrectQuestions.length === 0) {
+        questionArea.innerHTML =
+            '<p class="correct">All questions answered correctly!<br/>Well done!</p>';
+        submitBtn.disabled = true;
+        handleQuizCompletion();
+        return;
+    }
+
+    const q = incorrectQuestions[currentQuestionIndex];
+    const correctKey = q.answer.split(')')[0];
+
+    // Build options HTML with proper math formatting
+    const optsHtml = Object.entries(q.options).map(([key, val]) => `
+    <li>
+      <label>
+        <input
+          type="radio"
+          name="q${currentQuestionIndex}"
+          value="${key}"
+        />
+        <span class="option-text">${key}) ${prepareForKatex(val)}</span>
+      </label>
+    </li>
+  `).join('');
+
     questionArea.innerHTML = `
     <div class="question">
-        <h3>Q${index + 1}: ${q.question}</h3>
-        <ul class="options">
-            ${Object.entries(q.options).map(([key, value]) => `
-                <li>
-                    <label>
-                        <input type="radio" name="question-${index}" value="${key}">
-                        ${key}: ${value}
-                    </label>
-                </li>
-            `).join('')}
-        </ul>
-        <div id="feedback"></div>
+      <h3 class="question-text">
+        Q${currentQuestionIndex + 1}: ${prepareForKatex(q.question)}
+      </h3>
+      <ul class="options">${optsHtml}</ul>
+      <div id="feedback"></div>
     </div>
-`;
-    questionCount.textContent = `Question ${index + 1} of ${incorrectQuestions.length}`;
+  `;
+    
+    questionCount.textContent =
+        `Question ${currentQuestionIndex + 1} of ${incorrectQuestions.length}`;
+
+    // Render math expressions with KaTeX
+    try {
+        if (typeof renderMathInElement === 'function') {
+            setTimeout(() => {
+                renderMathInElement(questionArea, {
+                    delimiters: [
+                        { left: '$$', right: '$$', display: true },
+                        { left: '$', right: '$', display: false }
+                    ],
+                    throwOnError: false
+                });
+            }, 50);
+        }
+    } catch (e) {
+        console.error("KaTeX rendering error:", e);
+    }
 }
 
-// Check selected answer
+// Check the selected answer
 function checkAnswer() {
-    const selectedOption = document.querySelector(`input[name="question-${currentQuestionIndex}"]:checked`);
+    const selector = `input[name="q${currentQuestionIndex}"]:checked`;
+    const chosen = document.querySelector(selector);
     const feedback = document.getElementById('feedback');
 
-    if (!selectedOption) {
-        feedback.innerHTML = '<p class="incorrect">Please select an answer before submitting.</p>';
+    if (!chosen) {
+        feedback.innerHTML =
+            '<p class="incorrect">Please select an answer before submitting.</p>';
         return;
     }
 
-    const selectedValue = selectedOption.value;
-    const correctAnswer = incorrectQuestions[currentQuestionIndex].answer[0];
+    const q = incorrectQuestions[currentQuestionIndex];
+    const correctKey = q.answer.split(')')[0];
 
-    if (selectedValue === correctAnswer) {
+    if (chosen.value === correctKey) {
         feedback.innerHTML = '<p class="correct">Correct!</p>';
         correctAnswers++;
         incorrectQuestions.splice(currentQuestionIndex, 1);
     } else {
-        feedback.innerHTML = `<p class="incorrect">Incorrect! The correct answer is ${correctAnswer}.</p>`;
-        currentQuestionIndex = (currentQuestionIndex + 1) % incorrectQuestions.length;
+        feedback.innerHTML =
+            `<p class="incorrect">Incorrect! The correct answer is ${correctKey}.</p>`;
+        currentQuestionIndex =
+            (currentQuestionIndex + 1) % incorrectQuestions.length;
     }
 
     updateProgress();
+
     setTimeout(() => {
-        if (incorrectQuestions.length > 0) {
-            currentQuestionIndex = currentQuestionIndex % incorrectQuestions.length;
-            renderQuestion(currentQuestionIndex);
+        if (incorrectQuestions.length) {
+            currentQuestionIndex %= incorrectQuestions.length;
+            renderQuestion();
         } else {
-            renderQuestion(0);
+            renderQuestion();
         }
-    }, 1500);
+    }, 1200);
 }
 
 // Update progress display
 function updateProgress() {
-    const progress = Math.round((correctAnswers / selectedCategory.length) * 100);
-    progressText.textContent = `Progress: ${progress}% (${correctAnswers}/${selectedCategory.length})`;
+    const pct = Math.round(
+        (correctAnswers / selectedCategory.length) * 100
+    );
+    progressText.textContent =
+        `Progress: ${pct}% (${correctAnswers}/${selectedCategory.length})`;
 }
 
-// Event Listeners
-document.addEventListener('DOMContentLoaded', populateCategoryDropdown);
-startBtn.addEventListener('click', startQuiz);
-submitBtn.addEventListener('click', checkAnswer);
-
-const mobileToggle = document.getElementById('mobile-toggle');
-const showMenuBtn = document.getElementById('show-menu');
-const sidebar = document.querySelector('.sidebar');
-
-// Toggle sidebar visibility
-mobileToggle.addEventListener('click', () => {
-    sidebar.classList.toggle('visible');
-});
-
-// Start Quiz button handler modifications
-startBtn.addEventListener('click', () => {
-    if (window.innerWidth <= 768) {
-        sidebar.classList.toggle('visible');
-        document.querySelector('.main-area').classList.add('fullscreen');
-    }
-});
-
-// When quiz ends (add this to your quiz completion logic)
+// Quiz completion for mobile
 function handleQuizCompletion() {
+    const showMenuBtn = document.getElementById('show-menu');
     if (window.innerWidth <= 768) {
         showMenuBtn.style.display = 'block';
     }
 }
 
-// Show menu button handler
+// Mobile sidebar toggles
+const mobileToggle = document.getElementById('mobile-toggle');
+const showMenuBtn = document.getElementById('show-menu');
+const sidebar = document.querySelector('.sidebar');
+
+mobileToggle.addEventListener('click', () => {
+    sidebar.classList.toggle('visible');
+});
+
 showMenuBtn.addEventListener('click', () => {
     sidebar.classList.add('visible');
     showMenuBtn.style.display = 'none';
     document.querySelector('.main-area').classList.remove('fullscreen');
 });
 
-// Handle window resize
 window.addEventListener('resize', () => {
     if (window.innerWidth > 768) {
-        sidebar.classList.remove('visible', 'hidden');
+        sidebar.classList.remove('visible');
         mobileToggle.style.display = 'none';
         showMenuBtn.style.display = 'none';
     } else {
         mobileToggle.style.display = 'block';
     }
 });
+
+// Event listeners
+document.addEventListener('DOMContentLoaded', populateCategoryDropdown);
+startBtn.addEventListener('click', startQuiz);
+submitBtn.addEventListener('click', checkAnswer);
