@@ -311,7 +311,7 @@ footer {
   border: 1px solid #334155;
   border-radius: 0.75rem;
   padding: 2rem;
-  min-height: 200px;
+  height: fit-content;
   font-size: 1.1rem;
   line-height: 1.6;
   color: #f1f5f9;
@@ -319,11 +319,11 @@ footer {
   max-width: 800px;
   margin: 0 auto;
   margin-bottom: 2rem;
-  overflow-wrap: break-word;
 }
 
 .question-text {
   margin-bottom: 1.5rem;
+  
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
