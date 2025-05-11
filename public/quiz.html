@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/site.webmanifest" />
+    <title>Super MCQ - Quiz</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"
+    ></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+    ></script>
+  </head>
+  <body>
+    <div class="quiz-container">
+      <div class="quiz-sidebar">
+        <div class="quiz-header">
+          <a href="categories.html" class="back-button">← Categories</a>
+          <h1 id="category-title">Loading...</h1>
+        </div>
+
+        <div class="quiz-stats">
+          <div id="progress" class="info-box">Progress: 0%</div>
+          <div id="question-count" class="info-box">Question 0 of 0</div>
+        </div>
+
+        <button id="reset-btn" class="sidebar-btn">Restart Quiz</button>
+        <button id="new-category-btn" class="sidebar-btn">
+          Choose New Category
+        </button>
+      </div>
+
+      <div class="quiz-main">
+        <div id="question-area" class="question-box">
+          <div class="loading-spinner">Loading questions...</div>
+        </div>
+
+        <button id="submit-btn" class="submit-btn">Submit Answer</button>
+
+        <div
+          id="completion-message"
+          class="completion-message"
+          style="display: none"
+        >
+          <h2>Quiz Completed!</h2>
+          <p>You've successfully answered all questions!</p>
+          <div class="completion-buttons">
+            <button id="retry-btn" class="completion-btn">Try Again</button>
+            <a href="categories.html" class="completion-btn">New Category</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="quiz.js"></script>
+  </body>
+</html>
