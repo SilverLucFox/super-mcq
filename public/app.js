@@ -222,9 +222,6 @@ const mobileToggle = document.getElementById('mobile-toggle');
 const showMenuBtn = document.getElementById('show-menu');
 const sidebar = document.querySelector('.sidebar');
 
-mobileToggle.addEventListener('click', () => {
-    sidebar.classList.toggle('visible');
-});
 
 showMenuBtn.addEventListener('click', () => {
     sidebar.classList.add('visible');
