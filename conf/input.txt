@@ -1,699 +1,833 @@
-Q1. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q2. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q3. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q4. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q5. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q6. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q7. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q8. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q9. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q10. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q11. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q12. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q13. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q14. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q15. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q16. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q17. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q18. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q19. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q20. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q21. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q22. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q23. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q24. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q25. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q26. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q27. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q28. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q29. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q30. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q31. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q32. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q33. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q34. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q35. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q36. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q37. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q38. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q39. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q40. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q41. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q42. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q43. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q44. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q45. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q46. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q47. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q48. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q49. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q50. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q51. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q52. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q53. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q54. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q55. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q56. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q57. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q58. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q59. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q60. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q61. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q62. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q63. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q64. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q65. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q66. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q67. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q68. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q69. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q70. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q71. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q72. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q73. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q74. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q75. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q76. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q77. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q78. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q79. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q80. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q81. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q82. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q83. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q84. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q85. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q86. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q87. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q88. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q89. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q90. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
-
-Q91. Which of the following is the general solution of dy/dx = k y?
- a) y = Ce^{kx}
- b) y = kx + C
- c) y = C e^{-kx}
- d) y = x^k + C
- Answer: a)) y = Ce^{kx}
-
-Q92. What is the integrating factor for dy/dx + P(x)y = Q(x)?
- a) e^{∫P(x)dx}
- b) e^{∫Q(x)dx}
- c) ∫P(x)dx
- d) ∫Q(x)dx
- Answer: a)) e^{∫P(x)dx}
-
-Q93. What is the solution of dy/dx = x y?
- a) y = Ce^{x^2/2}
- b) y = Cx
- c) y = Ce^{-x^2/2}
- d) y = x^2/2 + C
- Answer: a)) y = Ce^{x^2/2}
-
-Q94. Solve x dy/dx + y = x^2; what is IF?
- a) 1/x
- b) x
- c) e^x
- d) e^{-x}
- Answer: b)) x
-
-Q95. For dy/dx = y/x, the general solution is:
- a) y = C x
- b) y = Ce^{x}
- c) y = C \ln x
- d) y = x^C
- Answer: a)) y = C x
-
-Q96. Which is the general solution of dy/dx + (2/x)y = sin(x)/x^2?
- a) y = x^{-2}∫ sin(x)dx + Cx^{-2}
- b) y = x^2∫ sin(x)/x^2 dx + Cx^2
- c) y = e^{2/x}∫ sin(x)/x^2 e^{-2/x} dx
- d) y = Ce^{-2/x}
- Answer: b)) y = x^2∫ sin(x)/x^2 dx + Cx^2
-
-Q97. Solve dy/dx = y^2 x; which is correct?
- a) -1/y = x^2/2 + C
- b) y = Ce^{x^2/2}
- c) y = C/x^2
- d) y = x^2y + C
- Answer: a)) -1/y = x^2/2 + C
-
-Q98. For dy/dx + y	an(x) = \sin(x), the integrating factor is:
- a) \sec(x)
- b) \cos(x)
- c) 	an(x)
- d) \sin(x)
- Answer: a)) \sec(x)
-
-Q99. Which method applies to dy/dx = g(x)h(y)?
- a) Separation of Variables
- b) Integrating Factor
- c) Homogeneous
- d) Exact Equation
- Answer: a)) Separation of Variables
-
-Q100. Which technique solves dy/dx + 3y = e^{-x}?
- a) Integrating Factor
- b) Separation of Variables
- c) Exact Equation
- d) Substitution
- Answer: a)) Integrating Factor
+Q1. Which of the following is NOT a function of a firewall?
+a) Packet filtering
+b) Stateful inspection
+c) Intrusion detection
+d) Data encryption
+Answer: d) Data encryption
+Q2. What type of firewall operates at the application layer of the OSI model?
+a) Packet filtering firewall
+b) Circuit-level gateway
+c) Application-level gateway
+d) Stateful inspection firewall
+Answer: c) Application-level gateway
+Q3. Which network security device monitors network traffic for suspicious activity?
+a) Router
+b) Switch
+c) IDS/IPS
+d) Load balancer
+Answer: c) IDS/IPS
+Q4. What is the difference between an IDS and an IPS?
+a) IDS only detects threats while IPS can prevent them
+b) IDS prevents threats while IPS only detects them
+c) IDS works at network layer while IPS works at application layer
+d) There is no difference
+Answer: a) IDS only detects threats while IPS can prevent them
+Q5. Which of the following is NOT a type of network attack?
+a) DDoS
+b) ARP poisoning
+c) DNS tunneling
+d) Data normalization
+Answer: d) Data normalization
+Q6. What technology allows creating isolated network segments?
+a) Firewall
+b) VLAN
+c) DNS
+d) NTP
+Answer: b) VLAN
+Q7. What is the purpose of NAT (Network Address Translation)?
+a) Encrypting network traffic
+b) Conserving IP addresses
+c) Detecting network intrusions
+d) Managing network bandwidth
+Answer: b) Conserving IP addresses
+Q8. Which protocol secures remote connections to network devices?
+a) HTTP
+b) FTP
+c) SSH
+d) SMTP
+Answer: c) SSH
+Q9. What is a DMZ in network security?
+a) A subnet that contains and exposes external-facing services
+b) A type of firewall that blocks all traffic
+c) A wireless network protection standard
+d) A type of encryption algorithm
+Answer: a) A subnet that contains and exposes external-facing services
+Q10. What does a VPN primarily provide?
+a) Content filtering
+b) Secure communication over an untrusted network
+c) Network traffic acceleration
+d) User authentication
+Answer: b) Secure communication over an untrusted network
+Q11. What security measure helps prevent MAC flooding attacks?
+a) Port security
+b) WPA2
+c) DHCP snooping
+d) IPsec
+Answer: a) Port security
+Q12. Which attack aims to redirect network traffic by manipulating ARP messages?
+a) SQL injection
+b) Cross-site scripting
+c) ARP poisoning
+d) Brute force attack
+Answer: c) ARP poisoning
+Q13. What is the function of a honeypot in network security?
+a) To detect unauthorized access attempts
+b) To encrypt network traffic
+c) To filter spam emails
+d) To optimize network bandwidth
+Answer: a) To detect unauthorized access attempts
+Q14. What protocol is used for secure web browsing?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SMTP
+Answer: b) HTTPS
+Q15. Which of the following best describes a proxy server?
+a) A server that stores web page copies to reduce bandwidth
+b) A server that acts as an intermediary between clients and other servers
+c) A server dedicated to sending emails
+d) A server that hosts multiple websites
+Answer: b) A server that acts as an intermediary between clients and other servers
+Q16. What is the purpose of DHCP snooping?
+a) To prevent rogue DHCP servers
+b) To accelerate DHCP configuration
+c) To encrypt DHCP traffic
+d) To bypass DHCP authentication
+Answer: a) To prevent rogue DHCP servers
+Q17. Which technology is used to limit broadcast traffic in a network?
+a) Firewalls
+b) VLANs
+c) NAT
+d) DNS
+Answer: b) VLANs
+Q18. What is the purpose of a SIEM system?
+a) To block network attacks
+b) To collect and analyze security event logs
+c) To encrypt network traffic
+d) To authenticate users
+Answer: b) To collect and analyze security event logs
+Q19. Which of the following is NOT a common network scanning tool?
+a) Nmap
+b) Wireshark
+c) PuTTY
+d) Angry IP Scanner
+Answer: c) PuTTY
+Q20. What does an IPsec VPN primarily secure?
+a) Only web traffic
+b) Only email traffic
+c) Network layer communications
+d) Physical layer communications
+Answer: c) Network layer communications
+Q21. Which of these is NOT typically a function of a WAF (Web Application Firewall)?
+a) Protection against SQL injection
+b) Protection against XSS attacks
+c) Intrusion detection at the network layer
+d) Input validation
+Answer: c) Intrusion detection at the network layer
+Q22. What is the purpose of DNS security extensions (DNSSEC)?
+a) To encrypt DNS queries
+b) To authenticate DNS responses
+c) To accelerate DNS lookups
+d) To compress DNS data
+Answer: b) To authenticate DNS responses
+Q23. What technology is used to detect anomalies in network traffic patterns?
+a) Stateful firewall
+b) Network behavior analysis
+c) Content filtering
+d) NAC
+Answer: b) Network behavior analysis
+Q24. Which protocol is used for encrypted email transmission?
+a) SMTP
+b) POP3
+c) IMAP
+d) S/MIME
+Answer: d) S/MIME
+Q25. What is the primary purpose of network segmentation?
+a) To increase network speed
+b) To limit the scope of security breaches
+c) To reduce network costs
+d) To simplify network management
+Answer: b) To limit the scope of security breaches
+Cryptography
+Q26. Which of the following is an asymmetric encryption algorithm?
+a) AES
+b) 3DES
+c) RSA
+d) Blowfish
+Answer: c) RSA
+Q27. What is the purpose of a hash function in cryptography?
+a) Data encryption
+b) Key exchange
+c) Data integrity verification
+d) User authentication
+Answer: c) Data integrity verification
+Q28. Which of these is NOT a common symmetric encryption algorithm?
+a) AES
+b) DES
+c) DSA
+d) Twofish
+Answer: c) DSA
+Q29. What is a digital certificate primarily used for?
+a) Data encryption
+b) Identity verification
+c) Password storage
+d) File compression
+Answer: b) Identity verification
+Q30. Which cryptographic protocol is commonly used to secure web traffic?
+a) SSH
+b) IPsec
+c) TLS
+d) Kerberos
+Answer: c) TLS
+Q31. What does PKI stand for in cryptography?
+a) Private Key Infrastructure
+b) Public Key Infrastructure
+c) Protected Key Interface
+d) Primary Key Index
+Answer: b) Public Key Infrastructure
+Q32. Which of the following best describes a public key?
+a) A key that must be kept secret
+b) A key that can be freely distributed
+c) A key used only for encryption
+d) A key used only for decryption
+Answer: b) A key that can be freely distributed
+Q33. What is the primary purpose of a salt in password hashing?
+a) To make passwords stronger
+b) To prevent dictionary attacks
+c) To prevent rainbow table attacks
+d) To encrypt the password
+Answer: c) To prevent rainbow table attacks
+Q34. Which of these is NOT a common hashing algorithm?
+a) MD5
+b) SHA-256
+c) AES-128
+d) RIPEMD-160
+Answer: c) AES-128
+Q35. What is the difference between encryption and encoding?
+a) Encryption requires a key while encoding doesn't
+b) Encoding requires a key while encryption doesn't
+c) Encryption is for security while encoding is for data representation
+d) There is no difference
+Answer: c) Encryption is for security while encoding is for data representation
+Q36. What is a one-time pad in cryptography?
+a) A symmetric key algorithm
+b) An asymmetric key algorithm
+c) A hashing algorithm
+d) A key distribution method
+Answer: a) A symmetric key algorithm
+Q37. Which attack attempts to find a collision in a hash function?
+a) Brute force attack
+b) Birthday attack
+c) Man-in-the-middle attack
+d) Replay attack
+Answer: b) Birthday attack
+Q38. What is the Diffie-Hellman algorithm used for?
+a) Encryption
+b) Digital signatures
+c) Key exchange
+d) Hashing
+Answer: c) Key exchange
+Q39. Which of the following is considered a secure hashing algorithm?
+a) MD5
+b) SHA-1
+c) SHA-256
+d) DES
+Answer: c) SHA-256
+Q40. What cryptographic concept ensures that a message was not altered during transmission?
+a) Confidentiality
+b) Authentication
+c) Integrity
+d) Non-repudiation
+Answer: c) Integrity
+Q41. What is the typical key length for AES-256 encryption?
+a) A 128-bit key
+b) A 192-bit key
+c) A 256-bit key
+d) A 512-bit key
+Answer: c) A 256-bit key
+Q42. Which of the following provides non-repudiation?
+a) Symmetric encryption
+b) Digital signatures
+c) Password hashing
+d) SSL/TLS
+Answer: b) Digital signatures
+Q43. What is the purpose of a Certificate Authority (CA)?
+a) To issue and manage digital certificates
+b) To encrypt network traffic
+c) To authenticate network users
+d) To monitor network security
+Answer: a) To issue and manage digital certificates
+Q44. What is the recommended minimum key length for RSA encryption today?
+a) 1024 bits
+b) 2048 bits
+c) 4096 bits
+d) 8192 bits
+Answer: b) 2048 bits
+Q45. Which encryption mode provides authentication in addition to confidentiality?
+a) ECB
+b) CBC
+c) GCM
+d) CFB
+Answer: c) GCM
+Q46. What does PFS stand for in cryptography?
+a) Perfect Forward Secrecy
+b) Pre-shared Firewall Settings
+c) Public File System
+d) Protected Format Standard
+Answer: a) Perfect Forward Secrecy
+Q47. Which of these is considered the weakest encryption algorithm?
+a) AES-256
+b) RSA-2048
+c) DES
+d) ChaCha20
+Answer: c) DES
+Q48. What is the purpose of key stretching in password hashing?
+a) To make keys longer
+b) To make brute force attacks more time-consuming
+c) To compress keys for efficient storage
+d) To validate password complexity
+Answer: b) To make brute force attacks more time-consuming
+Q49. Which of the following algorithms is designed specifically for password hashing?
+a) MD5
+b) AES
+c) bcrypt
+d) RSA
+Answer: c) bcrypt
+Q50. What is the primary difference between symmetric and asymmetric encryption?
+a) Symmetric uses one key, asymmetric uses two related keys
+b) Symmetric is faster, asymmetric is more secure
+c) Symmetric works on blocks, asymmetric works on streams
+d) Symmetric is for data, asymmetric is for keys
+Answer: a) Symmetric uses one key, asymmetric uses two related keys
+Authentication and Access Control
+Q51. Which authentication factor is an example of "something you have"?
+a) Password
+b) Fingerprint
+c) Security token
+d) Knowledge-based question
+Answer: c) Security token
+Q52. What is multi-factor authentication (MFA)?
+a) Using multiple passwords for authentication
+b) Combining at least two different authentication factors
+c) Using biometric authentication only
+d) Authentication across multiple systems
+Answer: b) Combining at least two different authentication factors
+Q53. Which of the following is NOT a common authentication protocol?
+a) LDAP
+b) RADIUS
+c) Kerberos
+d) BitLocker
+Answer: d) BitLocker
+Q54. What is Single Sign-On (SSO)?
+a) A weak authentication method using only one password
+b) An authentication process requiring only one factor
+c) A mechanism allowing users to access multiple systems with one login
+d) A centralized password storage system
+Answer: c) A mechanism allowing users to access multiple systems with one login
+Q55. Which access control model is based on organizational structure?
+a) Role-based access control (RBAC)
+b) Mandatory access control (MAC)
+c) Discretionary access control (DAC)
+d) Attribute-based access control (ABAC)
+Answer: a) Role-based access control (RBAC)
+Q56. What is the principle of least privilege?
+a) Users should have minimal access rights needed for their work
+b) Only administrators should have access privileges
+c) All users should have equal privileges
+d) Privileges should be assigned based on seniority
+Answer: a) Users should have minimal access rights needed for their work
+Q57. What authentication protocol uses tickets for access to network resources?
+a) RADIUS
+b) TACACS+
+c) Kerberos
+d) LDAP
+Answer: c) Kerberos
+Q58. Which of the following is NOT a biometric authentication method?
+a) Fingerprint scanning
+b) Facial recognition
+c) CAPTCHA
+d) Voice recognition
+Answer: c) CAPTCHA
+Q59. What is the purpose of account lockout policies?
+a) To prevent unauthorized account creation
+b) To protect against brute force attacks
+c) To automatically delete inactive accounts
+d) To encrypt user credentials
+Answer: b) To protect against brute force attacks
+Q60. Which protocol is commonly used for centralized authentication in network devices?
+a) SSH
+b) RADIUS
+c) HTTP
+d) FTP
+Answer: b) RADIUS
+Q61. What type of access control grants permissions based on sensitivity labels?
+a) Discretionary Access Control (DAC)
+b) Role-Based Access Control (RBAC)
+c) Mandatory Access Control (MAC)
+d) Rule-Based Access Control
+Answer: c) Mandatory Access Control (MAC)
+Q62. What is a time-based one-time password (TOTP)?
+a) A password that changes based on the time of day
+b) A temporary password valid for a specific period
+c) A password that changes after each use
+d) A password generated using a time-based algorithm
+Answer: d) A password generated using a time-based algorithm
+Q63. Which statement about password policies is generally TRUE?
+a) Forcing frequent password changes improves security
+b) Complex password requirements always increase security
+c) Password managers reduce security risks
+d) Written passwords are more secure than digital storage
+Answer: c) Password managers reduce security risks
+Q64. What is federation in identity management?
+a) Centralized user database management
+b) Sharing identity information across organizations
+c) Requiring multiple passwords for access
+d) Restricting access based on geographic location
+Answer: b) Sharing identity information across organizations
+Q65. What technology is OAuth primarily used for?
+a) Password encryption
+b) Authorization delegation
+c) Network authentication
+d) Biometric verification
+Answer: b) Authorization delegation
+Q66. Which is NOT an example of "something you are" in authentication?
+a) Fingerprint
+b) Retina scan
+c) PIN code
+d) Voice recognition
+Answer: c) PIN code
+Q67. What is the purpose of separation of duties?
+a) To distribute workload among team members
+b) To prevent fraud by requiring multiple people to complete sensitive tasks
+c) To separate network segments for better security
+d) To keep development and production environments separate
+Answer: b) To prevent fraud by requiring multiple people to complete sensitive tasks
+Q68. What protocol allows third-party applications to access resources without sharing credentials?
+a) SAML
+b) OAuth
+c) OpenID
+d) LDAP
+Answer: b) OAuth
+Q69. What type of authentication uses mathematical verification of identity?
+a) Biometric authentication
+b) Knowledge-based authentication
+c) Cryptographic authentication
+d) Token-based authentication
+Answer: c) Cryptographic authentication
+Q70. Which of these is NOT typically part of privileged access management?
+a) Just-in-time access
+b) Session recording
+c) Password rotation
+d) Content filtering
+Answer: d) Content filtering
+Q71. What is SAML primarily used for?
+a) Secure email transmission
+b) Single sign-on authentication
+c) Network traffic encryption
+d) Database access control
+Answer: b) Single sign-on authentication
+Q72. What is a common issue with knowledge-based authentication questions?
+a) They're too complex for users to remember
+b) The answers are often publicly available information
+c) They require specialized hardware
+d) They can't be implemented in web applications
+Answer: b) The answers are often publicly available information
+Q73. Which authentication mechanism is most vulnerable to replay attacks?
+a) One-time passwords
+b) Challenge-response mechanisms
+c) Basic authentication with static passwords
+d) Biometric authentication
+Answer: c) Basic authentication with static passwords
+Q74. What best describes a "zero trust" security model?
+a) Never trusting users regardless of their credentials
+b) Verifying everything before granting access regardless of location
+c) Having no security controls within the internal network
+d) Only trusting users who have physical access
+Answer: b) Verifying everything before granting access regardless of location
+Q75. What is passwordless authentication?
+a) Authentication without any security verification
+b) Authentication using something other than memorized secrets
+c) Authentication that doesn't require user interaction
+d) Authentication using only biometrics
+Answer: b) Authentication using something other than memorized secrets
+Vulnerability Management
+Q76. What is the purpose of a vulnerability scanner?
+a) To exploit known vulnerabilities
+b) To identify potential security weaknesses
+c) To repair software vulnerabilities
+d) To monitor network traffic
+Answer: b) To identify potential security weaknesses
+Q77. Which organization maintains the Common Vulnerabilities and Exposures (CVE) database?
+a) OWASP
+b) NIST
+c) MITRE
+d) IEEE
+Answer: c) MITRE
+Q78. What does CVSS stand for?
+a) Common Vulnerability Scoring Standard
+b) Common Vulnerability Scanning System
+c) Critical Vulnerability Scoring System
+d) Common Vulnerability Scoring System
+Answer: d) Common Vulnerability Scoring System
+Q79. Which of the following is NOT typically part of the vulnerability management lifecycle?
+a) Vulnerability identification
+b) Risk assessment
+c) Exploitation
+d) Remediation
+Answer: c) Exploitation
+Q80. What is a zero-day vulnerability?
+a) A vulnerability that is fixed immediately
+b) A vulnerability with zero impact
+c) A vulnerability that is publicly known but has no patch
+d) A vulnerability unknown to the software vendor
+Answer: d) A vulnerability unknown to the software vendor
+Q81. What is the primary purpose of penetration testing?
+a) To identify software bugs
+b) To evaluate security controls by simulating attacks
+c) To monitor network traffic
+d) To develop security policies
+Answer: b) To evaluate security controls by simulating attacks
+Q82. Which approach tests applications without knowledge of internal code?
+a) White box testing
+b) Gray box testing
+c) Black box testing
+d) Blue box testing
+Answer: c) Black box testing
+Q83. What is vulnerability disclosure?
+a) The process of hiding vulnerabilities from users
+b) The process of reporting vulnerabilities to the public
+c) The process of reporting vulnerabilities to affected vendors
+d) The process of exploiting vulnerabilities
+Answer: c) The process of reporting vulnerabilities to affected vendors
+Q84. Which best describes a "patch management" process?
+a) The process of developing software patches
+b) The process of testing patches for bugs
+c) The systematic approach to applying software updates
+d) The process of disabling outdated software
+Answer: c) The systematic approach to applying software updates
+Q85. What is the purpose of a bug bounty program?
+a) To eliminate all software bugs
+b) To reward discovery of security vulnerabilities
+c) To track bug fix progress
+d) To sell software exploits
+Answer: b) To reward discovery of security vulnerabilities
+Q86. Which type of testing simulates an attack with full knowledge of the system?
+a) Black box testing
+b) White box testing
+c) Regression testing
+d) Load testing
+Answer: b) White box testing
+Q87. What is the difference between a vulnerability and an exploit?
+a) A vulnerability is a weakness while an exploit is code that takes advantage of it
+b) A vulnerability affects networks while exploits affect applications
+c) A vulnerability is malicious code while an exploit is a security hole
+d) There is no significant difference
+Answer: a) A vulnerability is a weakness while an exploit is code that takes advantage of it
+Q88. What is the main focus of OWASP Top 10?
+a) Network vulnerabilities
+b) Operating system vulnerabilities
+c) Web application vulnerabilities
+d) IoT vulnerabilities
+Answer: c) Web application vulnerabilities
+Q89. Which is NOT a common vulnerability scanning technique?
+a) Port scanning
+b) Banner grabbing
+c) Fuzzing
+d) Code development
+Answer: d) Code development
+Q90. What is the primary goal of a vulnerability assessment?
+a) To exploit security weaknesses
+b) To identify and categorize security vulnerabilities
+c) To develop new security tools
+d) To train security personnel
+Answer: b) To identify and categorize security vulnerabilities
+Q91. What is the difference between active and passive vulnerability scanning?
+a) Active scanning tests exploits while passive doesn't
+b) Active scanning interacts with targets while passive only observes
+c) Active scanning is automated while passive is manual
+d) There is no significant difference
+Answer: b) Active scanning interacts with targets while passive only observes
+Q92. What does SAST stand for in application security?
+a) Security And System Testing
+b) Static Application Security Testing
+c) System Analysis Security Tool
+d) Structured Application Security Test
+Answer: b) Static Application Security Testing
+Q93. What is the main difference between SAST and DAST?
+a) SAST analyzes source code while DAST tests running applications
+b) SAST is automated while DAST is manual
+c) SAST is for web applications while DAST is for desktop applications
+d) SAST detects implementation flaws while DAST only detects misconfigurations
+Answer: a) SAST analyzes source code while DAST tests running applications
+Q94. What is a vulnerability feed?
+a) A continuous source of vulnerability information
+b) A type of social media for security researchers
+c) A tool that exploits vulnerabilities
+d) A database of patched vulnerabilities only
+Answer: a) A continuous source of vulnerability information
+Q95. What is threat intelligence in the context of vulnerability management?
+a) Information about who might attack your systems
+b) Data about vulnerabilities in your network
+c) Knowledge about attack patterns and methods
+d) Details about previous security incidents
+Answer: c) Knowledge about attack patterns and methods
+Q96. Which of these is NOT typically a part of remediation planning?
+a) Prioritizing vulnerabilities
+b) Testing patches
+c) Exploiting vulnerabilities
+d) Scheduling updates
+Answer: c) Exploiting vulnerabilities
+Q97. What is the purpose of vulnerability scoring systems like CVSS?
+a) To rank hackers based on skill
+b) To prioritize vulnerability remediation efforts
+c) To calculate financial impact of breaches
+d) To measure security team performance
+Answer: b) To prioritize vulnerability remediation efforts
+Q98. Which best describes "attack surface reduction"?
+a) Decreasing the number of security personnel
+b) Minimizing the points where an attacker could attempt to enter a system
+c) Reducing the number of security tools used
+d) Limiting the scope of penetration tests
+Answer: b) Minimizing the points where an attacker could attempt to enter a system
+Q99. What is a security baseline?
+a) The minimum security requirements for a system
+b) The initial state of a system before security testing
+c) The security budget for an organization
+d) The maximum number of vulnerabilities allowed
+Answer: a) The minimum security requirements for a system
+Q100. What vulnerability management practice helps minimize exposure during patching?
+a) Running vulnerability scans daily
+b) Deploying patches to all systems simultaneously
+c) Testing patches in a development environment first
+d) Disabling all systems during patching
+Answer: c) Testing patches in a development environment first
+Security Operations
+Q101. What is the primary function of a Security Operations Center (SOC)?
+a) Developing security policies
+b) Monitoring and responding to security incidents
+c) Testing application security
+d) Managing user access
+Answer: b) Monitoring and responding to security incidents
+Q102. Which of these is NOT typically a SOC responsibility?
+a) Security monitoring
+b) Incident response
+c) Threat hunting
+d) Application development
+Answer: d) Application development
+Q103. What tool is primarily used to collect, analyze, and correlate security events?
+a) Firewall
+b) SIEM
+c) Antivirus
+d) Proxy server
+Answer: b) SIEM
+Q104. What is an incident response plan?
+a) A document detailing steps to recover from disasters
+b) A documented approach to addressing security incidents
+c) A plan for developing security tools
+d) A schedule for security testing
+Answer: b) A documented approach to addressing security incidents
+Q105. Which of the following best describes threat hunting?
+a) Proactively searching for threats that evade existing security solutions
+b) Creating a database of potential threats
+c) Testing security controls against known threats
+d) Responding to security alerts
+Answer: a) Proactively searching for threats that evade existing security solutions
+Q106. What is the first phase of the incident response lifecycle?
+a) Containment
+b) Preparation
+c) Detection
+d) Recovery
+Answer: b) Preparation
+Q107. What type of system monitors network traffic for suspicious activity?
+a) Firewall
+b) Load balancer
+c) Intrusion Detection System
+d) Web proxy
+Answer: c) Intrusion Detection System
+Q108. What is the purpose of security orchestration, automation, and response (SOAR)?
+a) To replace security analysts
+b) To streamline security operations and incident response
+c) To develop new security tools
+d) To manage user access
+Answer: b) To streamline security operations and incident response
+Q109. What is a security incident?
+a) Any event that violates security policies
+b) Only events that result in data breaches
+c) Only events detected by security tools
+d) Any suspicious network activity
+Answer: a) Any event that violates security policies
+Q110. What is the purpose of a playbook in security operations?
+a) To document security policies
+b) To provide step-by-step procedures for handling specific incidents
+c) To list all security tools in use
+d) To track security metrics
+Answer: b) To provide step-by-step procedures for handling specific incidents
+Q111. Which activity is NOT typically part of security monitoring?
+a) Log analysis
+b) Network traffic inspection
+c) Software development
+d) Alert triage
+Answer: c) Software development
+Q112. What is the primary purpose of blue team exercises?
+a) Testing defensive security measures
+b) Attacking systems to find vulnerabilities
+c) Developing security tools
+d) Training new security analysts
+Answer: a) Testing defensive security measures
+Q113. What does EDR stand for in security operations?
+a) Emergency Detection and Response
+b) Endpoint Detection and Response
+c) External Data Recovery
+d) Enhanced Disaster Recovery
+Answer: b) Endpoint Detection and Response
+Q114. What is an indicator of compromise (IOC)?
+a) A sign that a system has been breached
+b) A type of security control
+c) A security testing tool
+d) A risk assessment technique
+Answer: a) A sign that a system has been breached
+Q115. Which of these is NOT an example of an IOC?
+a) Unusual outbound network traffic
+b) Geographic source of login attempts
+c) Unauthorized registry changes
+d) Regular system patching
+Answer: d) Regular system patching
+Q116. What is the purpose of a CSIRT?
+a) To develop security products
+b) To respond to computer security incidents
+c) To train security personnel
+d) To conduct penetration testing
+Answer: b) To respond to computer security incidents
+Q117. What is security information and event management (SIEM)?
+a) A technology that provides real-time analysis of security alerts
+b) A tool for developing security policies
+c) A framework for managing employee access
+d) A technique for testing security controls
+Answer: a) A technology that provides real-time analysis of security alerts
+Q118. What is the goal of security metrics?
+a) To quantify the effectiveness of security programs
+b) To replace security tools
+c) To train security personnel
+d) To develop security policies
+Answer: a) To quantify the effectiveness of security programs
+Q119. What is a false positive in security monitoring?
+a) A security alert that incorrectly indicates a threat exists
+b) A missed security threat
+c) A deliberate security test
+d) An attack that successfully breaches defenses
+Answer: a) A security alert that incorrectly indicates a threat exists
+Q120. What is the purpose of log management in security operations?
+a) To reduce disk space usage
+b) To collect and analyze security-relevant log data
+c) To develop better logging tools
+d) To test system performance
+Answer: b) To collect and analyze security-relevant log data
+Q121. What is security orchestration?
+a) The process of connecting security tools to automate tasks
+b) The process of hiring security personnel
+c) The development of security policies
+d) The testing of security controls
+Answer: a) The process of connecting security tools to automate tasks
+Q122. Which best describes the concept of "dwell time" in security breaches?
+a) The time attackers spend planning an attack
+b) The time between breach and detection
+c) The time security personnel spend investigating incidents
+d) The uptime of security monitoring systems
+Answer: b) The time between breach and detection
+Q123. What is the primary goal of security awareness training?
+a) To teach employees to develop security tools
+b) To educate users about security risks and responsibilities
+c) To replace technical security controls
+d) To satisfy compliance requirements only
+Answer: b) To educate users about security risks and responsibilities
+Q124. What is the chain of custody in incident response?
+a) The documentation of who handled evidence and when
+b) The reporting structure in a security team
+c) The sequence of security tools in the network
+d) The process of escalating incidents
+Answer: a) The documentation of who handled evidence and when
+Q125. What is a security runbook?
+a) A list of security vulnerabilities
+b) A documented procedure for security operations tasks
+c) A physical security logbook
+d) A training manual for security personnel
+Answer: b) A documented procedure for security operations tasks
+Security Frameworks and Compliance
+Q126. Which of the following is NOT a security framework?
+a) NIST Cybersecurity Framework
+b) ISO 27001
+c) COBIT
+d) TCP/IP
+Answer: d) TCP/IP
+Q127. What is the primary purpose of the NIST Cybersecurity Framework?
+a) To enforce security regulations
+b) To provide security implementation guidelines
+c) To certify security products
+d) To replace existing security standards
+Answer: b) To provide security implementation guidelines
+Q128. What are the five core functions of the NIST Cybersecurity Framework?
+a) Identify, Protect, Detect, Respond, Recover
+b) Plan, Do, Check, Act, Monitor
+c) Assess, Implement, Monitor, Report, Improve
+d) Governance, Risk, Compliance, Operations, Architecture
+Answer: a) Identify, Protect, Detect, Respond, Recover
+Q129. Which standard focuses specifically on information security management systems?
+a) ISO 9001
+b) ISO 27001
+c) ITIL
+d) PCI DSS
+Answer: b) ISO 27001
+Q130. What does GDPR primarily regulate?
+a) Financial data security
+b) Personal data privacy and protection
+c) Industrial control systems
+d) Healthcare information
+Answer: b) Personal data privacy and protection
+Q131. Which compliance standard specifically addresses payment card security?
+a) HIPAA
+b) SOX
+c) PCI DSS
+d) FISMA
+Answer: c) PCI DSS
+Q132. What does HIPAA primarily regulate?
+a) Financial information
+b) Payment card data
+c) Protected health information
+d) Government information systems
+Answer: c) Protected health information
+Q133. What is the primary focus of SOX compliance?
+a) Healthcare data protection
+b) Financial reporting and corporate governance
+c) Payment card processing
+d) Critical infrastructure protection
+Answer: b) Financial reporting and corporate governance
+Q134. What is a security control?
+a) A safeguard to reduce security risk
+b) A government security regulation
+c) A security monitoring tool
+d) A security certification
+Answer: a) A safeguard to reduce security risk
+Q135. Which category of security controls involves people and processes rather than technology?
+a) Technical controls
+b) Administrative controls
+c) Physical controls
+d) Compensating controls
+Answer: b) Administrative controls
+Q136. What is the purpose of a risk assessment framework?
+a) To eliminate all security risks
+b) To provide a structured approach to identifying and managing risks
+c) To implement security controls
+d) To monitor security incidents
+Answer: b) To provide a structured approach to identifying and managing risks
+Q137. What does a security audit primarily verify?
+a) Security control effectiveness
+b) Employee security knowledge
+c) Network performance
+d) Software functionality
+Answer: a) Security control effectiveness
+Q138. What is the difference between a security policy and a security standard?
+a) Policies are high-level while standards are specific
+b) Standards are high-level while policies are specific
+c) Policies are mandatory while standards are optional
+d) There is no significant difference
+Answer: a) Policies are high-level while standards are specific
