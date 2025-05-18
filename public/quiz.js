@@ -1,6 +1,3 @@
-// Quiz Page JavaScript
-
-// Global state
 let selectedCategory = [];
 let incorrectQuestions = [];
 let currentQuestionIndex = 0;
@@ -22,37 +19,22 @@ const retryBtn = document.getElementById('retry-btn');
 function prepareForKatex(text) {
     if (!text) return '';
 
-    // First convert common latex-style commands if they don't have $ delimiters already
     if (text.includes('\\') && !text.includes('$')) {
         return `$${text}$`;
     }
 
     let processed = text;
-
-    // Add math delimiters to equations and math expressions that don't have them yet
     const needsDelimiters = [
-        // Equalities with variables
         /([a-zA-Z][a-zA-Z0-9]*\s*=\s*[^.,;!?<>\n]+)/g,
-
-        // Derivatives
         /([a-zA-Z]+\/[a-zA-Z]+)/g,
-
-        // Functions
         /([a-zA-Z]\s*\([a-zA-Z]\)\s*=\s*[^.,;!?<>\n]+)/g,
-
-        // Greek letters
         /\b([α-ωΑ-Ω])\b/g,
-
-        // Common math functions
         /\b(sin|cos|tan|log|ln)\s*\([^\)]+\)/g,
-
-        // Fractions
         /(\d+\/\d+)/g
     ];
 
     needsDelimiters.forEach(pattern => {
         processed = processed.replace(pattern, match => {
-            // Don't add delimiters if already within $ or $$ delimiters
             if (match.includes('$')) return match;
             return `$${match}$`;
         });
@@ -63,11 +45,10 @@ function prepareForKatex(text) {
 
 // Initialize quiz
 function initQuiz() {
-    // Get selected category from localStorage
     const cat = localStorage.getItem('selectedCategory');
+    const file = localStorage.getItem('selectedQuizFile');
 
-    if (!cat) {
-        // No category selected, redirect to categories page
+    if (!cat || !file) {
         window.location.href = 'categories.html';
         return;
     }
@@ -79,10 +60,8 @@ function initQuiz() {
 
     categoryTitle.textContent = categoryName;
 
-    // Load questions
-    loadQuestions(cat);
+    loadQuestions(cat, file);
 
-    // Set up event listeners
     submitBtn.addEventListener('click', checkAnswer);
     resetBtn.addEventListener('click', resetQuiz);
     newCategoryBtn.addEventListener('click', () => {
@@ -91,20 +70,18 @@ function initQuiz() {
     retryBtn.addEventListener('click', resetQuiz);
 }
 
-// Load questions from the selected category
-async function loadQuestions(category) {
+// Load questions
+async function loadQuestions(category, quizFile) {
     try {
         questionArea.innerHTML = '<div class="loading-spinner">Loading questions...</div>';
 
-        const res = await fetch(`/lib/${category}.json`);
+        const res = await fetch(`/lib/${category}/${quizFile}`);
 
         if (!res.ok) {
             throw new Error('Failed to load questions');
         }
 
         selectedCategory = await res.json();
-
-        // Start with all questions as incorrect
         incorrectQuestions = [...selectedCategory];
         currentQuestionIndex = 0;
         correctAnswers = 0;
@@ -123,10 +100,9 @@ async function loadQuestions(category) {
     }
 }
 
-// Render the current question
+// Render question
 function renderQuestion() {
     if (incorrectQuestions.length === 0) {
-        // All questions answered correctly
         completionMessage.style.display = 'block';
         questionArea.style.display = 'none';
         submitBtn.style.display = 'none';
@@ -139,7 +115,6 @@ function renderQuestion() {
 
     const q = incorrectQuestions[currentQuestionIndex];
 
-    // Build options HTML with proper math formatting
     const optsHtml = Object.entries(q.options).map(([key, val]) => `
     <li>
       <label>
@@ -165,7 +140,6 @@ function renderQuestion() {
 
     questionCount.textContent = `Question ${currentQuestionIndex + 1} of ${incorrectQuestions.length}`;
 
-    // Render math expressions with KaTeX
     try {
         if (typeof renderMathInElement === 'function') {
             setTimeout(() => {
@@ -183,7 +157,7 @@ function renderQuestion() {
     }
 }
 
-// Check the selected answer
+// Check answer
 function checkAnswer() {
     const selector = `input[name="q${currentQuestionIndex}"]:checked`;
     const chosen = document.querySelector(selector);
@@ -200,48 +174,37 @@ function checkAnswer() {
     if (chosen.value === correctKey) {
         feedback.innerHTML = '<p class="correct">Correct!</p>';
         correctAnswers++;
-
-        // Remove the correctly answered question from incorrectQuestions
         incorrectQuestions.splice(currentQuestionIndex, 1);
     } else {
         feedback.innerHTML = `<p class="incorrect">Incorrect! The correct answer is ${correctKey}.</p>`;
-
-        // Move to next question
         currentQuestionIndex = (currentQuestionIndex + 1) % incorrectQuestions.length;
     }
 
     updateProgress();
 
-    // Short delay before showing next question
     setTimeout(() => {
         renderQuestion();
     }, 1200);
 }
 
-// Update progress display
+// Update progress
 function updateProgress() {
     const total = selectedCategory.length;
     const pct = Math.round((correctAnswers / total) * 100);
-
     progressText.textContent = `Progress: ${pct}% (${correctAnswers}/${total})`;
 }
 
-// Reset the current quiz
+// Reset quiz
 function resetQuiz() {
-    // Reset all variables
     incorrectQuestions = [...selectedCategory];
     currentQuestionIndex = 0;
     correctAnswers = 0;
-
-    // Update UI
     updateProgress();
     renderQuestion();
-
-    // Hide completion message
     completionMessage.style.display = 'none';
     questionArea.style.display = 'block';
     submitBtn.style.display = 'block';
 }
 
-// Initialize when DOM is loaded
+// Init
 document.addEventListener('DOMContentLoaded', initQuiz);

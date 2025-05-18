@@ -10,28 +10,40 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.static('public'));
 
-// API endpoint to list JSON files
-app.get('/lib', (req, res) => {
-    fs.readdir(path.join(__dirname, 'lib'), (err, files) => {
-        if (err) {
-            console.error('Error reading lib directory:', err);
-            return res.status(500).json([]);
+// Recursively get all JSON files in a directory
+function getAllJsonFiles(dirPath, relativePath = '') {
+    let results = [];
+
+    const list = fs.readdirSync(dirPath);
+    list.forEach(file => {
+        const filePath = path.join(dirPath, file);
+        const relPath = path.join(relativePath, file);
+        const stat = fs.statSync(filePath);
+
+        if (stat && stat.isDirectory()) {
+            results = results.concat(getAllJsonFiles(filePath, relPath));
+        } else if (file.endsWith('.json')) {
+            results.push(relPath.replace(/\\/g, '/')); // Normalize Windows slashes
         }
-        res.json(files.filter(file => file.endsWith('.json')));
     });
+
+    return results;
+}
+
+// API: List all JSON files inside /lib and subfolders
+app.get('/api/quizzes', (req, res) => {
+    try {
+        const files = getAllJsonFiles(path.join(__dirname, 'lib'));
+        res.json(files); // e.g. ["math/quiz1.json", "science/physics.json"]
+    } catch (err) {
+        console.error('Error reading quiz files:', err);
+        res.status(500).json([]);
+    }
 });
 
-// Serve JSON files
-app.get('/lib/:filename', (req, res) => {
-    const filePath = path.join(__dirname, 'lib', req.params.filename);
-    res.sendFile(filePath, (err) => {
-        if (err) {
-            console.error('Error sending file:', err);
-            res.status(404).send('File not found');
-        }
-    });
-});
+// Serve static files from /lib safely
+app.use('/lib', express.static(path.join(__dirname, 'lib')));
 
 app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
+    console.log(`Server running at http://localhost:${PORT}`);
 });

@@ -1,9 +1,6 @@
-// Categories Page JavaScript
-
-// Example icons for categories (emojis paired with subjects)
 const categoryIcons = {
-  'mathematics': '🧮',
-  'science': '🔬',
+  'math': '🧮',
+  'anatomy': '🔬',
   'history': '📜',
   'literature': '📚',
   'geography': '🌎',
@@ -11,6 +8,7 @@ const categoryIcons = {
   'chemistry': '🧪',
   'biology': '🔬',
   'computer-science': '💻',
+  'it': '💻',
   'art': '🎨',
   'music': '🎵',
   'sports': '⚽',
@@ -53,18 +51,16 @@ async function populateCategories() {
   const categoriesGrid = document.getElementById('categories-grid');
 
   try {
-    const response = await fetch('/lib');
+    const response = await fetch('/lib/index.json');
 
     if (!response.ok) {
       throw new Error('Failed to load categories');
     }
 
-    const files = await response.json();
-    const categories = files
-      .filter(file => file.endsWith('.json'))
-      .map(file => file.replace('.json', ''));
+    // Assume this returns an array of folder names (category names)
+    const folders = await response.json();
 
-    if (categories.length === 0) {
+    if (!Array.isArray(folders) || folders.length === 0) {
       categoriesGrid.innerHTML = `
         <div class="category-loading">
           No categories found. Please check back later.
@@ -74,7 +70,7 @@ async function populateCategories() {
     }
 
     // Create category cards
-    categoriesGrid.innerHTML = categories.map(category => {
+    categoriesGrid.innerHTML = folders.map(category => {
       const displayName = category.replace(/-/g, ' ');
       const formattedName = displayName
         .split(' ')
@@ -95,10 +91,8 @@ async function populateCategories() {
     document.querySelectorAll('.category-card').forEach(card => {
       card.addEventListener('click', () => {
         const category = card.getAttribute('data-category');
-        // Store selected category in localStorage
         localStorage.setItem('selectedCategory', category);
-        // Navigate to the quiz page
-        window.location.href = 'quiz.html';
+        window.location.href = 'quiz-list.html'; // Navigate to quiz list
       });
     });
 
