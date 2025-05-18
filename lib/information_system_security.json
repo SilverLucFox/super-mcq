@@ -1,0 +1,778 @@
+[
+  {
+    "question": "What are the two main steps in user authentication?",
+    "options": {
+      "a": "Authorization and access",
+      "b": "Identification and verification",
+      "c": "Encryption and decryption",
+      "d": "Tokenization and validation"
+    },
+    "answer": "b) Identification and verification"
+  },
+  {
+    "question": "Which standard defines an identity authentication framework?",
+    "options": {
+      "a": "FIPS 140-2",
+      "b": "ISO 27001",
+      "c": "NIST SP 800-63-2",
+      "d": "RFC 5280"
+    },
+    "answer": "c) NIST SP 800-63-2"
+  },
+  {
+    "question": "Which of the following is a major weakness of passwords?",
+    "options": {
+      "a": "They are expensive",
+      "b": "They cannot be encrypted",
+      "c": "They are easy to remember",
+      "d": "They can be reused and guessed"
+    },
+    "answer": "d) They can be reused and guessed"
+  },
+  {
+    "question": "What is the purpose of password salting?",
+    "options": {
+      "a": "To simplify password storage",
+      "b": "To prevent brute force attacks",
+      "c": "To protect against precomputed hash attacks",
+      "d": "To replace encryption"
+    },
+    "answer": "c) To protect against precomputed hash attacks"
+  },
+  {
+    "question": "Which of the following is a physical token?",
+    "options": {
+      "a": "Username",
+      "b": "Smart card",
+      "c": "OTP",
+      "d": "Biometric"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which token type only stores data and lacks processing capability?",
+    "options": {
+      "a": "Smart card",
+      "b": "Hardware OTP",
+      "c": "Memory card",
+      "d": "Magnetic badge"
+    },
+    "answer": "c) Memory card"
+  },
+  {
+    "question": "Which biometric method is considered static?",
+    "options": {
+      "a": "Voice",
+      "b": "Typing rhythm",
+      "c": "Iris scan",
+      "d": "Keystroke dynamics"
+    },
+    "answer": "c) Iris scan"
+  },
+  {
+    "question": "What does FAR stand for in biometric systems?",
+    "options": {
+      "a": "Failed Authentication Rate",
+      "b": "False Acceptance Rate",
+      "c": "Face Accuracy Ratio",
+      "d": "Fingerprint Authentication Range"
+    },
+    "answer": "b) False Acceptance Rate"
+  },
+  {
+    "question": "What is the main purpose of a challenge-response protocol?",
+    "options": {
+      "a": "Encryption of emails",
+      "b": "Avoid replay attacks",
+      "c": "Prevent brute-force attempts",
+      "d": "Transfer data"
+    },
+    "answer": "b) Avoid replay attacks"
+  },
+  {
+    "question": "Remote user authentication is particularly vulnerable to:",
+    "options": {
+      "a": "Social engineering",
+      "b": "Phishing",
+      "c": "Eavesdropping and replay"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which authentication method uses OTPs?",
+    "options": {
+      "a": "Password-based",
+      "b": "Token-based",
+      "c": "Biometric",
+      "d": "Firewall-based"
+    },
+    "answer": "b) Token-based"
+  },
+  {
+    "question": "What is the purpose of using CAPTCHA in authentication?",
+    "options": {
+      "a": "Encrypt user credentials",
+      "b": "Prevent automated bot attacks",
+      "c": "Track user sessions",
+      "d": "Create session tokens"
+    },
+    "answer": "b) Prevent automated bot attacks"
+  },
+  {
+    "question": "Which of these is NOT a behavioral biometric?",
+    "options": {
+      "a": "Voice recognition",
+      "b": "Keystroke pattern",
+      "c": "Iris scan",
+      "d": "Typing rhythm"
+    },
+    "answer": "c) Iris scan"
+  },
+  {
+    "question": "What combination is typically used in ATM authentication?",
+    "options": {
+      "a": "Token and biometric",
+      "b": "Token and password",
+      "c": "Password and CAPTCHA",
+      "d": "Password and OTP"
+    },
+    "answer": "b) Token and password"
+  },
+  {
+    "question": "What is skimming in the context of ATM attacks?",
+    "options": {
+      "a": "Unauthorized withdrawals",
+      "b": "Card duplication through hidden readers"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which authentication method has the highest user resistance?",
+    "options": {
+      "a": "Password",
+      "b": "Biometric",
+      "c": "Token",
+      "d": "OTP"
+    },
+    "answer": "b) Biometric"
+  },
+  {
+    "question": "Equal Error Rate (EER) in biometrics refers to the point where:",
+    "options": {
+      "a": "FRR equals FAR",
+      "b": "FRR is lowest",
+      "c": "FAR is zero",
+      "d": "EER is irrelevant"
+    },
+    "answer": "a) FRR equals FAR"
+  },
+  {
+    "question": "What is one benefit of multi-factor authentication?",
+    "options": {
+      "a": "Requires only passwords",
+      "b": "Enhances system speed",
+      "c": "Combines different authentication factors",
+      "d": "Avoids encryption"
+    },
+    "answer": "c) Combines different authentication factors"
+  },
+  {
+    "question": "Which principle improves user authentication security?",
+    "options": {
+      "a": "Open authentication",
+      "b": "Single-factor enforcement",
+      "c": "Least privilege",
+      "d": "Defense in depth"
+    },
+    "answer": "d) Defense in depth"
+  },
+  {
+    "question": "A good biometric system should be:",
+    "options": {
+      "a": "High FAR and low FRR"
+    },
+    "answer": ""
+  },
+  {
+    "question": "What does Access Control primarily regulate?",
+    "options": {
+      "a": "Data encryption",
+      "b": "User authentication",
+      "c": "Network speed",
+      "d": "Access to resources"
+    },
+    "answer": "d) Access to resources"
+  },
+  {
+    "question": "In access control, a 'subject' refers to:",
+    "options": {
+      "a": "The data being protected",
+      "b": "The user or process requesting access",
+      "c": "The administrator",
+      "d": "The server"
+    },
+    "answer": "b) The user or process requesting access"
+  },
+  {
+    "question": "What model uses an Access Control Matrix?",
+    "options": {
+      "a": "MAC",
+      "b": "RBAC",
+      "c": "DAC",
+      "d": "ABAC"
+    },
+    "answer": "c) DAC"
+  },
+  {
+    "question": "Which access control model lets owners grant permissions?",
+    "options": {
+      "a": "RBAC",
+      "b": "MAC",
+      "c": "ABAC",
+      "d": "DAC"
+    },
+    "answer": "d) DAC"
+  },
+  {
+    "question": "In UNIX file systems, which permission allows program execution?",
+    "options": {
+      "a": "r",
+      "b": "w",
+      "c": "x",
+      "d": "e"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which UNIX permission bit grants elevated privileges to a program?",
+    "options": {
+      "a": "Sticky bit",
+      "b": "SUID",
+      "c": "ACL",
+      "d": "SGID"
+    },
+    "answer": "b) SUID"
+  },
+  {
+    "question": "What does RBAC stand for?",
+    "options": {
+      "a": "Restricted-Based Access Control",
+      "b": "Role-Based Access Control",
+      "c": "Remote-Based Access Control",
+      "d": "Rights-Based Access Control"
+    },
+    "answer": "b) Role-Based Access Control"
+  },
+  {
+    "question": "Which feature is unique to RBAC1?",
+    "options": {
+      "a": "Session constraints",
+      "b": "Role hierarchies",
+      "c": "Dynamic policies",
+      "d": "Object tagging"
+    },
+    "answer": "b) Role hierarchies"
+  },
+  {
+    "question": "ABAC policies are based on:",
+    "options": {
+      "a": "IP addresses",
+      "b": "User passwords",
+      "c": "Attributes",
+      "d": "Manual overrides"
+    },
+    "answer": "c) Attributes"
+  },
+  {
+    "question": "Which of the following is an example of an environmental attribute in ABAC?",
+    "options": {
+      "a": "User ID",
+      "b": "File type",
+      "c": "Access time"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which model is most dynamic and fine-grained?",
+    "options": {
+      "a": "RBAC",
+      "b": "DAC",
+      "c": "ABAC",
+      "d": "MAC"
+    },
+    "answer": "c) ABAC"
+  },
+  {
+    "question": "ICAM integrates identity, credential, and:",
+    "options": {
+      "a": "Authorization",
+      "b": "Access",
+      "c": "Administration",
+      "d": "Authentication"
+    },
+    "answer": "b) Access"
+  },
+  {
+    "question": "What does ICAM help support?",
+    "options": {
+      "a": "SaaS",
+      "b": "Single Sign-On",
+      "c": "Smart cards",
+      "d": "Encryption"
+    },
+    "answer": "b) Single Sign-On"
+  },
+  {
+    "question": "In RBAC, roles are:",
+    "options": {
+      "a": "Randomly assigned",
+      "b": "Directly assigned to objects",
+      "c": "Mapped to permissions",
+      "d": "Only used for logins"
+    },
+    "answer": "c) Mapped to permissions"
+  },
+  {
+    "question": "Which access control model does NOT allow user-defined permissions?",
+    "options": {
+      "a": "MAC",
+      "b": "DAC"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Trust Frameworks are designed to:",
+    "options": {
+      "a": "Encrypt data",
+      "b": "Create ACLs",
+      "c": "Standardize identity exchange",
+      "d": "Manage tokens"
+    },
+    "answer": "c) Standardize identity exchange"
+  },
+  {
+    "question": "Which type of access control list is subject-centric?",
+    "options": {
+      "a": "Token list",
+      "b": "RBAC group",
+      "c": "Capability list",
+      "d": "Extended ACL"
+    },
+    "answer": "c) Capability list"
+  },
+  {
+    "question": "Which model is best suited for highly confidential military systems?",
+    "options": {
+      "a": "RBAC",
+      "b": "MAC",
+      "c": "DAC",
+      "d": "ABAC"
+    },
+    "answer": "b) MAC"
+  },
+  {
+    "question": "What does SUID allow in UNIX?",
+    "options": {
+      "a": "Run program as file owner",
+      "b": "Encrypt data",
+      "c": "Launch processes automatically",
+      "d": "Change directory access"
+    },
+    "answer": "a) Run program as file owner"
+  },
+  {
+    "question": "What is the purpose of the Access Control Matrix?",
+    "options": {
+      "a": "Track user passwords"
+    },
+    "answer": ""
+  },
+  {
+    "question": "What does symmetric encryption use for both encryption and decryption?",
+    "options": {
+      "a": "Different keys",
+      "b": "Public key only",
+      "c": "Same key",
+      "d": "Password"
+    },
+    "answer": "c) Same key"
+  },
+  {
+    "question": "Which of the following is a block cipher?",
+    "options": {
+      "a": "RC4",
+      "b": "AES",
+      "c": "SHA-256",
+      "d": "HMAC"
+    },
+    "answer": "b) AES"
+  },
+  {
+    "question": "What is the key size used by DES?",
+    "options": {
+      "a": "64 bits",
+      "b": "128 bits",
+      "c": "56 bits",
+      "d": "192 bits"
+    },
+    "answer": "c) 56 bits"
+  },
+  {
+    "question": "What is the main limitation of DES today?",
+    "options": {
+      "a": "Too fast",
+      "b": "Too large block size",
+      "c": "Insecure algorithm",
+      "d": "Short key length"
+    },
+    "answer": "d) Short key length"
+  },
+  {
+    "question": "Triple DES (3DES) performs how many DES operations?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which encryption standard replaced DES?",
+    "options": {
+      "a": "AES",
+      "b": "RSA",
+      "c": "RC4",
+      "d": "SHA"
+    },
+    "answer": "a) AES"
+  },
+  {
+    "question": "What is the block size of AES?",
+    "options": {
+      "a": "56 bits",
+      "b": "64 bits",
+      "c": "128 bits",
+      "d": "256 bits"
+    },
+    "answer": "c) 128 bits"
+  },
+  {
+    "question": "Which cipher is known as a stream cipher?",
+    "options": {
+      "a": "AES",
+      "b": "3DES",
+      "c": "RC4",
+      "d": "SHA-1"
+    },
+    "answer": "c) RC4"
+  },
+  {
+    "question": "Which mode encrypts each block independently?",
+    "options": {
+      "a": "CBC",
+      "b": "OFB",
+      "c": "ECB",
+      "d": "CTR"
+    },
+    "answer": "c) ECB"
+  },
+  {
+    "question": "Which mode of operation uses XOR with the previous ciphertext block?",
+    "options": {
+      "a": "ECB",
+      "b": "CBC",
+      "c": "OFB"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which mode allows parallel processing of blocks?",
+    "options": {
+      "a": "ECB",
+      "b": "CBC",
+      "c": "CTR",
+      "d": "CFB"
+    },
+    "answer": "c) CTR"
+  },
+  {
+    "question": "What is a key advantage of stream ciphers?",
+    "options": {
+      "a": "Slow speed",
+      "b": "High storage needs",
+      "c": "High processing power",
+      "d": "Fast and lightweight"
+    },
+    "answer": "d) Fast and lightweight"
+  },
+  {
+    "question": "What is the purpose of the initialization vector (IV)?",
+    "options": {
+      "a": "To act as the key",
+      "b": "To ensure unique ciphertext",
+      "c": "To increase speed",
+      "d": "To simplify padding"
+    },
+    "answer": "b) To ensure unique ciphertext"
+  },
+  {
+    "question": "Which mode converts a block cipher into a stream cipher?",
+    "options": {
+      "a": "CBC",
+      "b": "CTR",
+      "c": "OFB",
+      "d": "ECB"
+    },
+    "answer": "c) OFB"
+  },
+  {
+    "question": "Which of the following is NOT a symmetric cipher?",
+    "options": {
+      "a": "AES",
+      "b": "DES"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Key distribution is a challenge because:",
+    "options": {
+      "a": "Keys are public",
+      "b": "It requires a secure method",
+      "c": "Symmetric keys are dynamic",
+      "d": "Keys expire quickly"
+    },
+    "answer": "b) It requires a secure method"
+  },
+  {
+    "question": "Which mode is vulnerable if the same plaintext block is repeated?",
+    "options": {
+      "a": "CBC",
+      "b": "CTR",
+      "c": "ECB",
+      "d": "OFB"
+    },
+    "answer": "c) ECB"
+  },
+  {
+    "question": "Which stream cipher had flaws in WEP?",
+    "options": {
+      "a": "AES",
+      "b": "DES",
+      "c": "RC4",
+      "d": "RSA"
+    },
+    "answer": "c) RC4"
+  },
+  {
+    "question": "Session keys are used to:",
+    "options": {
+      "a": "Permanently replace master keys",
+      "b": "Encrypt all past communications",
+      "c": "Secure short-term sessions",
+      "d": "Avoid using IVs"
+    },
+    "answer": "c) Secure short-term sessions"
+  },
+  {
+    "question": "Feistel networks are used in which algorithm?",
+    "options": {
+      "a": "AES"
+    },
+    "answer": ""
+  },
+  {
+    "question": "What is the main advantage of public-key cryptography over symmetric encryption?",
+    "options": {
+      "a": "Faster encryption",
+      "b": "Smaller key sizes",
+      "c": "No need to share secret keys",
+      "d": "Uses block ciphers"
+    },
+    "answer": "c) No need to share secret keys"
+  },
+  {
+    "question": "Which algorithm is commonly used for public-key encryption?",
+    "options": {
+      "a": "AES",
+      "b": "RC4",
+      "c": "RSA",
+      "d": "SHA-256"
+    },
+    "answer": "c) RSA"
+  },
+  {
+    "question": "In RSA, what does the private key consist of?",
+    "options": {
+      "a": "e and n",
+      "b": "Only e",
+      "c": "d and n",
+      "d": "p and q"
+    },
+    "answer": "c) d and n"
+  },
+  {
+    "question": "What does SHA-3 offer over SHA-1 and SHA-2?",
+    "options": {
+      "a": "Less security",
+      "b": "Same performance",
+      "c": "Different hash structure with better resistance",
+      "d": "Larger block size"
+    },
+    "answer": "c) Different hash structure with better resistance"
+  },
+  {
+    "question": "Which of the following is a key property of secure hash functions?",
+    "options": {
+      "a": "Low processing time",
+      "b": "Collision resistance",
+      "c": "Small key size",
+      "d": "Support for encryption"
+    },
+    "answer": ""
+  },
+  {
+    "question": "What is the purpose of HMAC?",
+    "options": {
+      "a": "Encrypt messages",
+      "b": "Sign messages",
+      "c": "Authenticate and verify integrity",
+      "d": "Generate random keys"
+    },
+    "answer": "c) Authenticate and verify integrity"
+  },
+  {
+    "question": "HMAC combines a hash function with:",
+    "options": {
+      "a": "Padding",
+      "b": "Encryption",
+      "c": "Private key",
+      "d": "Secret key"
+    },
+    "answer": "d) Secret key"
+  },
+  {
+    "question": "What is the modulus 'n' in RSA derived from?",
+    "options": {
+      "a": "Two random numbers",
+      "b": "A hash of the message",
+      "c": "A shared key",
+      "d": "Product of two primes"
+    },
+    "answer": "d) Product of two primes"
+  },
+  {
+    "question": "What is the role of the private key in a digital signature?",
+    "options": {
+      "a": "To decrypt the message",
+      "b": "To encrypt the hash to create a signature",
+      "c": "To verify authenticity",
+      "d": "To generate a MAC"
+    },
+    "answer": "b) To encrypt the hash to create a signature"
+  },
+  {
+    "question": "Which standard defines digital signature methods?",
+    "options": {
+      "a": "DES",
+      "b": "DSS",
+      "c": "MAC"
+    },
+    "answer": ""
+  },
+  {
+    "question": "Which key exchange protocol does not provide authentication by itself?",
+    "options": {
+      "a": "RSA",
+      "b": "TLS",
+      "c": "Diffie-Hellman",
+      "d": "AES"
+    },
+    "answer": "c) Diffie-Hellman"
+  },
+  {
+    "question": "What kind of attack is Diffie-Hellman vulnerable to without authentication?",
+    "options": {
+      "a": "Phishing",
+      "b": "Collision",
+      "c": "Man-in-the-middle",
+      "d": "Replay"
+    },
+    "answer": "c) Man-in-the-middle"
+  },
+  {
+    "question": "What does ECC offer over RSA?",
+    "options": {
+      "a": "Slower performance",
+      "b": "Larger key sizes",
+      "c": "Better encryption",
+      "d": "Smaller keys for same security"
+    },
+    "answer": "d) Smaller keys for same security"
+  },
+  {
+    "question": "What is the main purpose of a digital signature?",
+    "options": {
+      "a": "Encrypt files",
+      "b": "Verify data integrity and authenticity",
+      "c": "Hash data",
+      "d": "Transmit public keys"
+    },
+    "answer": "b) Verify data integrity and authenticity"
+  },
+  {
+    "question": "What does SHA stand for?",
+    "options": {
+      "a": "Secure Hash Algorithm",
+      "b": "Standard Hash Application"
+    },
+    "answer": ""
+  },
+  {
+    "question": "What ensures that a message hasn't been tampered with?",
+    "options": {
+      "a": "Encryption",
+      "b": "MAC or hash",
+      "c": "Digital signature",
+      "d": "Session key"
+    },
+    "answer": "b) MAC or hash"
+  },
+  {
+    "question": "A collision in a hash function means:",
+    "options": {
+      "a": "The hash is too long",
+      "b": "Same hash for two inputs",
+      "c": "The message is secure",
+      "d": "Hash is random"
+    },
+    "answer": "b) Same hash for two inputs"
+  },
+  {
+    "question": "Which of the following is asymmetric?",
+    "options": {
+      "a": "AES",
+      "b": "RC4",
+      "c": "RSA",
+      "d": "HMAC"
+    },
+    "answer": "c) RSA"
+  },
+  {
+    "question": "Which algorithm allows two users to agree on a key over an insecure channel?",
+    "options": {
+      "a": "RSA",
+      "b": "AES",
+      "c": "Diffie-Hellman",
+      "d": "SHA-256"
+    },
+    "answer": "c) Diffie-Hellman"
+  },
+  {
+    "question": "Which hashing algorithm is the newest standard?",
+    "options": {
+      "a": "SHA-1"
+    },
+    "answer": ""
+  }
+]
