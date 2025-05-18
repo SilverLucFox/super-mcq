@@ -1,0 +1,402 @@
+[
+  {
+    "question": "How many categories are typically recognized in new product development?",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "c) 6"
+  },
+  {
+    "question": "What do we mean by \"cannibalization\" in marketing?",
+    "options": {
+      "a": "Aggressive competitive tactics that destroy market share",
+      "b": "When a new product takes sales from an existing product within the same company",
+      "c": "The process of discontinuing older product lines",
+      "d": "Selling products at extremely low margins to gain market share"
+    },
+    "answer": "b) When a new product takes sales from an existing product within the same company"
+  },
+  {
+    "question": "Which of the following is NOT one of the 7 stages of new product development?",
+    "options": {
+      "a": "Idea generation",
+      "b": "Business analysis",
+      "c": "Price optimization",
+      "d": "Market testing"
+    },
+    "answer": "c) Price optimization"
+  },
+  {
+    "question": "What is the first stage in the new product development process?",
+    "options": {
+      "a": "Concept testing",
+      "b": "Idea generation",
+      "c": "Business analysis",
+      "d": "Product development"
+    },
+    "answer": "b) Idea generation"
+  },
+  {
+    "question": "Which source of idea generation is considered an internal source?",
+    "options": {
+      "a": "Customers",
+      "b": "Competitors",
+      "c": "Employees",
+      "d": "Suppliers"
+    },
+    "answer": "c) Employees"
+  },
+  {
+    "question": "What is brand equity?",
+    "options": {
+      "a": "The financial value of a brand listed on a company's balance sheet",
+      "b": "The added value a brand gives to a product beyond its functional benefits",
+      "c": "The percentage of market share a brand controls",
+      "d": "The legal protection offered by a trademark"
+    },
+    "answer": "b) The added value a brand gives to a product beyond its functional benefits"
+  },
+  {
+    "question": "Which of the following is NOT an element of brand equity?",
+    "options": {
+      "a": "Brand awareness",
+      "b": "Brand loyalty",
+      "c": "Brand positioning",
+      "d": "Brand associations"
+    },
+    "answer": "c) Brand positioning"
+  },
+  {
+    "question": "What do we mean by \"rebranding\"?",
+    "options": {
+      "a": "Creating a completely new product line",
+      "b": "Changing a product's target market",
+      "c": "The process of changing a brand's identity, including name, logo, or positioning",
+      "d": "Updating a product's packaging"
+    },
+    "answer": "c) The process of changing a brand's identity, including name, logo, or positioning"
+  },
+  {
+    "question": "What is a key characteristic of successful brand messaging?",
+    "options": {
+      "a": "Frequency",
+      "b": "Complexity",
+      "c": "Consistency",
+      "d": "Volume"
+    },
+    "answer": "c) Consistency"
+  },
+  {
+    "question": "What is brand image?",
+    "options": {
+      "a": "The visual elements of a brand such as logo and colors",
+      "b": "The set of perceptions and beliefs held by consumers about a brand",
+      "c": "A brand's advertising photography",
+      "d": "The way a company wants consumers to perceive its brand"
+    },
+    "answer": "b) The set of perceptions and beliefs held by consumers about a brand"
+  },
+  {
+    "question": "What is Integrated Marketing Communication?",
+    "options": {
+      "a": "Using only digital platforms for marketing",
+      "b": "Coordinating all promotional tools to deliver a consistent message",
+      "c": "Combining sales and marketing departments",
+      "d": "Centralizing all marketing decisions"
+    },
+    "answer": "b) Coordinating all promotional tools to deliver a consistent message"
+  },
+  {
+    "question": "Which of the following is NOT part of the traditional promotion mix?",
+    "options": {
+      "a": "Advertising",
+      "b": "Personal selling",
+      "c": "Price discounting",
+      "d": "Public relations"
+    },
+    "answer": "c) Price discounting"
+  },
+  {
+    "question": "What do we call tracking conversations about brands across social platforms to gather insights?",
+    "options": {
+      "a": "Social media marketing",
+      "b": "Social media monitoring/listening",
+      "c": "Social media analytics",
+      "d": "Social media engagement"
+    },
+    "answer": "b) Social media monitoring/listening"
+  },
+  {
+    "question": "What is paid media?",
+    "options": {
+      "a": "Any marketing channel that requires payment for placement",
+      "b": "Television advertising only",
+      "c": "Influencer partnerships",
+      "d": "Content creation costs"
+    },
+    "answer": "a) Any marketing channel that requires payment for placement"
+  },
+  {
+    "question": "What is the \"First Moment of Truth\"?",
+    "options": {
+      "a": "When a customer first sees an advertisement",
+      "b": "The critical instance when a consumer encounters a product and makes a purchase decision",
+      "c": "The moment a brand is launched",
+      "d": "The first customer complaint"
+    },
+    "answer": "b) The critical instance when a consumer encounters a product and makes a purchase decision"
+  },
+  {
+    "question": "What is prestige pricing?",
+    "options": {
+      "a": "Pricing products at a premium to maximize profit",
+      "b": "Setting high prices to convey quality and exclusivity",
+      "c": "Adjusting prices based on customer demographics",
+      "d": "Pricing below competitors to gain market share"
+    },
+    "answer": "b) Setting high prices to convey quality and exclusivity"
+  },
+  {
+    "question": "Which formula correctly calculates revenue?",
+    "options": {
+      "a": "Price \u00d7 Quantity - Costs",
+      "b": "Price \u00d7 Quantity",
+      "c": "(Price - Cost) \u00d7 Quantity",
+      "d": "Price \u00d7 Quantity \u00d7 Time"
+    },
+    "answer": "b) Price \u00d7 Quantity"
+  },
+  {
+    "question": "What is calculated in a breakeven analysis?",
+    "options": {
+      "a": "The profit margin of each product",
+      "b": "The volume of sales needed to cover all costs before generating profit",
+      "c": "The time needed to recoup initial investment",
+      "d": "The market share required for profitability"
+    },
+    "answer": "b) The volume of sales needed to cover all costs before generating profit"
+  },
+  {
+    "question": "What is a supply chain?",
+    "options": {
+      "a": "The physical transportation of goods",
+      "b": "The network involved in delivering a product from supplier to customer",
+      "c": "The chain of command in logistics operations",
+      "d": "The sequence of warehouses used for storing products"
+    },
+    "answer": "b) The network involved in delivering a product from supplier to customer"
+  },
+  {
+    "question": "What is the key difference between push and pull strategy?",
+    "options": {
+      "a": "Push focuses on promotion while pull focuses on product",
+      "b": "Push moves products toward consumers while pull creates demand that pulls products through channels",
+      "c": "Push is for B2B markets while pull is for consumer markets",
+      "d": "Push is offline marketing while pull is online marketing"
+    },
+    "answer": "b) Push moves products toward consumers while pull creates demand that pulls products through channels"
+  },
+  {
+    "question": "What does the supply chain primarily provide to end customers?",
+    "options": {
+      "a": "Products only",
+      "b": "Services only",
+      "c": "Value",
+      "d": "Information"
+    },
+    "answer": "c) Value"
+  },
+  {
+    "question": "What is a primary goal of sales promotion?",
+    "options": {
+      "a": "Building brand image",
+      "b": "Generating immediate sales",
+      "c": "Market research",
+      "d": "Long-term customer relationships"
+    },
+    "answer": "b) Generating immediate sales"
+  },
+  {
+    "question": "Which is a characteristic of outdoor advertising?",
+    "options": {
+      "a": "Detailed messaging",
+      "b": "High targeting precision",
+      "c": "High visibility",
+      "d": "Low initial cost"
+    },
+    "answer": "c) High visibility"
+  },
+  {
+    "question": "How can companies reduce risk for new product failure?",
+    "options": {
+      "a": "Rushing to market to beat competitors",
+      "b": "Thorough market research and concept testing",
+      "c": "Reducing marketing budgets",
+      "d": "Copying successful competitor products"
+    },
+    "answer": "b) Thorough market research and concept testing"
+  },
+  {
+    "question": "What is social media marketing?",
+    "options": {
+      "a": "Using social platforms to connect with audiences and build brand",
+      "b": "Paid advertising on Facebook only",
+      "c": "Creating viral content",
+      "d": "Monitoring competitor social accounts"
+    },
+    "answer": "a) Using social platforms to connect with audiences and build brand"
+  },
+  {
+    "question": "What is market segmentation?",
+    "options": {
+      "a": "Dividing a market into distinct groups with similar needs",
+      "b": "Targeting the largest available market",
+      "c": "Focusing only on the most profitable customers",
+      "d": "The process of entering new markets"
+    },
+    "answer": "a) Dividing a market into distinct groups with similar needs"
+  },
+  {
+    "question": "Which of the following is an example of demographic segmentation?",
+    "options": {
+      "a": "Personality traits",
+      "b": "Geographic location",
+      "c": "Age and income",
+      "d": "Purchase behavior"
+    },
+    "answer": "c) Age and income"
+  },
+  {
+    "question": "What is a marketing channel?",
+    "options": {
+      "a": "A television network that broadcasts advertisements",
+      "b": "A set of organizations involved in the process of making a product available for use",
+      "c": "A company's sales force",
+      "d": "The marketing department of an organization"
+    },
+    "answer": "b) A set of organizations involved in the process of making a product available for use"
+  },
+  {
+    "question": "What is the marketing mix?",
+    "options": {
+      "a": "The blend of promotional tools used in a campaign",
+      "b": "The 4Ps: product, price, place, and promotion",
+      "c": "The combination of target markets a company serves",
+      "d": "The mix of employees in a marketing department"
+    },
+    "answer": "b) The 4Ps: product, price, place, and promotion"
+  },
+  {
+    "question": "What is a SWOT analysis used for in marketing?",
+    "options": {
+      "a": "Calculating return on investment",
+      "b": "Evaluating strengths, weaknesses, opportunities, and threats",
+      "c": "Measuring customer satisfaction",
+      "d": "Determining product pricing"
+    },
+    "answer": "b) Evaluating strengths, weaknesses, opportunities, and threats"
+  },
+  {
+    "question": "What is market penetration?",
+    "options": {
+      "a": "Entering a new market segment",
+      "b": "Increasing sales of existing products in existing markets",
+      "c": "Developing new products for new markets",
+      "d": "Acquiring competitors"
+    },
+    "answer": "b) Increasing sales of existing products in existing markets"
+  },
+  {
+    "question": "What is positioning in marketing?",
+    "options": {
+      "a": "Where products are placed on store shelves",
+      "b": "Creating a distinct image in consumers' minds relative to competing products",
+      "c": "Determining the geographic markets to enter",
+      "d": "Setting a product's price"
+    },
+    "answer": "b) Creating a distinct image in consumers' minds relative to competing products"
+  },
+  {
+    "question": "What is customer lifetime value (CLV)?",
+    "options": {
+      "a": "The total worth of a customer's purchases over their lifetime",
+      "b": "How long a customer uses a product before replacing it",
+      "c": "The cost of acquiring a new customer",
+      "d": "The length of time a customer remains loyal to a brand"
+    },
+    "answer": "a) The total worth of a customer's purchases over their lifetime"
+  },
+  {
+    "question": "What is a value proposition?",
+    "options": {
+      "a": "The price-quality relationship of a product",
+      "b": "The clear statement of benefits a product provides to customers",
+      "c": "The financial value of a brand",
+      "d": "The profit margin of a product"
+    },
+    "answer": "b) The clear statement of benefits a product provides to customers"
+  },
+  {
+    "question": "What is guerrilla marketing?",
+    "options": {
+      "a": "Aggressive competitive tactics",
+      "b": "Unconventional, low-cost marketing tactics to maximize exposure",
+      "c": "Military-themed advertising campaigns",
+      "d": "Marketing that targets competitors' customers"
+    },
+    "answer": "b) Unconventional, low-cost marketing tactics to maximize exposure"
+  },
+  {
+    "question": "Which pricing strategy involves setting an artificially high price and then offering a discount?",
+    "options": {
+      "a": "Penetration pricing",
+      "b": "Premium pricing",
+      "c": "Price skimming",
+      "d": "High-low pricing"
+    },
+    "answer": "d) High-low pricing"
+  },
+  {
+    "question": "What is relationship marketing?",
+    "options": {
+      "a": "Marketing to family members of existing customers",
+      "b": "Creating strategic partnerships with other businesses",
+      "c": "Focusing on building long-term customer relationships rather than individual transactions",
+      "d": "Marketing romantic products and services"
+    },
+    "answer": "c) Focusing on building long-term customer relationships rather than individual transactions"
+  },
+  {
+    "question": "What is market share?",
+    "options": {
+      "a": "The percentage of a market controlled by a particular company or product",
+      "b": "The total size of a market in monetary terms",
+      "c": "The profitability of a market segment",
+      "d": "The number of companies competing in a market"
+    },
+    "answer": "a) The percentage of a market controlled by a particular company or product"
+  },
+  {
+    "question": "What is the difference between B2B and B2C marketing?",
+    "options": {
+      "a": "B2B is online while B2C is offline",
+      "b": "B2B targets businesses while B2C targets individual consumers",
+      "c": "B2B is for products while B2C is for services",
+      "d": "B2B is domestic while B2C is international"
+    },
+    "answer": "b) B2B targets businesses while B2C targets individual consumers"
+  },
+  {
+    "question": "What is content marketing?",
+    "options": {
+      "a": "Creating and distributing valuable content to attract a target audience",
+      "b": "Measuring the content of marketing materials",
+      "c": "Marketing that focuses on product features",
+      "d": "Advertising that contains explicit product information"
+    },
+    "answer": "a) Creating and distributing valuable content to attract a target audience"
+  }
+]
