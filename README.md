@@ -133,10 +133,6 @@ if __name__ == "__main__":
 
 ## 🌐 Web Interface Features
 
-### ✅ Dynamic Category Loading
-
-- Automatically detects all JSON files in `/lib`
-- Dropdown selector for available question banks
 
 ### 💡 Smart Question Handling
 
