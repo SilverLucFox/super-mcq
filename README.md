@@ -71,11 +71,11 @@ Answer: b
 
 ---
 
-### 2. Run the Game
+### 2. Run
 
 ```bash
 npm install
-node server.js
+npm start
 ```
 
 Then open: [http://localhost:3000](http://localhost:3000)
