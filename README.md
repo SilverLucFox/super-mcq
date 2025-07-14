@@ -193,8 +193,6 @@ def txt_to_json(input_file, output_file):
     print(f"✔️ Converted {len(questions)} questions to {output_file}")
 ```
 
-````
-
 ---
 
 ## 🌐 Web Interface Features
@@ -251,7 +249,7 @@ def txt_to_json(input_file, output_file):
 - **Progressive Enhancement** - Works without JavaScript for basic functionality
 
 ### Data Structure
-```json
+````json
 {
   "question": "What is the capital of France?",
   "options": {
